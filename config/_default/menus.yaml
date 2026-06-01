@@ -1,0 +1,15 @@
+# Navigation Links
+
+main:
+  - name: 基本信息
+    url: /
+    weight: 10
+  - name: 科研情况
+    url: /research/
+    weight: 20
+  - name: 教学情况
+    url: /teaching/
+    weight: 30
+  - name: English CV
+    url: /en/
+    weight: 40

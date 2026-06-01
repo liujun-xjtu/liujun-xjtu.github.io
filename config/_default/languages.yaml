@@ -1,0 +1,15 @@
+# Languages
+
+zh:
+  locale: zh-Hans
+  contentDir: content/zh
+  title: 刘均 | 西安交通大学
+  params:
+    description: 刘均教授个人主页 - 西安交通大学计算机学院
+
+en:
+  locale: en-us
+  contentDir: content/en
+  title: Jun Liu | XJTU
+  params:
+    description: Prof. Jun Liu - School of Computer Science, Xi'an Jiaotong University
