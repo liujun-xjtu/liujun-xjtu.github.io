@@ -2,6 +2,7 @@ name: Build
 
 env:
   NODE_VERSION: '22'
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 on:
   # Standalone trigger for PR validation
@@ -81,8 +82,11 @@ jobs:
       run: |
         # Install Tailwind CLI if package.json exists
         if [ -f "package.json" ]; then
-          echo "Installing Tailwind dependencies..."
-          pnpm install --no-frozen-lockfile || npm install
+          echo "=== Installing with pnpm ==="
+          pnpm install --no-frozen-lockfile 2>&1 || true
+          echo "=== Checking @tailwindcss/cli ==="
+          node -e "require.resolve('@tailwindcss/cli/package.json')" && echo "Tailwind CLI found" || echo "Tailwind CLI not found"
+          ls node_modules/@tailwindcss/cli/package.json 2>&1 || true
         fi
 
     - name: Verify Tailwind CSS dependency
@@ -131,8 +135,14 @@ jobs:
         HUGO_ENVIRONMENT: production
         HUGO_BLOX_LICENSE: ${{ secrets.HUGO_BLOX_LICENSE }}
       run: |
-        echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
-        hugo --minify
+        echo "=== Hugo version ==="
+        hugo version
+        echo "=== Hugo config ==="
+        hugo config
+        echo "=== Hugo modules ==="
+        hugo mod graph || true
+        echo "=== Building ==="
+        hugo --minify --logLevel info
 
     - name: Generate Pagefind search index (if applicable)
       run: |
