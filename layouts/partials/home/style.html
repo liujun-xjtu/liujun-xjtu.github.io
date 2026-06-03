@@ -1,0 +1,57 @@
+<style>
+/* Soft background - override theme */
+body{background:#f9f8f6!important}
+.hbb-section{background:transparent}
+.hbb-section{padding:1.5rem 0}
+/* 2-column profile layout */
+.pw{display:flex;gap:2.5rem;max-width:1200px;margin:0 auto;padding:0 1.5rem}
+.pl{flex:0 0 260px;margin-left:-0.5rem}
+.pr{flex:1;min-width:0}
+/* Avatar */
+.av{width:180px;height:225px;border-radius:.75rem;object-fit:cover;object-position:top;display:block;margin:0 auto 1rem;border:1px solid #d1d5db;background:#fff}
+/* Name/metadata */
+.nm{font-size:1.35rem;font-weight:700;text-align:center;margin-bottom:.2rem;color:#1f2937}
+.rl{font-size:.85rem;color:#4b5563;text-align:center;margin-bottom:.2rem}
+.og{font-size:.8rem;color:#6b7280;text-align:center;margin-bottom:1rem}
+.cl{display:block;text-align:center;font-size:.82rem;color:#2563eb;margin-bottom:.3rem;text-decoration:none}
+.cl:hover{text-decoration:underline}
+.cb{display:block;text-align:center;margin:1rem 0;padding:.45rem 1.2rem;background:#2563eb;color:#fff;border-radius:.35rem;font-size:.85rem;font-weight:600;text-decoration:none}
+.cb:hover{background:#1d4ed8}
+/* Sidebar sections */
+.ss{margin-top:1.3rem}
+.st{font-size:.7rem;font-weight:700;text-transform:uppercase;letter-spacing:.1em;color:#9ca3af;margin-bottom:.6rem}
+.at{display:inline-block;padding:.2rem .5rem;margin:0 .25rem .4rem 0;background:#eff6ff;color:#1e40af;border-radius:.2rem;font-size:.73rem;border:1px solid #bfdbfe;line-height:1.5}
+.at.gl{background:#fffbeb;color:#92400e;border-color:#fde68a}
+.at.rd{background:#fef2f2;color:#991b1b;border-color:#fecaca}
+/* Section headings */
+.sh{font-size:1.05rem;font-weight:700;margin:1.5rem 0 .75rem;padding-bottom:.4rem;border-bottom:2px solid #e5e7eb;color:#1f2937}
+.sh:first-child{margin-top:0}
+/* Timeline */
+.tl{position:relative;padding-left:1.75rem;border-left:2px solid #e5e7eb;margin-left:.5rem}
+.ti{position:relative;margin-bottom:.9rem}
+.td{position:absolute;left:-2.2rem;top:.2rem;width:.75rem;height:.75rem;border-radius:50%;border:2px solid #fff}
+.td.bl{background:#3b82f6;box-shadow:0 0 0 2px #3b82f6}
+.td.io{background:#6366f1;box-shadow:0 0 0 2px #6366f1}
+.td.gr{background:#6b7280;box-shadow:0 0 0 2px #6b7280}
+.tt{font-weight:600;font-size:.85rem}
+.tm{font-size:.78rem;color:#6b7280}
+/* Bio text */
+.bio{font-size:.88rem;line-height:1.75;color:#374151}
+.bio p{margin-bottom:.7rem}
+.bio p:last-child{margin-bottom:0}
+/* News grid */
+.ng{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:.5rem}
+.nc{border:1px solid #e5e7eb;border-radius:.35rem;padding:.6rem;background:#fff}
+.nd{color:#6b7280;font-size:.72rem;margin-bottom:.15rem}
+.nt{font-size:.82rem}
+/* Content area on pages with sidebar */
+.cw{max-width:1200px;margin:0 auto;padding:0 1.5rem;display:flex;gap:2.5rem}
+/* Project list */
+.plist{font-size:.88rem;line-height:1.8;color:#374151}
+.plist li{margin-bottom:.35rem}
+/* Responsive */
+@media(max-width:768px){.pw,.cw{flex-direction:column}.pl{flex:none;width:100%;text-align:center}.av{width:140px;height:175px}}
+</style>
+<script>
+if (location.hostname==='localhost') document.querySelectorAll('a[href*="liujun-xjtu.github.io"]').forEach(function(a){a.href=a.href.replace('https://liujun-xjtu.github.io','')})
+</script>

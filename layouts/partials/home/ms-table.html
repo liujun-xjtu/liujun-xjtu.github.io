@@ -1,0 +1,31 @@
+{{ $ms := .ms }}
+{{/* Build year-grouped list */}}
+{{ $groups := slice }}{{ $prevY := "" }}{{ $buf := slice }}
+{{ range $ms }}
+  {{ $y := index . 1 }}
+  {{ if and $buf (ne $y $prevY) }}
+    {{ $groups = $groups | append (dict "year" $prevY "students" $buf) }}
+    {{ $buf = slice }}
+  {{ end }}
+  {{ $prevY = $y }}
+  {{ $buf = $buf | append (dict "n" (index . 0) "j" (index . 2) "u" (index . 3 | default "")) }}
+{{ end }}
+{{ if $buf }}{{ $groups = $groups | append (dict "year" $prevY "students" $buf) }}{{ end }}
+
+{{/* Render */}}
+<div class="sh sh-ro">已毕业硕士生</div>
+<table class="t6 t3">
+<tr><th class="col-ms-yr">届别</th><th class="col-ms-nm2">姓名</th><th class="col-ms-job">就业去向</th><th class="sep col-ms-nm2">姓名</th><th class="col-ms-job">就业去向</th></tr>
+{{ range $groups }}
+  {{ $g := . }}{{ $n := len $g.students }}{{ $rows := div (add $n 1) 2 }}
+  {{ range $i := seq 0 (sub $rows 1) }}
+    {{ $a := index $g.students (mul $i 2) }}
+    {{ $b := index $g.students (add (mul $i 2) 1) }}
+    <tr>
+    {{ if eq $i 0 }}<td class="t6-yr" rowspan="{{ $rows }}">{{ $g.year }}</td>{{ end }}
+    {{ with $a }}<td class="t6-nm">{{ if .u }}<a href="{{ .u }}" target="_blank" class="t6-hl">{{ end }}{{ .n }}{{ if .u }}</a>{{ end }}</td><td>{{ .j }}</td>{{ else }}<td></td><td></td>{{ end }}
+    {{ with $b }}<td class="sep t6-nm">{{ if .u }}<a href="{{ .u }}" target="_blank" class="t6-hl">{{ end }}{{ .n }}{{ if .u }}</a>{{ end }}</td><td>{{ .j }}</td>{{ else }}<td class="sep"></td><td></td>{{ end }}
+    </tr>
+  {{ end }}
+{{ end }}
+</table>

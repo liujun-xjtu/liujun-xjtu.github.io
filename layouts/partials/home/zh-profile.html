@@ -1,0 +1,41 @@
+{{ partial "home/style.html" . }}
+<div class="pw">
+{{ partial "home/sidebar.html" . }}
+<div class="pr">
+<div class="sh">基本信息</div>
+<div class="bio">
+<p>西安交通大学计算机学院二级教授，博士生导师。斯坦福大学、昆士兰大学高级访问学者；香港大学、Iowa 州立大学访问学者。<br>
+曾任陕西省大数据知识工程重点实验室主任（2012-2023），现任跨媒体知识融合与工程应用研究所所长。</p>
+<p><strong>学术/技术委员会委员：</strong>陕西省大数据知识工程重点实验室、智能技术与教育应用教育部工程研究中心。</p>
+<p><strong>编委：</strong>IEEE TNNLS (2020~)、Information Fusion (2024~)<br>
+<strong>专刊编辑：</strong>WWWJ、ACM TOMM、Information Fusion、IEEE Systems Journal、FGCS</p>
+<p>近年来承担国家重点研发计划、国家自然科学基金重点项目、国家863目标导向类课题等20余项。授权发明专利18项。在 IJCV、IEEE TPAMI、IEEE TKDE、IEEE TIP、ICDE 等期刊与会议发表论文百余篇，出版学术专著2部。</p>
+</div>
+
+<div class="sh">教育经历</div>
+<div class="tl">
+<div class="ti"><div class="td bl"></div><div class="tt">工学博士 · 系统工程</div><div class="tm">1999 – 2004 · 西安交通大学电信学院</div></div>
+<div class="ti"><div class="td bl"></div><div class="tt">工学硕士 · 计算机</div><div class="tm">1995 – 1998 · 西安交通大学计算机系</div></div>
+<div class="ti"><div class="td bl"></div><div class="tt">工学学士 · 计算机</div><div class="tm">1991 – 1995 · 西安交通大学计算机系</div></div>
+</div>
+
+<div class="sh">工作经历</div>
+<div class="tl">
+<div class="ti"><div class="td bl"></div><div class="tt">教授，博士生导师</div><div class="tm">2011.12 – 至今 · 西安交通大学电信学院</div></div>
+<div class="ti"><div class="td io"></div><div class="tt">高级访问学者 · KIT, 德国</div><div class="tm">2019.07 – 2019.08</div></div>
+<div class="ti"><div class="td io"></div><div class="tt">高级访问学者 · Stanford University, 美国</div><div class="tm">2017.08 – 2017.09</div></div>
+<div class="ti"><div class="td io"></div><div class="tt">高级访问学者 · The University of Queensland, 澳大利亚</div><div class="tm">2016.07 – 2016.08</div></div>
+<div class="ti"><div class="td io"></div><div class="tt">访问学者 · Iowa State University, 美国</div><div class="tm">2011.07 – 2011.08</div></div>
+<div class="ti"><div class="td io"></div><div class="tt">访问学者 · 香港大学电子商务技术研究所</div><div class="tm">2005.05 – 2005.08</div></div>
+<div class="ti"><div class="td gr"></div><div class="tt">讲师，副教授</div><div class="tm">1998.07 – 2011.12 · 西安交通大学电信学院</div></div>
+</div>
+
+<div class="sh">最新动态</div>
+<div class="ng">
+{{ range hugo.Data.news }}
+<div class="nc"><div class="nd">{{ index . 0 }}</div><div class="nt">{{ index . 1 | safeHTML }}</div></div>
+{{ end }}
+</div>
+
+</div>
+</div>

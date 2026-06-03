@@ -1,0 +1,20 @@
+<div class="pl">
+<img class="av" src="/img/avatar.jpg" alt="刘均">
+<div class="nm">刘均</div>
+<div class="rl">教授</div>
+<div class="og">计算机学院 · 西安交通大学</div>
+
+<a class="cl" href="mailto:liukeen@xjtu.edu.cn">✉ liukeen@xjtu.edu.cn</a>
+
+<div class="ss">
+<div class="st">研究方向</div>
+<span class="at">自然语言理解</span>
+<span class="at">计算机视觉</span>
+<span class="at">智慧教育</span>
+</div>
+
+<div class="ss">
+<div class="st">获奖与荣誉</div>
+{{ range hugo.Data.awards.awards }}<span class="at{{ if eq (index . 2) "gold" }} gl{{ end }}{{ if eq (index . 2) "red" }} rd{{ end }}">{{ index . 0 }}</span>
+{{ end }}</div>
+</div>

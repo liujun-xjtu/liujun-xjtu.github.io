@@ -1,0 +1,7 @@
+{{ $source := .wcBlock.content.source | default "" }}
+{{ if $source }}
+{{ $path := printf "home/%s" $source }}
+{{ if templates.Exists (printf "partials/%s" $path) }}
+{{ partial $path . }}
+{{ end }}
+{{ end }}

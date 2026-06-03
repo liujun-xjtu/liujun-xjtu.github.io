@@ -1,0 +1,7 @@
+{{ $lang := .Get 0 | default "zh" }}
+{{ $path := printf "home/%s-profile.html" $lang }}
+{{ if templates.Exists (printf "partials/%s" $path) }}
+  {{ partial $path . }}
+{{ else }}
+  <p>Profile template not found: {{ $path }}</p>
+{{ end }}

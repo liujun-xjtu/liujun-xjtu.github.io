@@ -1,0 +1,81 @@
+{{ partial "home/style.html" . }}
+{{ $data := hugo.Data.graduates }}
+<style>
+.t6{width:100%;border-collapse:collapse;font-size:.82rem;margin:.5rem 0 1.2rem}
+.t6 th{background:#f1f5f9;text-align:center;padding:.4rem .35rem;font-weight:600;color:#1f2937;border-bottom:2px solid #d1d5db;font-size:.82rem}
+.t6 td{padding:.35rem .4rem;border-bottom:1px solid #e5e7eb;color:#1f2937;line-height:1.5;text-align:center}
+.t6 tr:hover td{background:#f5f5f4}
+.t6 .sep{border-left:2px solid #d1d5db}
+.t6 .t6-nm{text-align:left;font-weight:400}
+.t6 .t6-hl{color:#1e40af}.t6-yr{text-align:center;font-weight:600;color:#1f2937;vertical-align:top}
+.phd-list{font-size:.88rem;line-height:2;color:#1f2937}.phd-n{font-weight:600;white-space:nowrap}.phd-vs{font-weight:400;color:#6b7280;font-size:.82rem}.phd-sep{color:#d1d5db;font-weight:400}.sh-bl{border-left:4px solid #3b82f6;padding-left:.6rem}.sh-gr{border-left:4px solid #10b981;padding-left:.6rem}.sh-am{border-left:4px solid #f59e0b;padding-left:.6rem}.sh-ro{border-left:4px solid #f43f5e;padding-left:.6rem}
+.col-nm{width:8%}.col-pl{width:12%}.col-nt{width:10%}.col-ms-yr{width:8%}.col-ms-nm2{width:8%}.col-ms-job{width:15%}
+</style>
+
+<div class="pw">
+{{ partial "home/sidebar.html" . }}
+<div class="pr">
+
+<div class="sh">讲授课程</div>
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:.8rem;margin-bottom:1rem;">
+<div style="border:1px solid #e5e7eb;border-radius:.4rem;padding:1rem;background:#fff;color:#1f2937;">
+<div style="font-size:.72rem;color:#6b7280;font-weight:600;text-transform:uppercase;letter-spacing:.05em;margin-bottom:.4rem;">本科生课程</div>
+<div style="font-size:.82rem;font-weight:700;margin-bottom:.4rem;color:#1f2937;">数据仓库与数据挖掘</div>
+<div style="font-size:.82rem;color:#4b5563;line-height:1.6;">32 学时。涵盖数据挖掘基本概念、数据预处理、关联规则分析、分类与聚类算法、文本与 Web 数据挖掘。</div>
+</div>
+<div style="border:1px solid #e5e7eb;border-radius:.4rem;padding:1rem;background:#fff;color:#1f2937;">
+<div style="font-size:.72rem;color:#6b7280;font-weight:600;text-transform:uppercase;letter-spacing:.05em;margin-bottom:.4rem;">本科生课程 · AI 试验班</div>
+<div style="font-size:.82rem;font-weight:700;margin-bottom:.4rem;color:#1f2937;">自然语言理解与机器翻译</div>
+<div style="font-size:.82rem;color:#4b5563;line-height:1.6;">32 学时。教授 NLU 前沿原理与深度学习模型，配合 Intel 计算平台开展实验，培养理论联系实践的能力。</div>
+</div>
+</div>
+
+<!-- ═══ TABLE MACRO ═══ -->
+{{ define "student-table" }}
+  {{ $rows := .rows }}
+  {{ $n := len $rows }}
+  {{ $col1 := index .headers 0 }}{{ $col2 := index .headers 1 }}{{ $col3 := index .headers 2 }}
+<div class="sh {{ .hclass | default "" }}">{{ .title }}</div>
+<table class="t6 {{ .class }}">
+<tr><th class="col-nm">{{ $col1 }}</th><th class="col-pl">{{ $col2 }}</th><th class="col-nt">{{ $col3 }}</th><th class="sep col-nm">{{ $col1 }}</th><th class="col-pl">{{ $col2 }}</th><th class="col-nt">{{ $col3 }}</th></tr>
+{{ range $i := seq 0 (sub (div (add $n 1) 2) 1) }}
+  {{ $a := index $rows (mul $i 2) }}
+  {{ $b := index $rows (add (mul $i 2) 1) }}
+<tr>
+  {{ with $a }}{{ $url := index . 3 | default "" }}<td class="t6-nm">{{ if $url }}<a href="{{ $url }}" target="_blank" class="t6-hl">{{ end }}{{ index . 0 }}{{ if $url }}</a>{{ end }}</td><td>{{ index . 1 }}</td><td>{{ index . 2 }}</td>{{ else }}<td></td><td></td><td></td>{{ end }}
+  {{ with $b }}{{ $url := index . 3 | default "" }}<td class="sep t6-nm">{{ if $url }}<a href="{{ $url }}" target="_blank" class="t6-hl">{{ end }}{{ index . 0 }}{{ if $url }}</a>{{ end }}</td><td>{{ index . 1 }}</td><td>{{ index . 2 }}</td>{{ else }}<td class="sep"></td><td></td><td></td>{{ end }}
+</tr>
+{{ end }}
+</table>
+{{ end }}
+
+<!-- ═══ 在读博士生 ═══ -->
+{{ $phds := slice }}{{ range $data.phd_current }}{{ $n := index . 0 }}{{ $note := index . 2 | default "" }}{{ $phds = $phds | append (dict "n" $n "note" $note) }}{{ end }}
+<div class="sh sh-bl">在读博士生 <span style="font-weight:400;font-size:.78rem;color:#6b7280;">（{{ len $phds }}人）</span></div>
+<div class="phd-list">
+{{ $last := sub (len $phds) 1 }}
+{{ range $i, $p := $phds }}
+  <span class="phd-n">{{ $p.n }}{{ with $p.note }}{{ if ne . "" }}<span class="phd-vs">（{{ . }}）</span>{{ end }}{{ end }}</span>{{ if lt $i $last }}<span class="phd-sep"> · </span>{{ end }}
+{{ end }}
+</div>
+
+<!-- ═══ 在读硕士生 ═══ -->
+{{ with $data.ms_current }}
+<div class="sh sh-gr">在读硕士生</div>
+<table class="t6 t2">
+<tr><th class="col-ms-yr">届别</th><th>学生</th></tr>
+{{ range $year, $students := . }}
+<tr><td class="t6-yr">{{ $year }}</td><td class="t6-nm" style="text-align:left;line-height:2;">{{ delimit $students " · " }}</td></tr>
+{{ end }}
+</table>
+{{ end }}
+
+<!-- ═══ 已毕业博士生 ═══ -->
+{{ template "student-table" (dict "title" "已毕业博士生" "class" "t1" "hclass" "sh-am" "headers" (slice "姓名" "毕业去向" "读博期间访学") "rows" $data.phd_graduated) }}
+
+<!-- ═══ 已毕业硕士生 ═══ -->
+{{ partial "home/ms-table.html" (dict "ms" $data.ms_graduated) }}
+
+
+</div>
+</div>
