@@ -56,7 +56,7 @@ hugoblox:
     text: "© {year} 刘均 | 西安交通大学计算机学院"
 
   copyright:
-    notice: "© {year} {name}"
+    notice: ""
     license:
       type: cc
       allow_derivatives: false
