@@ -80,13 +80,8 @@ jobs:
 
     - name: Install dependencies
       run: |
-        # Install Tailwind CLI if package.json exists
         if [ -f "package.json" ]; then
-          echo "=== Installing with pnpm ==="
-          pnpm install --no-frozen-lockfile 2>&1 || true
-          echo "=== Checking @tailwindcss/cli ==="
-          node -e "require.resolve('@tailwindcss/cli/package.json')" && echo "Tailwind CLI found" || echo "Tailwind CLI not found"
-          ls node_modules/@tailwindcss/cli/package.json 2>&1 || true
+          pnpm install --no-frozen-lockfile
         fi
 
     - name: Verify Tailwind CSS dependency
