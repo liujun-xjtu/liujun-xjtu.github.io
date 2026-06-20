@@ -1,0 +1,42 @@
+# 自然语言处理课程 — 编辑此文件即可更新教学页
+
+course:
+  title: "自然语言处理"
+  desc: "32 学时 · 本科生课程。本课程以语言模型为主线，紧扣“**词汇的语义由上下文决定**”与“**将不同对象映射到统一空间中处理**”两大底层逻辑，重点讲解向量空间模型、主题模型、神经语言模型，以及由海量数据驱动的预训练语言模型，帮助学生建立对语言模型的系统性理解，并培养跨任务、跨领域迁移的实践能力"
+
+chapters:
+  - title: "第一章：绪论"
+    desc: "梳理了 NLP 的发展历程，展望了未来发展的三个趋势；介绍 BoW 和 n-gram 两类模型；探讨了两个贯穿 NLP 与语言模型的基本原理。"
+    slides:
+      - {name: "语言模型概述", file: "https://www.jianguoyun.com/p/DS3r5jIQ7vnSBhj59asGIAA"}
+      - {name: "动画与程序",   file: "https://www.jianguoyun.com/p/DQLyixkQ7vnSBhj69asGIAA"}
+
+  - title: "第二章：向量空间模型"
+    desc: "介绍了 Zipf 定律及其成因；讲解了衡量词汇在文档中重要性的 TF-IDF 方法以及文本相似度计算方法。"
+    slides:
+      - {name: "向量空间模型", file: "https://www.jianguoyun.com/p/DVuIOgIQ7vnSBhiW9qsGIAA"}
+      - {name: "动画与程序",   file: "https://www.jianguoyun.com/p/DV-pRskQ7vnSBhiY9qsGIAA"}
+
+  - title: "第三章：主题模型"
+    desc: "讲授了LSA、PLSA、LDA三种典型的主题模型。"
+    slides:
+      - {name: "主题模型",   file: "https://www.jianguoyun.com/p/DduQwboQ7vnSBhii9qsGIAA"}
+      - {name: "动画与程序", file: "https://www.jianguoyun.com/p/De62MikQ7vnSBhij9qsGIAA"}
+
+  - title: "第四章：神经语言模型"
+    desc: "从 Word2Vec 到神经语言模型，理解词的分布式表示与上下文建模。"
+    slides:
+      - {name: "神经语言模型", file: "https://www.jianguoyun.com/p/Dbn2iEoQ7vnSBhil9qsGIAA"}
+      - {name: "动画与程序",   file: "https://www.jianguoyun.com/p/DbUXyRQQ7vnSBhim9qsGIAA"}
+
+  - title: "第五章：预训练语言模型"
+    desc: "探讨大模型尺度律与涌现能力；详细阐述 Transformer 模型以及相关架构；讲解了预训练语言模型的一系列关键技术，包括：预训练、参数高效微调、人类对齐、模型压缩、提示等。最后，分析了当前预训练语言模型的局限性，并展望未来发展方向。"
+    slides:
+      - {name: "预训练语言模型 A", file: "https://www.jianguoyun.com/p/DWgztRoQ7vnSBhi49qsGIAA"}
+      - {name: "预训练语言模型 B", file: "https://www.jianguoyun.com/p/Dfxs3zMQ7vnSBhi59qsGIAA"}
+      - {name: "动画与程序",       file: "https://www.jianguoyun.com/p/DfzPet0Q7vnSBhi69qsGIAA"}
+
+  - title: "第六章：推理模型"
+    desc: " 将推理模型分为免训练与基于强化学习两大类。在免训练推理模型方面，首先阐述了测试时计算尺度律，剖析了基于解码搜索的输出优化与基于反馈修正的迭代优化框架；探讨了强化学习在推理模型中的应用，讲解了策略优化方法；最后，分析了推理模型面临的挑战。"
+    slides:
+      - {name: "推理模型", file: "https://www.jianguoyun.com/p/De5UdlIQ7vnSBhi99qsGIAA"}

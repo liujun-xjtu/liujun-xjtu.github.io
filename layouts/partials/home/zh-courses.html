@@ -1,0 +1,73 @@
+{{ partial "home/style.html" . }}
+{{ if not site.Params.course_enabled }}
+<div class="pw">
+{{ partial "home/sidebar.html" . }}
+<div class="pr">
+<div class="sh">自然语言处理</div>
+<div style="font-size:.82rem;color:#9ca3af;line-height:1.8;">课程资料暂未开放。开课期间将提供课件、动画素材与作业。</div>
+</div>
+</div>
+{{ else }}
+{{ $nlp := hugo.Data.nlp }}
+{{ $base := "/nlp" }}
+<style>
+.ca{border:1px solid #e5e7eb;border-radius:.4rem;overflow:hidden;margin-bottom:.5rem;background:#fff}
+.ch{cursor:pointer;display:flex;align-items:center;gap:.5rem;padding:.6rem .8rem;user-select:none;transition:background .12s}
+.ch:hover{background:#f5f5f4}
+.ch-icon{font-size:.72rem;color:#6b7280;transition:transform .15s;flex-shrink:0}
+.ca.open .ch-icon{transform:rotate(90deg)}
+.ch-tt{font-weight:600;font-size:.82rem;color:#1f2937;flex:1}
+.ch-meta{font-size:.72rem;color:#9ca3af;font-weight:400;white-space:nowrap}
+.ck{display:none;padding:0 .8rem .7rem}
+.ca.open .ck{display:block}
+.ch-desc{font-size:.82rem;color:#4b5563;line-height:1.7;padding:.3rem .5rem 0}
+/* File badges */
+.fr{display:flex;flex-wrap:wrap;gap:.4rem;padding:.5rem .5rem 0}
+.fb{display:inline-flex;align-items:center;gap:.35rem;padding:.35rem .6rem;border-radius:.25rem;font-size:.78rem;text-decoration:none;border:1px solid #bfdbfe;color:#1e40af;background:#eff6ff;transition:all .12s}
+.fb:hover{background:#dbeafe;border-color:#93c5fd}
+.fb-tp{font-size:.65rem;padding:.1rem .3rem;border-radius:.15rem;font-weight:500;text-transform:uppercase;letter-spacing:.04em}
+.fb-tp.slide{background:#bfdbfe;color:#1e40af}
+.fb-tp.anim{background:#ddd6fe;color:#5b21b6}
+.fb.anim{border-color:#c4b5fd;color:#5b21b6;background:#f5f3ff}
+.fb.anim:hover{background:#ede9fe;border-color:#a78bfa}
+.fb-tp.hw{background:#fef3c7;color:#92400e}
+.fb.hw{border-color:#fde68a;color:#92400e;background:#fffbeb}
+.fb.hw:hover{background:#fef3c7;border-color:#f59e0b}
+</style>
+
+<div class="pw">
+{{ partial "home/sidebar.html" . }}
+<div class="pr">
+
+<div class="sh">{{ $nlp.course.title }}</div>
+<div style="font-size:.82rem;color:#4b5563;line-height:1.8;margin-bottom:1rem;">{{ $nlp.course.desc | markdownify }}</div>
+
+{{ range $i, $ch := $nlp.chapters }}
+<div class="ca open">
+  <div class="ch" onclick="this.parentElement.classList.toggle('open')">
+    <span class="ch-icon">▶</span>
+    <span class="ch-tt">{{ $ch.title }}</span>
+  </div>
+  <div class="ck">
+    {{ with $ch.desc }}<div class="ch-desc">{{ . | markdownify }}</div>{{ end }}
+    <div class="fr">
+      {{ range $ch.slides }}
+      <a class="fb{{ if in .name "动画" }} anim{{ end }}" href="{{ if hasPrefix .file "http" }}{{ .file }}{{ else }}{{ $base }}/{{ .file }}{{ end }}" target="_blank">
+        {{ .name }}
+        <span class="fb-tp{{ if in .name "动画" }} anim{{ else }} slide{{ end }}">{{ if in .name "动画" }}附件{{ else }}课件{{ end }}</span>
+      </a>
+      {{ end }}
+      {{ range $ch.homework }}
+      <a class="fb hw" href="{{ if hasPrefix .file "http" }}{{ .file }}{{ else }}{{ $base }}/{{ .file }}{{ end }}" target="_blank">
+        {{ .name }}
+        <span class="fb-tp hw">作业</span>
+      </a>
+      {{ end }}
+    </div>
+  </div>
+</div>
+{{ end }}
+
+</div>
+</div>
+{{ end }}

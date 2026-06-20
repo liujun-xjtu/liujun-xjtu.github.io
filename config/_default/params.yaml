@@ -1,3 +1,5 @@
+course_enabled: false
+
 # HUGO BLOX CONFIGURATION
 hugoblox:
   schema: "2.0"

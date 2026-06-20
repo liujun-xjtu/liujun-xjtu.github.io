@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Beyond Layer-Wise Merging: Chain-of-Merging for Vision-Language Models",
+    "venue": "CVPR 2026",
+    "year": "2026",
+    "error": "ALL_FAILED"
+  },
+  {
+    "title": "Hierarchy-Based Diagram-Sentence Matching on Dual-Modal Graphs",
+    "venue": "Pattern Recognition, 2025",
+    "year": "2025",
+    "error": "ALL_FAILED"
+  },
+  {
+    "title": "CoFFT: Chain of Foresight-Focus Thought for Visual Language Models",
+    "venue": "NeurIPS 2025",
+    "year": "2025",
+    "error": null
+  },
+  {
+    "title": "Mixed Geometry Message and Trainable Convolutional Attention Network for KG Completion",
+    "venue": "AAAI 2024",
+    "year": "2024",
+    "error": "ALL_FAILED"
+  },
+  {
+    "title": "Fusing Topology Contexts and Logical Rules in Language Models for KG Completion",
+    "venue": "Information Fusion, 2022",
+    "year": "2022",
+    "error": "ALL_FAILED"
+  },
+  {
+    "title": "Computer Science Diagram Understanding with Topology Parsing",
+    "venue": "ACM TKDD, 2022",
+    "year": "2022",
+    "error": "ALL_FAILED"
+  },
+  {
+    "title": "Incorporating Context Graph with Logical Reasoning for Inductive Relation Prediction",
+    "venue": "SIGIR 2022",
+    "year": "2022",
+    "error": null
+  },
+  {
+    "title": "知识森林：理论、方法与实践",
+    "venue": "科学出版社, 2021",
+    "year": "2021",
+    "error": "ALL_FAILED"
+  },
+  {
+    "title": "Knowledge Forest: A Novel Model to Organize Knowledge Fragments",
+    "venue": "Science China Information Sciences, 2019",
+    "year": "2019",
+    "error": "ALL_FAILED"
+  },
+  {
+    "title": "Internet Traffic Classification Based on Expanding Vector of Flow",
+    "venue": "Computer Networks, 2017",
+    "year": "2017",
+    "error": "ALL_FAILED"
+  }
+]

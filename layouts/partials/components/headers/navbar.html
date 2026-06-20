@@ -103,7 +103,7 @@
           {{ end }}
         </ul>
       </li>
-      {{ else }}
+      {{ else if or (ne .Name "讲授课程") site.Params.course_enabled }}
       {{ $url := "" }}
       {{- if findRE `^#` .URL -}}
         {{- if not $.IsHome -}}
@@ -117,7 +117,7 @@
         <a
           class="nav-link {{ if $active }}active{{- end -}}"
           {{ if findRE `^http` .URL }}
-          
+
           {{ end }}
           href="{{$url}}"
         >{{ .Name }}</a

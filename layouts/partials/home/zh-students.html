@@ -8,27 +8,15 @@
 .t6 .sep{border-left:2px solid #d1d5db}
 .t6 .t6-nm{text-align:left;font-weight:400}
 .t6 .t6-hl{color:#1e40af}.t6-yr{text-align:center;font-weight:600;color:#1f2937;vertical-align:top}
-.phd-list{font-size:.88rem;line-height:2;color:#1f2937}.phd-n{font-weight:600;white-space:nowrap}.phd-vs{font-weight:400;color:#6b7280;font-size:.82rem}.phd-sep{color:#d1d5db;font-weight:400}.sh-bl{border-left:4px solid #3b82f6;padding-left:.6rem}.sh-gr{border-left:4px solid #10b981;padding-left:.6rem}.sh-am{border-left:4px solid #f59e0b;padding-left:.6rem}.sh-ro{border-left:4px solid #f43f5e;padding-left:.6rem}
+.phd-list{font-size:.88rem;line-height:2;color:#1f2937}.phd-n{font-weight:600;white-space:nowrap}.phd-vs{font-weight:400;color:#6b7280;font-size:.82rem}.phd-sep{color:#d1d5db;font-weight:400}
+.sh-bl{border-left:4px solid #3b82f6;padding-left:.6rem}.sh-gr{border-left:4px solid #10b981;padding-left:.6rem}.sh-am{border-left:4px solid #f59e0b;padding-left:.6rem}.sh-ro{border-left:4px solid #f43f5e;padding-left:.6rem}
+.t1 th{background:#eff6ff}.t2 th{background:#f0fdf4}.t3 th{background:#fff7ed}
 .col-nm{width:8%}.col-pl{width:12%}.col-nt{width:10%}.col-ms-yr{width:8%}.col-ms-nm2{width:8%}.col-ms-job{width:15%}
 </style>
 
 <div class="pw">
 {{ partial "home/sidebar.html" . }}
 <div class="pr">
-
-<div class="sh">讲授课程</div>
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:.8rem;margin-bottom:1rem;">
-<div style="border:1px solid #e5e7eb;border-radius:.4rem;padding:1rem;background:#fff;color:#1f2937;">
-<div style="font-size:.72rem;color:#6b7280;font-weight:600;text-transform:uppercase;letter-spacing:.05em;margin-bottom:.4rem;">本科生课程</div>
-<div style="font-size:.82rem;font-weight:700;margin-bottom:.4rem;color:#1f2937;">数据仓库与数据挖掘</div>
-<div style="font-size:.82rem;color:#4b5563;line-height:1.6;">32 学时。涵盖数据挖掘基本概念、数据预处理、关联规则分析、分类与聚类算法、文本与 Web 数据挖掘。</div>
-</div>
-<div style="border:1px solid #e5e7eb;border-radius:.4rem;padding:1rem;background:#fff;color:#1f2937;">
-<div style="font-size:.72rem;color:#6b7280;font-weight:600;text-transform:uppercase;letter-spacing:.05em;margin-bottom:.4rem;">本科生课程 · AI 试验班</div>
-<div style="font-size:.82rem;font-weight:700;margin-bottom:.4rem;color:#1f2937;">自然语言理解与机器翻译</div>
-<div style="font-size:.82rem;color:#4b5563;line-height:1.6;">32 学时。教授 NLU 前沿原理与深度学习模型，配合 Intel 计算平台开展实验，培养理论联系实践的能力。</div>
-</div>
-</div>
 
 <!-- ═══ TABLE MACRO ═══ -->
 {{ define "student-table" }}
@@ -75,7 +63,6 @@
 
 <!-- ═══ 已毕业硕士生 ═══ -->
 {{ partial "home/ms-table.html" (dict "ms" $data.ms_graduated) }}
-
 
 </div>
 </div>

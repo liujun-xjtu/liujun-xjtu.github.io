@@ -1,12 +1,12 @@
 ---
-title: '教学情况'
+title: '研究生培养'
 date: 2024-01-01
 type: landing
 
 sections:
   - block: rawhtml
     content:
-      source: zh-courses.html
+      source: zh-students.html
     design:
       columns: '1'
 ---

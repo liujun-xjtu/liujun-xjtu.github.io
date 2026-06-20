@@ -1,0 +1,1414 @@
+{
+  "Reasoning step by step via a neural-symbolic geometry problem solver": {
+    "title": "Reasoning step by step via a neural-symbolic geometry problem solver",
+    "venue": "Pattern Recognition, 2026",
+    "year": "2026",
+    "bibtex": "@article{Wang_2026, title={Reasoning step by step via a neural-symbolic geometry problem solver}, volume={171}, ISSN={0031-3203}, url={http://dx.doi.org/10.1016/j.patcog.2025.112261}, DOI={10.1016/j.patcog.2025.112261}, journal={Pattern Recognition}, publisher={Elsevier BV}, author={Wang, Yaxian and Wei, Bifan and Ma, Yinghong and Jiang, Xudong and Ding, Henghui and Cai, Zhongmin and Liu, Jun}, year={2026}, month=Mar, pages={112261} }",
+    "doi": "10.1016/j.patcog.2025.112261",
+    "pdf_url": "",
+    "source": "crossref",
+    "error": null
+  },
+  "GKG-LLM: A unified framework for generalized knowledge graph construction": {
+    "title": "GKG-LLM: A unified framework for generalized knowledge graph construction",
+    "venue": "Information Fusion, 2026",
+    "year": "2026",
+    "bibtex": "@article{Zhang_2026, title={GKG-LLM: A unified framework for generalized knowledge graph construction}, volume={128}, ISSN={1566-2535}, url={http://dx.doi.org/10.1016/j.inffus.2025.103956}, DOI={10.1016/j.inffus.2025.103956}, journal={Information Fusion}, publisher={Elsevier BV}, author={Zhang, Jian and Qi, Shihao and Dong, Yuxuan and Yuan, Li and Shen, Tiesunlong and Fu, Weiping and Wei, Bifan and Zhu, Haiping and Liu, Jun}, year={2026}, month=Apr, pages={103956} }",
+    "doi": "10.1016/j.inffus.2025.103956",
+    "pdf_url": "",
+    "source": "crossref",
+    "error": null
+  },
+  "Explainable Visual Question Answering: A Survey on Methods, Datasets and Evaluation": {
+    "title": "Explainable Visual Question Answering: A Survey on Methods, Datasets and Evaluation",
+    "venue": "Information Fusion, 2026",
+    "year": "2026",
+    "bibtex": "@article{Wang_2026, title={Explainable visual question answering: A survey on methods, datasets and evaluation}, volume={132}, ISSN={1566-2535}, url={http://dx.doi.org/10.1016/j.inffus.2026.104215}, DOI={10.1016/j.inffus.2026.104215}, journal={Information Fusion}, publisher={Elsevier BV}, author={Wang, Yaxian and Lin, Qikan and Shi, Jiangbo and An, Yisheng and Liu, Jun and Wei, Bifan and Jiang, Xudong}, year={2026}, month=Aug, pages={104215} }",
+    "doi": "10.1016/j.inffus.2026.104215",
+    "pdf_url": "",
+    "source": "crossref",
+    "error": null
+  },
+  "Towards Efficient and Robust Linguistic Emotion Diagnosis for Mental Health via Multi-Agent Instruction Refinement": {
+    "title": "Towards Efficient and Robust Linguistic Emotion Diagnosis for Mental Health via Multi-Agent Instruction Refinement",
+    "venue": "IEEE TAFFC, 2026",
+    "year": "2026",
+    "bibtex": "@article{Zhang_2026, title={Towards Efficient and Robust Linguistic Emotion Diagnosis for Mental Health via Multi-Agent Instruction Refinement}, ISSN={2371-9850}, url={http://dx.doi.org/10.1109/taffc.2026.3668261}, DOI={10.1109/taffc.2026.3668261}, journal={IEEE Transactions on Affective Computing}, publisher={Institute of Electrical and Electronics Engineers (IEEE)}, author={Zhang, Jian and Wang, Zhangqi and Wang, Zhiyuan and Fu, Weiping and He, Yu and Zhu, Haiping and Lin, Qika and Liu, Jun}, year={2026}, pages={1–18} }",
+    "doi": "10.1109/taffc.2026.3668261",
+    "pdf_url": "",
+    "source": "crossref",
+    "error": null
+  },
+  "Memory-Enriched Thought-by-Thought Framework for Complex Diagram Question Answering": {
+    "title": "Memory-Enriched Thought-by-Thought Framework for Complex Diagram Question Answering",
+    "venue": "CVIU, 2026",
+    "year": "2026",
+    "bibtex": "@article{Zhang_2026, title={Memory-enriched thought-by-thought framework for complex Diagram Question Answering}, volume={264}, ISSN={1077-3142}, url={http://dx.doi.org/10.1016/j.cviu.2025.104608}, DOI={10.1016/j.cviu.2025.104608}, journal={Computer Vision and Image Understanding}, publisher={Elsevier BV}, author={Zhang, Xinyu and Zhang, Lingling and Wu, Yanrui and Wang, Shaowei and Wu, Wenjun and Huang, Muye and Wang, Qianying and Liu, Jun}, year={2026}, month=Feb, pages={104608} }",
+    "doi": "10.1016/j.cviu.2025.104608",
+    "pdf_url": "",
+    "source": "crossref",
+    "error": null
+  },
+  "MARS: Multi-Agent Adaptive Reasoning with Socratic Guidance for Automated Prompt Optimization": {
+    "bibtex": "@inproceedings{DBLP:conf/aaai/ZhangWZCHLLLC26,\n  author       = {Jian Zhang and\n                  Zhangqi Wang and\n                  Haiping Zhu and\n                  Kangda Cheng and\n                  Kai He and\n                  Bo Li and\n                  Qika Lin and\n                  Jun Liu and\n                  Erik Cambria},\n  editor       = {Sven Koenig and\n                  Chad Jenkins and\n                  Matthew E. Taylor},\n  title        = {{MARS:} Multi-Agent Adaptive Reasoning with Socratic Guidance for\n                  Automated Prompt Optimization},\n  booktitle    = {Fortieth {AAAI} Conference on Artificial Intelligence, Thirty-Eighth\n                  Conference on Innovative Applications of Artificial Intelligence,\n                  Sixteenth Symposium on Educational Advances in Artificial Intelligence,\n                  {AAAI} 2026, Singapore, January 20-27, 2026},\n  pages        = {16307--16315},\n  publisher    = {{AAAI} Press},\n  year         = {2026},\n  url          = {https://doi.org/10.1609/aaai.v40i19.38668},\n  doi          = {10.1609/AAAI.V40I19.38668},\n  timestamp    = {Mon, 30 Mar 2026 17:02:29 +0200},\n  biburl       = {https://dblp.org/rec/conf/aaai/ZhangWZCHLLLC26.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "conf/aaai/ZhangWZCHLLLC26",
+    "bibtex_url": "https://dblp.org/rec/conf/aaai/ZhangWZCHLLLC26.bib",
+    "doi": "10.1609/AAAI.V40I19.38668",
+    "source": "dblp"
+  },
+  "MAPS: Multi-Agent Personality Shaping for Collaborative Reasoning": {
+    "bibtex": "@inproceedings{DBLP:conf/aaai/ZhangWWXLZMCL26,\n  author       = {Jian Zhang and\n                  Zhiyuan Wang and\n                  Zhangqi Wang and\n                  Fangzhi Xu and\n                  Qika Lin and\n                  Lingling Zhang and\n                  Rui Mao and\n                  Erik Cambria and\n                  Jun Liu},\n  editor       = {Sven Koenig and\n                  Chad Jenkins and\n                  Matthew E. Taylor},\n  title        = {{MAPS:} Multi-Agent Personality Shaping for Collaborative Reasoning},\n  booktitle    = {Fortieth {AAAI} Conference on Artificial Intelligence, Thirty-Eighth\n                  Conference on Innovative Applications of Artificial Intelligence,\n                  Sixteenth Symposium on Educational Advances in Artificial Intelligence,\n                  {AAAI} 2026, Singapore, January 20-27, 2026},\n  pages        = {16316--16324},\n  publisher    = {{AAAI} Press},\n  year         = {2026},\n  url          = {https://doi.org/10.1609/aaai.v40i19.38669},\n  doi          = {10.1609/AAAI.V40I19.38669},\n  timestamp    = {Mon, 30 Mar 2026 17:02:29 +0200},\n  biburl       = {https://dblp.org/rec/conf/aaai/ZhangWWXLZMCL26.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "conf/aaai/ZhangWWXLZMCL26",
+    "bibtex_url": "https://dblp.org/rec/conf/aaai/ZhangWWXLZMCL26.bib",
+    "doi": "10.1609/AAAI.V40I19.38669",
+    "source": "dblp"
+  },
+  "SketchVL: Policy Optimization via Fine-Grained Credit Assignment for Chart Understanding and More": {
+    "bibtex": "@article{DBLP:journals/corr/abs-2601-05688,\n  author       = {Muye Huang and\n                  Lingling Zhang and\n                  Yifei Li and\n                  Yaqiang Wu and\n                  Jun Liu},\n  title        = {SketchVL: Policy Optimization via Fine-Grained Credit Assignment for\n                  Chart Understanding and More},\n  journal      = {CoRR},\n  volume       = {abs/2601.05688},\n  year         = {2026},\n  url          = {https://doi.org/10.48550/arXiv.2601.05688},\n  doi          = {10.48550/ARXIV.2601.05688},\n  eprinttype   = {arXiv},\n  eprint       = {2601.05688},\n  timestamp    = {Fri, 13 Feb 2026 06:12:48 +0100},\n  biburl       = {https://dblp.org/rec/journals/corr/abs-2601-05688.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "journals/corr/abs-2601-05688",
+    "bibtex_url": "https://dblp.org/rec/journals/corr/abs-2601-05688.bib",
+    "doi": "10.48550/ARXIV.2601.05688",
+    "source": "dblp"
+  },
+  "Beyond Layer-Wise Merging: Chain-of-Merging for Vision-Language Models": {
+    "title": "Beyond Layer-Wise Merging: Chain-of-Merging for Vision-Language Models",
+    "venue": "CVPR 2026",
+    "year": "2026",
+    "bibtex": "@inproceedings{Zhang2026Beyond,\n  title={Beyond Layer-Wise Merging: Chain-of-Merging for Vision-Language Models},\n  author={Zhang, Xinyu and Dong, Yuxuan and Zhang, Lingling and Jia, Chengyou and Dang, Zhangxun and Yao, Yuan and Wu, Yanrui and Fernando, Basura and Liu, Jun},\n  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},\n  year={2026},\n  note={Accepted}\n}",
+    "doi": null,
+    "dblp_key": null,
+    "bibtex_url": null,
+    "source": "manual",
+    "error": null
+  },
+  "Neurodynamics-Driven Coupled Neural P Systems for Multi-Focus Image Fusion": {
+    "bibtex": "@article{DBLP:journals/corr/abs-2509-17704,\n  author       = {Bo Li and\n                  Yunkuo Lei and\n                  Tingting Bao and\n                  Yaxian Wang and\n                  Lingling Zhang and\n                  Jun Liu},\n  title        = {Neurodynamics-Driven Coupled Neural {P} Systems for Multi-Focus Image\n                  Fusion},\n  journal      = {CoRR},\n  volume       = {abs/2509.17704},\n  year         = {2025},\n  url          = {https://doi.org/10.48550/arXiv.2509.17704},\n  doi          = {10.48550/ARXIV.2509.17704},\n  eprinttype   = {arXiv},\n  eprint       = {2509.17704},\n  timestamp    = {Fri, 27 Mar 2026 15:34:55 +0100},\n  biburl       = {https://dblp.org/rec/journals/corr/abs-2509-17704.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "journals/corr/abs-2509-17704",
+    "bibtex_url": "https://dblp.org/rec/journals/corr/abs-2509-17704.bib",
+    "doi": "10.48550/ARXIV.2509.17704",
+    "source": "dblp"
+  },
+  "Exploring Knowledge Conflicts for Faithful LLM Reasoning: Benchmark and Method": {
+    "bibtex": "@article{DBLP:journals/corr/abs-2604-11209,\n  author       = {Tianzhe Zhao and\n                  Jiaoyan Chen and\n                  Shuxiu Zhang and\n                  Haiping Zhu and\n                  Qika Lin and\n                  Jun Liu},\n  title        = {Exploring Knowledge Conflicts for Faithful {LLM} Reasoning: Benchmark\n                  and Method},\n  journal      = {CoRR},\n  volume       = {abs/2604.11209},\n  year         = {2026},\n  url          = {https://doi.org/10.48550/arXiv.2604.11209},\n  doi          = {10.48550/ARXIV.2604.11209},\n  eprinttype   = {arXiv},\n  eprint       = {2604.11209},\n  timestamp    = {Wed, 20 May 2026 08:31:42 +0200},\n  biburl       = {https://dblp.org/rec/journals/corr/abs-2604-11209.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "journals/corr/abs-2604-11209",
+    "bibtex_url": "https://dblp.org/rec/journals/corr/abs-2604-11209.bib",
+    "doi": "10.48550/ARXIV.2604.11209",
+    "source": "dblp"
+  },
+  "MUR: Momentum Uncertainty guided Reasoning for Large Language Models": {
+    "bibtex": "@article{DBLP:journals/corr/abs-2507-14958,\n  author       = {Hang Yan and\n                  Fangzhi Xu and\n                  Rongman Xu and\n                  Yifei Li and\n                  Jian Zhang and\n                  Haoran Luo and\n                  Xiaobao Wu and\n                  Luu Anh Tuan and\n                  Haiteng Zhao and\n                  Qika Lin and\n                  Jun Liu},\n  title        = {{MUR:} Momentum Uncertainty guided Reasoning for Large Language Models},\n  journal      = {CoRR},\n  volume       = {abs/2507.14958},\n  year         = {2025},\n  url          = {https://doi.org/10.48550/arXiv.2507.14958},\n  doi          = {10.48550/ARXIV.2507.14958},\n  eprinttype   = {arXiv},\n  eprint       = {2507.14958},\n  timestamp    = {Tue, 19 Aug 2025 07:53:51 +0200},\n  biburl       = {https://dblp.org/rec/journals/corr/abs-2507-14958.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "journals/corr/abs-2507-14958",
+    "bibtex_url": "https://dblp.org/rec/journals/corr/abs-2507-14958.bib",
+    "doi": "10.48550/ARXIV.2507.14958",
+    "source": "dblp"
+  },
+  "Locomo-Plus: Beyond-Factual Cognitive Memory Evaluation Framework for LLM Agents": {
+    "bibtex": "@article{DBLP:journals/corr/abs-2602-10715,\n  author       = {Yifei Li and\n                  Weidong Guo and\n                  Lingling Zhang and\n                  Rongman Xu and\n                  Muye Huang and\n                  Hui Liu and\n                  Lijiao Xu and\n                  Yu Xu and\n                  Jun Liu},\n  title        = {Locomo-Plus: Beyond-Factual Cognitive Memory Evaluation Framework\n                  for {LLM} Agents},\n  journal      = {CoRR},\n  volume       = {abs/2602.10715},\n  year         = {2026},\n  url          = {https://doi.org/10.48550/arXiv.2602.10715},\n  doi          = {10.48550/ARXIV.2602.10715},\n  eprinttype   = {arXiv},\n  eprint       = {2602.10715},\n  timestamp    = {Fri, 27 Mar 2026 15:34:55 +0100},\n  biburl       = {https://dblp.org/rec/journals/corr/abs-2602-10715.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "journals/corr/abs-2602-10715",
+    "bibtex_url": "https://dblp.org/rec/journals/corr/abs-2602-10715.bib",
+    "doi": "10.48550/ARXIV.2602.10715",
+    "source": "dblp"
+  },
+  "GeoLaux: A Benchmark for Evaluating MLLMs Geometry Performance on Long-Step Problems Requiring Auxiliary Lines": {
+    "bibtex": "@article{DBLP:journals/corr/abs-2508-06226,\n  author       = {Yumeng Fu and\n                  Jiayin Zhu and\n                  Lingling Zhang and\n                  Bo Zhao and\n                  Shaoxuan Ma and\n                  Yushun Zhang and\n                  Yanrui Wu and\n                  Wenjun Wu},\n  title        = {GeoLaux: {A} Benchmark for Evaluating MLLMs' Geometry Performance\n                  on Long-Step Problems Requiring Auxiliary Lines},\n  journal      = {CoRR},\n  volume       = {abs/2508.06226},\n  year         = {2025},\n  url          = {https://doi.org/10.48550/arXiv.2508.06226},\n  doi          = {10.48550/ARXIV.2508.06226},\n  eprinttype   = {arXiv},\n  eprint       = {2508.06226},\n  timestamp    = {Fri, 27 Mar 2026 15:34:55 +0100},\n  biburl       = {https://dblp.org/rec/journals/corr/abs-2508-06226.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "journals/corr/abs-2508-06226",
+    "bibtex_url": "https://dblp.org/rec/journals/corr/abs-2508-06226.bib",
+    "doi": "10.48550/ARXIV.2508.06226",
+    "source": "dblp"
+  },
+  "Dual-Cluster Memory Agent: Resolving Multi-Paradigm Ambiguity in Optimization Problem Solving": {
+    "bibtex": "@article{DBLP:journals/corr/abs-2604-20183,\n  author       = {Xinyu Zhang and\n                  Yuchen Wan and\n                  Boxuan Zhang and\n                  Zesheng Yang and\n                  Lingling Zhang and\n                  Bifan Wei and\n                  Jun Liu},\n  title        = {Dual-Cluster Memory Agent: Resolving Multi-Paradigm Ambiguity in Optimization\n                  Problem Solving},\n  journal      = {CoRR},\n  volume       = {abs/2604.20183},\n  year         = {2026},\n  url          = {https://doi.org/10.48550/arXiv.2604.20183},\n  doi          = {10.48550/ARXIV.2604.20183},\n  eprinttype   = {arXiv},\n  eprint       = {2604.20183},\n  timestamp    = {Tue, 19 May 2026 07:34:14 +0200},\n  biburl       = {https://dblp.org/rec/journals/corr/abs-2604-20183.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "journals/corr/abs-2604-20183",
+    "bibtex_url": "https://dblp.org/rec/journals/corr/abs-2604-20183.bib",
+    "doi": "10.48550/ARXIV.2604.20183",
+    "source": "dblp"
+  },
+  "OptiVerse: A Comprehensive Benchmark towards Optimization Problem Solving": {
+    "bibtex": "@article{DBLP:journals/corr/abs-2604-21510,\n  author       = {Xinyu Zhang and\n                  Boxuan Zhang and\n                  Yuchen Wan and\n                  Lingling Zhang and\n                  YiXing Yao and\n                  Bifan Wei and\n                  Yaqiang Wu and\n                  Jun Liu},\n  title        = {OptiVerse: {A} Comprehensive Benchmark towards Optimization Problem\n                  Solving},\n  journal      = {CoRR},\n  volume       = {abs/2604.21510},\n  year         = {2026},\n  url          = {https://doi.org/10.48550/arXiv.2604.21510},\n  doi          = {10.48550/ARXIV.2604.21510},\n  eprinttype   = {arXiv},\n  eprint       = {2604.21510},\n  timestamp    = {Wed, 20 May 2026 07:59:37 +0200},\n  biburl       = {https://dblp.org/rec/journals/corr/abs-2604-21510.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "journals/corr/abs-2604-21510",
+    "bibtex_url": "https://dblp.org/rec/journals/corr/abs-2604-21510.bib",
+    "doi": "10.48550/ARXIV.2604.21510",
+    "source": "dblp"
+  },
+  "AGT^AO: Robust and Stabilized LLM Unlearning via Adversarial Gating Training with Adaptive Orthogonality": {
+    "bibtex": "@article{DBLP:journals/corr/abs-2602-01703,\n  author       = {Pengyu Li and\n                  Lingling Zhang and\n                  Zhitao Gao and\n                  Yanrui Wu and\n                  Yuxuan Dong and\n                  Huan Liu and\n                  Bifan Wei and\n                  Jun Liu},\n  title        = {AGT\\({}^{\\mbox{AO}}\\): Robust and Stabilized {LLM} Unlearning via\n                  Adversarial Gating Training with Adaptive Orthogonality},\n  journal      = {CoRR},\n  volume       = {abs/2602.01703},\n  year         = {2026},\n  url          = {https://doi.org/10.48550/arXiv.2602.01703},\n  doi          = {10.48550/ARXIV.2602.01703},\n  eprinttype   = {arXiv},\n  eprint       = {2602.01703},\n  timestamp    = {Sun, 15 Mar 2026 08:43:25 +0100},\n  biburl       = {https://dblp.org/rec/journals/corr/abs-2602-01703.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "journals/corr/abs-2602-01703",
+    "bibtex_url": "https://dblp.org/rec/journals/corr/abs-2602-01703.bib",
+    "doi": "10.48550/ARXIV.2602.01703",
+    "source": "dblp"
+  },
+  "MAXS: Meta-Adaptive Exploration with LLM Agents": {
+    "bibtex": "@article{DBLP:journals/corr/abs-2601-09259,\n  author       = {Jian Zhang and\n                  Zhiyuan Wang and\n                  Zhangqi Wang and\n                  Yu He and\n                  Haoran Luo and\n                  Li Yuan and\n                  Lingling Zhang and\n                  Rui Mao and\n                  Qika Lin and\n                  Jun Liu},\n  title        = {{MAXS:} Meta-Adaptive Exploration with {LLM} Agents},\n  journal      = {CoRR},\n  volume       = {abs/2601.09259},\n  year         = {2026},\n  url          = {https://doi.org/10.48550/arXiv.2601.09259},\n  doi          = {10.48550/ARXIV.2601.09259},\n  eprinttype   = {arXiv},\n  eprint       = {2601.09259},\n  timestamp    = {Tue, 17 Feb 2026 08:04:00 +0100},\n  biburl       = {https://dblp.org/rec/journals/corr/abs-2601-09259.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "journals/corr/abs-2601-09259",
+    "bibtex_url": "https://dblp.org/rec/journals/corr/abs-2601-09259.bib",
+    "doi": "10.48550/ARXIV.2601.09259",
+    "source": "dblp"
+  },
+  "PhysPRM: A Generative Process Reward Model with Fine-grained Diagnosis for Physics Problem Solving": {
+    "title": "PhysPRM: A Generative Process Reward Model with Fine-grained Diagnosis for Physics Problem Solving",
+    "venue": "ACL 2026 Findings",
+    "year": "2026",
+    "bibtex": "@inproceedings{Dong2026PhysPRM,\n  title={PhysPRM: A Generative Process Reward Model with Fine-grained Diagnosis for Physics Problem Solving},\n  author={Dong, Yuxuan and Zhang, Xinyu and Zhang, Lingling and Lai, Han and Li, Peng and Wei, Bifan and Wu, Yaqiang and Liu, Jun},\n  booktitle={Findings of the Association for Computational Linguistics: ACL 2026},\n  year={2026},\n  note={Accepted}\n}",
+    "doi": null,
+    "dblp_key": null,
+    "bibtex_url": null,
+    "source": "manual",
+    "error": null
+  },
+  "B2BGAN: A Backbone-to-Branches GAN-based Oversampling Approach for Class-Imbalanced Tabular Data": {
+    "title": "B2BGAN: A Backbone-to-Branches GAN-based Oversampling Approach for Class-Imbalanced Tabular Data",
+    "venue": "IEEE TKDE, 2025",
+    "year": "2025",
+    "bibtex": "@article{DBLP:journals/tkde/WangWWLG25,\n  author       = {Xiaoguang Wang and\n                  Chenxu Wang and\n                  Mengqin Wang and\n                  Jun Liu and\n                  Xiaohong Guan},\n  title        = {{B2BGAN:} {A} Backbone-to-Branches GAN-Based Oversampling Approach\n                  for Class-Imbalanced Tabular Data},\n  journal      = {{IEEE} Trans. Knowl. Data Eng.},\n  volume       = {37},\n  number       = {10},\n  pages        = {5808--5822},\n  year         = {2025},\n  url          = {https://doi.org/10.1109/TKDE.2025.3593637},\n  doi          = {10.1109/TKDE.2025.3593637},\n  timestamp    = {Wed, 15 Oct 2025 19:22:19 +0200},\n  biburl       = {https://dblp.org/rec/journals/tkde/WangWWLG25.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "journals/tkde/WangWWLG25",
+    "bibtex_url": "https://dblp.org/rec/journals/tkde/WangWWLG25.bib",
+    "doi": "10.1109/TKDE.2025.3593637",
+    "source": "dblp",
+    "error": null
+  },
+  "When Multi-focus Image Fusion Meets Nonlinear Spiking Neural P Systems": {
+    "title": "When Multi-focus Image Fusion Meets Nonlinear Spiking Neural P Systems",
+    "venue": "IEEE TMM, 2025",
+    "year": "2025",
+    "bibtex": "@article{DBLP:journals/tmm/LiZBLZL26,\n  author       = {Bo Li and\n                  Lingling Zhang and\n                  Tingting Bao and\n                  Yunkuo Lei and\n                  Xiaoqing Zhang and\n                  Jun Liu},\n  title        = {When Multi-Focus Image Fusion Meets Nonlinear Spiking Neural {P} Systems},\n  journal      = {{IEEE} Trans. Multim.},\n  volume       = {28},\n  pages        = {545--560},\n  year         = {2026},\n  url          = {https://doi.org/10.1109/TMM.2025.3623493},\n  doi          = {10.1109/TMM.2025.3623493},\n  timestamp    = {Sun, 08 Feb 2026 16:41:28 +0100},\n  biburl       = {https://dblp.org/rec/journals/tmm/LiZBLZL26.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "journals/tmm/LiZBLZL26",
+    "bibtex_url": "https://dblp.org/rec/journals/tmm/LiZBLZL26.bib",
+    "doi": "10.1109/TMM.2025.3623493",
+    "source": "dblp",
+    "error": null
+  },
+  "GeoTree: A Dynamic Tree-based Geometry Problem Solver through LLM-Symbolic Reasoning": {
+    "title": "GeoTree: A Dynamic Tree-based Geometry Problem Solver through LLM-Symbolic Reasoning",
+    "venue": "IEEE TMM, 2025",
+    "year": "2025",
+    "bibtex": "@article{DBLP:journals/tmm/WangWMZJDL26,\n  author       = {Yaxian Wang and\n                  Bifan Wei and\n                  Yinghong Ma and\n                  Lingling Zhang and\n                  Xudong Jiang and\n                  Henghui Ding and\n                  Jun Liu},\n  title        = {GeoTree: {A} Dynamic Tree-Based Geometry Problem Solver Through LLM-Symbolic\n                  Reasoning},\n  journal      = {{IEEE} Trans. Multim.},\n  volume       = {28},\n  pages        = {2876--2887},\n  year         = {2026},\n  url          = {https://doi.org/10.1109/TMM.2026.3651076},\n  doi          = {10.1109/TMM.2026.3651076},\n  timestamp    = {Thu, 23 Apr 2026 08:51:27 +0200},\n  biburl       = {https://dblp.org/rec/journals/tmm/WangWMZJDL26.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "journals/tmm/WangWMZJDL26",
+    "bibtex_url": "https://dblp.org/rec/journals/tmm/WangWMZJDL26.bib",
+    "doi": "10.1109/TMM.2026.3651076",
+    "source": "dblp",
+    "error": null
+  },
+  "Hierarchy-Based Diagram-Sentence Matching on Dual-Modal Graphs": {
+    "title": "Hierarchy-Based Diagram-Sentence Matching on Dual-Modal Graphs",
+    "venue": "Pattern Recognition, 2025",
+    "year": "2025",
+    "error": "ALL_FAILED"
+  },
+  "A Unified Optimal Transport Framework for Cross-Modal Retrieval with Noisy Labels": {
+    "title": "A Unified Optimal Transport Framework for Cross-Modal Retrieval with Noisy Labels",
+    "venue": "IEEE TNNLS, 2025",
+    "year": "2025",
+    "bibtex": "@article{DBLP:journals/tnn/HanLLNL25,\n  author       = {Haochen Han and\n                  Minnan Luo and\n                  Huan Liu and\n                  Fang Nan and\n                  Jun Liu},\n  title        = {A Unified Optimal Transport Framework for Cross-Modal Retrieval With\n                  Noisy Labels},\n  journal      = {{IEEE} Trans. Neural Networks Learn. Syst.},\n  volume       = {36},\n  number       = {9},\n  pages        = {16435--16448},\n  year         = {2025},\n  url          = {https://doi.org/10.1109/TNNLS.2025.3559533},\n  doi          = {10.1109/TNNLS.2025.3559533},\n  timestamp    = {Wed, 15 Oct 2025 19:22:40 +0200},\n  biburl       = {https://dblp.org/rec/journals/tnn/HanLLNL25.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "journals/tnn/HanLLNL25",
+    "bibtex_url": "https://dblp.org/rec/journals/tnn/HanLLNL25.bib",
+    "doi": "10.1109/TNNLS.2025.3559533",
+    "source": "dblp",
+    "error": null
+  },
+  "Are Large Language Models Really Good Logical Reasoners? A Comprehensive Evaluation and Beyond": {
+    "title": "Are Large Language Models Really Good Logical Reasoners? A Comprehensive Evaluation and Beyond",
+    "venue": "IEEE TKDE, 2025",
+    "year": "2025",
+    "bibtex": "@article{Xu_2025, title={Are Large Language Models Really Good Logical Reasoners? A Comprehensive Evaluation and Beyond}, volume={37}, ISSN={2326-3865}, url={http://dx.doi.org/10.1109/tkde.2025.3536008}, DOI={10.1109/tkde.2025.3536008}, number={4}, journal={IEEE Transactions on Knowledge and Data Engineering}, publisher={Institute of Electrical and Electronics Engineers (IEEE)}, author={Xu, Fangzhi and Lin, Qika and Han, Jiawei and Zhao, Tianzhe and Liu, Jun and Cambria, Erik}, year={2025}, month=Apr, pages={1620–1634} }",
+    "doi": "10.1109/tkde.2025.3536008",
+    "pdf_url": "",
+    "source": "crossref",
+    "error": null
+  },
+  "Machine Memory Intelligence: Inspired by Human Memory Mechanisms": {
+    "title": "Machine Memory Intelligence: Inspired by Human Memory Mechanisms",
+    "venue": "Engineering, 2025",
+    "year": "2025",
+    "bibtex": "@article{Zheng_2025, title={Machine Memory Intelligence: Inspired by Human Memory Mechanisms}, volume={55}, ISSN={2095-8099}, url={http://dx.doi.org/10.1016/j.eng.2025.01.012}, DOI={10.1016/j.eng.2025.01.012}, journal={Engineering}, publisher={Elsevier BV}, author={Zheng, Qinghua and Liu, Huan and Zhang, Xiaoqing and Yan, Caixia and Cao, Xiangyong and Gong, Tieliang and Liu, Yong-Jin and Shi, Bin and Peng, Zhen and Fan, Xiaocen and Cai, Ying and Liu, Jun}, year={2025}, month=Dec, pages={24–35} }",
+    "doi": "10.1016/j.eng.2025.01.012",
+    "pdf_url": "",
+    "source": "crossref",
+    "error": null
+  },
+  "LFSRM: Few-Shot Diagram-Sentence Matching via Local-Feedback Self-Regulating Memory": {
+    "title": "LFSRM: Few-Shot Diagram-Sentence Matching via Local-Feedback Self-Regulating Memory",
+    "venue": "IEEE TPAMI, 2025",
+    "year": "2025",
+    "bibtex": "@article{Zhang_2026, title={LFSRM: Few-Shot Diagram-Sentence Matching via Local-Feedback Self-Regulating Memory}, volume={48}, ISSN={1939-3539}, url={http://dx.doi.org/10.1109/TPAMI.2025.3528723}, DOI={10.1109/tpami.2025.3528723}, number={4}, journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, publisher={Institute of Electrical and Electronics Engineers (IEEE)}, author={Zhang, Lingling and Wu, Wenjun and Liu, Jun and Chang, Xiaojun and Hu, Xin and Luo, Xuan and Wu, Yaqiang and Zheng, Qinghua}, year={2026}, month=Apr, pages={3939–3951} }",
+    "dblp_key": "journals/pami/ZhangWLCHLWZ26",
+    "bibtex_url": "https://dblp.org/rec/journals/pami/ZhangWLCHLWZ26.bib",
+    "doi": "10.1109/TPAMI.2025.3528723",
+    "source": "dblp",
+    "error": null
+  },
+  "CoFFT: Chain of Foresight-Focus Thought for Visual Language Models": {
+    "title": "CoFFT: Chain of Foresight-Focus Thought for Visual Language Models",
+    "venue": "NeurIPS 2025",
+    "year": "2025",
+    "bibtex": null,
+    "dblp_key": "journals/corr/abs-2509-22010",
+    "bibtex_url": "https://dblp.org/rec/journals/corr/abs-2509-22010.bib",
+    "doi": "10.48550/ARXIV.2509.22010",
+    "source": "dblp",
+    "error": null
+  },
+  "ChartSketcher: Reasoning with Multimodal Feedback and Reflection for Chart Understanding": {
+    "title": "ChartSketcher: Reasoning with Multimodal Feedback and Reflection for Chart Understanding",
+    "venue": "NeurIPS 2025",
+    "year": "2025",
+    "bibtex": "@inproceedings{Xu_2025, title={ChartPoint: Guiding MLLMs with Grounding Reflection for Chart Reasoning}, url={http://dx.doi.org/10.1109/iccv51701.2025.00047}, DOI={10.1109/iccv51701.2025.00047}, booktitle={2025 IEEE/CVF International Conference on Computer Vision (ICCV)}, publisher={IEEE}, author={Xu, Zhengzhuo and Du, SiNan and Qi, Yiyan and Lu, Siwen and Xu, Chengjin and Yuan, Chun and Guo, Jian}, year={2025}, month=Oct, pages={426–436} }",
+    "doi": "10.1109/iccv51701.2025.00047",
+    "pdf_url": "",
+    "source": "crossref",
+    "error": null
+  },
+  "Deliberation on Priors: Trustworthy Reasoning of LLMs on Knowledge Graphs": {
+    "title": "Deliberation on Priors: Trustworthy Reasoning of LLMs on Knowledge Graphs",
+    "venue": "NeurIPS 2025",
+    "year": "2025",
+    "bibtex": "@inproceedings{Zabed_Khan_2025, title={Reasoning with Knowledge Graphs for Trustworthy Course Recommendation}, url={http://dx.doi.org/10.1109/dsaa65442.2025.11248000}, DOI={10.1109/dsaa65442.2025.11248000}, booktitle={2025 IEEE 12th International Conference on Data Science and Advanced Analytics (DSAA)}, publisher={IEEE}, author={Zabed Khan, Md Akib and Luo, Dongsheng and Polyzou, Agoritsa}, year={2025}, month=Oct, pages={1–10} }",
+    "doi": "10.1109/dsaa65442.2025.11248000",
+    "pdf_url": "",
+    "source": "crossref",
+    "error": null
+  },
+  "Causal-R: A Causal-Reasoning Geometry Problem Solver for Optimized Solution Exploration": {
+    "title": "Causal-R: A Causal-Reasoning Geometry Problem Solver for Optimized Solution Exploration",
+    "venue": "NeurIPS 2025",
+    "year": "2025",
+    "bibtex": "@article{Valio_2026, title={Causal reasoning guides visual exploration}, volume={244}, ISSN={1432-1106}, url={http://dx.doi.org/10.1007/s00221-026-07280-3}, DOI={10.1007/s00221-026-07280-3}, number={6}, journal={Experimental Brain Research}, publisher={Springer Science and Business Media LLC}, author={Valio, Luigi and Ferrante, Donatella and Montanari, Roberto and Brandimonte, Maria Antonella and Federico, Giovanni}, year={2026}, month=Apr }",
+    "doi": "10.1007/s00221-026-07280-3",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s00221-026-07280-3.pdf",
+    "source": "crossref",
+    "error": null
+  },
+  "Diagram-driven course questions generation": {
+    "title": "Diagram-driven course questions generation",
+    "venue": "EMNLP 2025",
+    "year": "2025",
+    "bibtex": "@inproceedings{Zhang_2025, title={Diagram-Driven Course Questions Generation}, url={http://dx.doi.org/10.18653/v1/2025.emnlp-main.305}, DOI={10.18653/v1/2025.emnlp-main.305}, booktitle={Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing}, publisher={Association for Computational Linguistics}, author={Zhang, Xinyu and Zhang, Lingling and Wu, Yanrui and Huang, Muye and Wu, Wenjun and Li, Bo and Wang, Shaowei and Fernando, Basura and Liu, Jun}, year={2025}, pages={5995–6010} }",
+    "doi": "10.18653/v1/2025.emnlp-main.305",
+    "pdf_url": "",
+    "source": "crossref",
+    "error": null
+  },
+  "Cognitive Predictive Coding Network: Rethinking the Generalization in Raven Progressive Matrices": {
+    "title": "Cognitive Predictive Coding Network: Rethinking the Generalization in Raven Progressive Matrices",
+    "venue": "ACM MM 2025",
+    "year": "2025",
+    "bibtex": "@inproceedings{DBLP:conf/mm/00210WH025,\n  author       = {Xinyu Zhang and\n                  Lingling Zhang and\n                  Yanrui Wu and\n                  Muye Huang and\n                  Jun Liu},\n  editor       = {Cathal Gurrin and\n                  Klaus Schoeffmann and\n                  Min Zhang and\n                  Luca Rossetto and\n                  Stevan Rudinac and\n                  Duc{-}Tien Dang{-}Nguyen and\n                  Wen{-}Huang Cheng and\n                  Phoebe Chen and\n                  Jenny Benois{-}Pineau},\n  title        = {Cognitive Predictive Coding Network: Rethinking the Generalization\n                  in Raven's Progressive Matrices},\n  booktitle    = {Proceedings of the 33rd {ACM} International Conference on Multimedia,\n                  {MM} 2025, Dublin, Ireland, October 27-31, 2025},\n  pages        = {4097--4106},\n  publisher    = {{ACM}},\n  year         = {2025},\n  url          = {https://doi.org/10.1145/3746027.3755313},\n  doi          = {10.1145/3746027.3755313},\n  timestamp    = {Tue, 03 Feb 2026 08:27:19 +0100},\n  biburl       = {https://dblp.org/rec/conf/mm/00210WH025.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "conf/mm/00210WH025",
+    "bibtex_url": "https://dblp.org/rec/conf/mm/00210WH025.bib",
+    "doi": "10.1145/3746027.3755313",
+    "source": "dblp",
+    "error": null
+  },
+  "Interactive Evolution: A Neural-Symbolic Self-Training Framework For Large Language Models": {
+    "title": "Interactive Evolution: A Neural-Symbolic Self-Training Framework For Large Language Models",
+    "venue": "ACL 2025",
+    "year": "2025",
+    "bibtex": "@inproceedings{DBLP:conf/acl/XuSCL0025,\n  author       = {Fangzhi Xu and\n                  Qiushi Sun and\n                  Kanzhi Cheng and\n                  Jun Liu and\n                  Yu Qiao and\n                  Zhiyong Wu},\n  editor       = {Wanxiang Che and\n                  Joyce Nabende and\n                  Ekaterina Shutova and\n                  Mohammad Taher Pilehvar},\n  title        = {Interactive Evolution: {A} Neural-Symbolic Self-Training Framework\n                  For Large Language Models},\n  booktitle    = {Proceedings of the 63rd Annual Meeting of the Association for Computational\n                  Linguistics (Volume 1: Long Papers), {ACL} 2025, Vienna, Austria,\n                  July 27 - August 1, 2025},\n  pages        = {12975--12993},\n  publisher    = {Association for Computational Linguistics},\n  year         = {2025},\n  url          = {https://aclanthology.org/2025.acl-long.635/},\n  timestamp    = {Sun, 02 Nov 2025 21:27:24 +0100},\n  biburl       = {https://dblp.org/rec/conf/acl/XuSCL0025.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "conf/acl/XuSCL0025",
+    "bibtex_url": "https://dblp.org/rec/conf/acl/XuSCL0025.bib",
+    "source": "dblp",
+    "error": null
+  },
+  "Genius: A Generalizable and Purely Unsupervised Self-Training Framework For Advanced Reasoning": {
+    "title": "Genius: A Generalizable and Purely Unsupervised Self-Training Framework For Advanced Reasoning",
+    "venue": "ACL 2025",
+    "year": "2025",
+    "bibtex": "@inproceedings{DBLP:conf/acl/Xu0MZSCHL025,\n  author       = {Fangzhi Xu and\n                  Hang Yan and\n                  Chang Ma and\n                  Haiteng Zhao and\n                  Qiushi Sun and\n                  Kanzhi Cheng and\n                  Junxian He and\n                  Jun Liu and\n                  Zhiyong Wu},\n  editor       = {Wanxiang Che and\n                  Joyce Nabende and\n                  Ekaterina Shutova and\n                  Mohammad Taher Pilehvar},\n  title        = {Genius: {A} Generalizable and Purely Unsupervised Self-Training Framework\n                  For Advanced Reasoning},\n  booktitle    = {Proceedings of the 63rd Annual Meeting of the Association for Computational\n                  Linguistics (Volume 1: Long Papers), {ACL} 2025, Vienna, Austria,\n                  July 27 - August 1, 2025},\n  pages        = {13153--13167},\n  publisher    = {Association for Computational Linguistics},\n  year         = {2025},\n  url          = {https://aclanthology.org/2025.acl-long.644/},\n  timestamp    = {Sun, 02 Nov 2025 21:27:24 +0100},\n  biburl       = {https://dblp.org/rec/conf/acl/Xu0MZSCHL025.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "conf/acl/Xu0MZSCHL025",
+    "bibtex_url": "https://dblp.org/rec/conf/acl/Xu0MZSCHL025.bib",
+    "source": "dblp",
+    "error": null
+  },
+  "Decoding: Adaptive Foresight Sampling for Balanced Inference-Time Exploration and Exploitation": {
+    "title": "Decoding: Adaptive Foresight Sampling for Balanced Inference-Time Exploration and Exploitation",
+    "venue": "ACL 2025",
+    "year": "2025",
+    "bibtex": "@inproceedings{DBLP:conf/acl/Xu0MZLL025,\n  author       = {Fangzhi Xu and\n                  Hang Yan and\n                  Chang Ma and\n                  Haiteng Zhao and\n                  Jun Liu and\n                  Qika Lin and\n                  Zhiyong Wu},\n  editor       = {Wanxiang Che and\n                  Joyce Nabende and\n                  Ekaterina Shutova and\n                  Mohammad Taher Pilehvar},\n  title        = {{\\(\\varphi\\)}-Decoding: Adaptive Foresight Sampling for Balanced Inference-Time\n                  Exploration and Exploitation},\n  booktitle    = {Proceedings of the 63rd Annual Meeting of the Association for Computational\n                  Linguistics (Volume 1: Long Papers), {ACL} 2025, Vienna, Austria,\n                  July 27 - August 1, 2025},\n  pages        = {13214--13227},\n  publisher    = {Association for Computational Linguistics},\n  year         = {2025},\n  url          = {https://aclanthology.org/2025.acl-long.647/},\n  timestamp    = {Sun, 02 Nov 2025 21:27:24 +0100},\n  biburl       = {https://dblp.org/rec/conf/acl/Xu0MZLL025.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "conf/acl/Xu0MZLL025",
+    "bibtex_url": "https://dblp.org/rec/conf/acl/Xu0MZLL025.bib",
+    "source": "dblp",
+    "error": null
+  },
+  "PhysReason: A Comprehensive Benchmark towards Physics-Based Reasoning": {
+    "title": "PhysReason: A Comprehensive Benchmark towards Physics-Based Reasoning",
+    "venue": "ACL 2025",
+    "year": "2025",
+    "bibtex": "@inproceedings{DBLP:conf/acl/ZhangDWHJFSZ025,\n  author       = {Xinyu Zhang and\n                  Yuxuan Dong and\n                  Yanrui Wu and\n                  Jiaxing Huang and\n                  Chengyou Jia and\n                  Basura Fernando and\n                  Mike Zheng Shou and\n                  Lingling Zhang and\n                  Jun Liu},\n  editor       = {Wanxiang Che and\n                  Joyce Nabende and\n                  Ekaterina Shutova and\n                  Mohammad Taher Pilehvar},\n  title        = {PhysReason: {A} Comprehensive Benchmark towards Physics-Based Reasoning},\n  booktitle    = {Proceedings of the 63rd Annual Meeting of the Association for Computational\n                  Linguistics (Volume 1: Long Papers), {ACL} 2025, Vienna, Austria,\n                  July 27 - August 1, 2025},\n  pages        = {16593--16615},\n  publisher    = {Association for Computational Linguistics},\n  year         = {2025},\n  url          = {https://aclanthology.org/2025.acl-long.811/},\n  timestamp    = {Thu, 05 Feb 2026 07:39:36 +0100},\n  biburl       = {https://dblp.org/rec/conf/acl/ZhangDWHJFSZ025.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "conf/acl/ZhangDWHJFSZ025",
+    "bibtex_url": "https://dblp.org/rec/conf/acl/ZhangDWHJFSZ025.bib",
+    "source": "dblp",
+    "error": null
+  },
+  "SAGE: Scale-Aware Gradual Evolution for Continual Knowledge Graph Embedding": {
+    "title": "SAGE: Scale-Aware Gradual Evolution for Continual Knowledge Graph Embedding",
+    "venue": "KDD 2025",
+    "year": "2025",
+    "bibtex": "@inproceedings{DBLP:conf/kdd/000600Z0H025,\n  author       = {Yifei Li and\n                  Lingling Zhang and\n                  Hang Yan and\n                  Tianzhe Zhao and\n                  Zihan Ma and\n                  Muye Huang and\n                  Jun Liu},\n  editor       = {Luiza Antonie and\n                  Jian Pei and\n                  Xiaohui Yu and\n                  Flavio Chierichetti and\n                  Hady W. Lauw and\n                  Yizhou Sun and\n                  Srinivasan Parthasarathy},\n  title        = {{SAGE:} Scale-Aware Gradual Evolution for Continual Knowledge Graph\n                  Embedding},\n  booktitle    = {Proceedings of the 31st {ACM} {SIGKDD} Conference on Knowledge Discovery\n                  and Data Mining, V.2, {KDD} 2025, Toronto ON, Canada, August 3-7,\n                  2025},\n  pages        = {1600--1611},\n  publisher    = {{ACM}},\n  year         = {2025},\n  url          = {https://doi.org/10.1145/3711896.3737115},\n  doi          = {10.1145/3711896.3737115},\n  timestamp    = {Wed, 24 Dec 2025 10:44:00 +0100},\n  biburl       = {https://dblp.org/rec/conf/kdd/000600Z0H025.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "conf/kdd/000600Z0H025",
+    "bibtex_url": "https://dblp.org/rec/conf/kdd/000600Z0H025.bib",
+    "doi": "10.1145/3711896.3737115",
+    "source": "dblp",
+    "error": null
+  },
+  "Metapath and Hypergraph Structure-based Multi-Channel Graph Contrastive Learning for Student Performance Prediction": {
+    "title": "Metapath and Hypergraph Structure-based Multi-Channel Graph Contrastive Learning for Student Performance Prediction",
+    "venue": "IJCAI 2025",
+    "year": "2025",
+    "bibtex": "@inproceedings{DBLP:conf/ijcai/SongSGP0M0025,\n  author       = {Lingyun Song and\n                  Xiaofan Sun and\n                  Xinbiao Gan and\n                  Yudai Pan and\n                  Xiaolin Han and\n                  Jie Ma and\n                  Jun Liu and\n                  Xuequn Shang},\n  title        = {Metapath and Hypergraph Structure-based Multi-Channel Graph Contrastive\n                  Learning for Student Performance Prediction},\n  booktitle    = {Proceedings of the Thirty-Fourth International Joint Conference on\n                  Artificial Intelligence, {IJCAI} 2025, Montreal, Canada, August 16-22,\n                  2025},\n  pages        = {6191--6199},\n  publisher    = {ijcai.org},\n  year         = {2025},\n  url          = {https://doi.org/10.24963/ijcai.2025/689},\n  doi          = {10.24963/IJCAI.2025/689},\n  timestamp    = {Wed, 24 Sep 2025 17:45:28 +0200},\n  biburl       = {https://dblp.org/rec/conf/ijcai/SongSGP0M0025.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "conf/ijcai/SongSGP0M0025",
+    "bibtex_url": "https://dblp.org/rec/conf/ijcai/SongSGP0M0025.bib",
+    "doi": "10.24963/IJCAI.2025/689",
+    "source": "dblp",
+    "error": null
+  },
+  "GlFoMR: A Glance-then-Focus Multimodal Reasoning Framework for Diagram Question Answering": {
+    "title": "GlFoMR: A Glance-then-Focus Multimodal Reasoning Framework for Diagram Question Answering",
+    "venue": "SIGIR 2025",
+    "year": "2025",
+    "bibtex": "@inproceedings{DBLP:conf/sigir/WangW00HLL25,\n  author       = {Yaxian Wang and\n                  Bifan Wei and\n                  Jun Liu and\n                  Lingling Zhang and\n                  Shuting He and\n                  Jun Li and\n                  Qika Lin},\n  editor       = {Nicola Ferro and\n                  Maria Maistro and\n                  Gabriella Pasi and\n                  Omar Alonso and\n                  Andrew Trotman and\n                  Suzan Verberne},\n  title        = {GlFoMR: {A} Glance-then-Focus Multimodal Reasoning Framework for Diagram\n                  Question Answering},\n  booktitle    = {Proceedings of the 48th International {ACM} {SIGIR} Conference on\n                  Research and Development in Information Retrieval, {SIGIR} 2025, Padua,\n                  Italy, July 13-18, 2025},\n  pages        = {1130--1140},\n  publisher    = {{ACM}},\n  year         = {2025},\n  url          = {https://doi.org/10.1145/3726302.3729990},\n  doi          = {10.1145/3726302.3729990},\n  timestamp    = {Sun, 02 Nov 2025 21:27:20 +0100},\n  biburl       = {https://dblp.org/rec/conf/sigir/WangW00HLL25.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "conf/sigir/WangW00HLL25",
+    "bibtex_url": "https://dblp.org/rec/conf/sigir/WangW00HLL25.bib",
+    "doi": "10.1145/3726302.3729990",
+    "source": "dblp",
+    "error": null
+  },
+  "Rethinking Continual Knowledge Graph Embedding: Benchmarks and Analysis": {
+    "title": "Rethinking Continual Knowledge Graph Embedding: Benchmarks and Analysis",
+    "venue": "SIGIR 2025",
+    "year": "2025",
+    "bibtex": "@inproceedings{DBLP:conf/sigir/Zhao0RLGZPL25,\n  author       = {Tianzhe Zhao and\n                  Jiaoyan Chen and\n                  Yanchi Ru and\n                  Qika Lin and\n                  Yuxia Geng and\n                  Haiping Zhu and\n                  Yudai Pan and\n                  Jun Liu},\n  editor       = {Nicola Ferro and\n                  Maria Maistro and\n                  Gabriella Pasi and\n                  Omar Alonso and\n                  Andrew Trotman and\n                  Suzan Verberne},\n  title        = {Rethinking Continual Knowledge Graph Embedding: Benchmarks and Analysis},\n  booktitle    = {Proceedings of the 48th International {ACM} {SIGIR} Conference on\n                  Research and Development in Information Retrieval, {SIGIR} 2025, Padua,\n                  Italy, July 13-18, 2025},\n  pages        = {138--147},\n  publisher    = {{ACM}},\n  year         = {2025},\n  url          = {https://doi.org/10.1145/3726302.3730073},\n  doi          = {10.1145/3726302.3730073},\n  timestamp    = {Sun, 02 Nov 2025 21:27:20 +0100},\n  biburl       = {https://dblp.org/rec/conf/sigir/Zhao0RLGZPL25.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "conf/sigir/Zhao0RLGZPL25",
+    "bibtex_url": "https://dblp.org/rec/conf/sigir/Zhao0RLGZPL25.bib",
+    "doi": "10.1145/3726302.3730073",
+    "source": "dblp",
+    "error": null
+  },
+  "ResoFilter: Fine-grained Synthetic Data Filtering for LLMs through Data-Parameter Resonance Analysis": {
+    "title": "ResoFilter: Fine-grained Synthetic Data Filtering for LLMs through Data-Parameter Resonance Analysis",
+    "venue": "NAACL 2025",
+    "year": "2025",
+    "bibtex": "@inproceedings{Tu_2025, title={ResoFilter: Fine-grained Synthetic Data Filtering for Large Language Models through Data-Parameter Resonance Analysis}, url={http://dx.doi.org/10.18653/v1/2025.findings-naacl.299}, DOI={10.18653/v1/2025.findings-naacl.299}, booktitle={Findings of the Association for Computational Linguistics: NAACL 2025}, publisher={Association for Computational Linguistics}, author={Tu, Zeao and Meng, Xiangdi and He, Yu and Yao, Zihan and Qi, Tianyu and Liu, Jun and Li, Ming}, year={2025}, pages={5414–5428} }",
+    "doi": "10.18653/v1/2025.findings-naacl.299",
+    "pdf_url": "",
+    "source": "crossref",
+    "error": null
+  },
+  "Logic-Aware Knowledge Graph Reasoning for Structural Sparsity under LLM Supervision": {
+    "title": "Logic-Aware Knowledge Graph Reasoning for Structural Sparsity under LLM Supervision",
+    "venue": "WWW 2025",
+    "year": "2025",
+    "bibtex": "@inproceedings{Pan_2025, series={WWW ’25}, title={Logic-Aware Knowledge Graph Reasoning for Structural Sparsity under Large Language Model Supervision}, url={http://dx.doi.org/10.1145/3696410.3714685}, DOI={10.1145/3696410.3714685}, booktitle={Proceedings of the ACM on Web Conference 2025}, publisher={ACM}, author={Pan, Yudai and Hong, Jiajie and Zhao, Tianzhe and Song, Lingyun and Liu, Jun and Shang, Xuequn}, year={2025}, month=Apr, pages={4531–4542}, collection={WWW ’25} }",
+    "doi": "10.1145/3696410.3714685",
+    "pdf_url": "",
+    "source": "crossref",
+    "error": null
+  },
+  "Debate on Graph: a Flexible and Reliable Reasoning Framework for Large Language Models": {
+    "title": "Debate on Graph: a Flexible and Reliable Reasoning Framework for Large Language Models",
+    "venue": "AAAI 2025",
+    "year": "2025",
+    "bibtex": "@article{Ma_2025, title={Debate on Graph: A Flexible and Reliable Reasoning Framework for Large Language Models}, volume={39}, ISSN={2159-5399}, url={http://dx.doi.org/10.1609/aaai.v39i23.34658}, DOI={10.1609/aaai.v39i23.34658}, number={23}, journal={Proceedings of the AAAI Conference on Artificial Intelligence}, publisher={Association for the Advancement of Artificial Intelligence (AAAI)}, author={Ma, Jie and Gao, Zhitao and Chai, Qi and Sun, Wangchun and Wang, Pinghui and Pei, Hongbin and Tao, Jing and Song, Lingyun and Liu, Jun and Zhang, Chen and Cui, Lizhen}, year={2025}, month=Apr, pages={24768–24776} }",
+    "doi": "10.1609/aaai.v39i23.34658",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/34658/36813",
+    "source": "crossref",
+    "error": null
+  },
+  "EvoChart: A Benchmark and a Self-Training Approach Towards Real-World Chart Understanding": {
+    "title": "EvoChart: A Benchmark and a Self-Training Approach Towards Real-World Chart Understanding",
+    "venue": "AAAI 2025",
+    "year": "2025",
+    "bibtex": "@inproceedings{DBLP:conf/aaai/HuangLZW0ZL25,\n  author       = {Muye Huang and\n                  Han Lai and\n                  Xinyu Zhang and\n                  Wenjun Wu and\n                  Jie Ma and\n                  Lingling Zhang and\n                  Jun Liu},\n  editor       = {Toby Walsh and\n                  Julie Shah and\n                  Zico Kolter},\n  title        = {EvoChart: {A} Benchmark and a Self-Training Approach Towards Real-World\n                  Chart Understanding},\n  booktitle    = {Thirty-Ninth {AAAI} Conference on Artificial Intelligence, Thirty-Seventh\n                  Conference on Innovative Applications of Artificial Intelligence,\n                  Fifteenth Symposium on Educational Advances in Artificial Intelligence,\n                  {AAAI} 2025, Philadelphia, PA, USA, February 25 - March 4, 2025},\n  pages        = {3680--3688},\n  publisher    = {{AAAI} Press},\n  year         = {2025},\n  url          = {https://doi.org/10.1609/aaai.v39i4.32383},\n  doi          = {10.1609/AAAI.V39I4.32383},\n  timestamp    = {Wed, 18 Mar 2026 17:07:12 +0100},\n  biburl       = {https://dblp.org/rec/conf/aaai/HuangLZW0ZL25.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "conf/aaai/HuangLZW0ZL25",
+    "bibtex_url": "https://dblp.org/rec/conf/aaai/HuangLZW0ZL25.bib",
+    "doi": "10.1609/AAAI.V39I4.32383",
+    "source": "dblp",
+    "error": null
+  },
+  "VProChart: Answering Chart Question through Visual Perception Alignment Agent and Programmatic Solution Reasoning": {
+    "title": "VProChart: Answering Chart Question through Visual Perception Alignment Agent and Programmatic Solution Reasoning",
+    "venue": "AAAI 2025",
+    "year": "2025",
+    "bibtex": "@inproceedings{DBLP:conf/aaai/HuangZLWZL25,\n  author       = {Muye Huang and\n                  Lingling Zhang and\n                  Han Lai and\n                  Wenjun Wu and\n                  Xinyu Zhang and\n                  Jun Liu},\n  editor       = {Toby Walsh and\n                  Julie Shah and\n                  Zico Kolter},\n  title        = {VProChart: Answering Chart Question Through Visual Perception Alignment\n                  Agent and Programmatic Solution Reasoning},\n  booktitle    = {Thirty-Ninth {AAAI} Conference on Artificial Intelligence, Thirty-Seventh\n                  Conference on Innovative Applications of Artificial Intelligence,\n                  Fifteenth Symposium on Educational Advances in Artificial Intelligence,\n                  {AAAI} 2025, Philadelphia, PA, USA, February 25 - March 4, 2025},\n  pages        = {3689--3696},\n  publisher    = {{AAAI} Press},\n  year         = {2025},\n  url          = {https://doi.org/10.1609/aaai.v39i4.32384},\n  doi          = {10.1609/AAAI.V39I4.32384},\n  timestamp    = {Fri, 27 Mar 2026 15:34:54 +0100},\n  biburl       = {https://dblp.org/rec/conf/aaai/HuangZLWZL25.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "conf/aaai/HuangZLWZL25",
+    "bibtex_url": "https://dblp.org/rec/conf/aaai/HuangZLWZL25.bib",
+    "doi": "10.1609/AAAI.V39I4.32384",
+    "source": "dblp",
+    "error": null
+  },
+  "TDGI: Translation-Guided Double-Graph Inference for Document-Level Relation Extraction": {
+    "title": "TDGI: Translation-Guided Double-Graph Inference for Document-Level Relation Extraction",
+    "venue": "IEEE TPAMI, 2024",
+    "year": "2024",
+    "bibtex": "@article{DBLP:journals/pami/ZhangZZLWWC25,\n  author       = {Lingling Zhang and\n                  Yujie Zhong and\n                  Qinghua Zheng and\n                  Jun Liu and\n                  Qianying Wang and\n                  Jiaxin Wang and\n                  Xiaojun Chang},\n  title        = {{TDGI:} Translation-Guided Double-Graph Inference for Document-Level\n                  Relation Extraction},\n  journal      = {{IEEE} Trans. Pattern Anal. Mach. Intell.},\n  volume       = {47},\n  number       = {4},\n  pages        = {2647--2659},\n  year         = {2025},\n  url          = {https://doi.org/10.1109/TPAMI.2025.3528246},\n  doi          = {10.1109/TPAMI.2025.3528246},\n  timestamp    = {Wed, 12 Nov 2025 14:11:47 +0100},\n  biburl       = {https://dblp.org/rec/journals/pami/ZhangZZLWWC25.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "journals/pami/ZhangZZLWWC25",
+    "bibtex_url": "https://dblp.org/rec/journals/pami/ZhangZZLWWC25.bib",
+    "doi": "10.1109/TPAMI.2025.3528246",
+    "source": "dblp",
+    "error": null
+  },
+  "Robust Visual Question Answering: Datasets, Methods, and Future Challenges": {
+    "title": "Robust Visual Question Answering: Datasets, Methods, and Future Challenges",
+    "venue": "IEEE TPAMI, 2024",
+    "year": "2024",
+    "bibtex": "@article{DBLP:journals/corr/abs-2307-11471,\n  author       = {Jie Ma and\n                  Pinghui Wang and\n                  Dechen Kong and\n                  Zewei Wang and\n                  Jun Liu and\n                  Hongbin Pei and\n                  Junzhou Zhao},\n  title        = {Robust Visual Question Answering: Datasets, Methods, and Future Challenges},\n  journal      = {CoRR},\n  volume       = {abs/2307.11471},\n  year         = {2023},\n  url          = {https://doi.org/10.48550/arXiv.2307.11471},\n  doi          = {10.48550/ARXIV.2307.11471},\n  eprinttype   = {arXiv},\n  eprint       = {2307.11471},\n  timestamp    = {Thu, 29 Aug 2024 10:40:33 +0200},\n  biburl       = {https://dblp.org/rec/journals/corr/abs-2307-11471.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "journals/corr/abs-2307-11471",
+    "bibtex_url": "https://dblp.org/rec/journals/corr/abs-2307-11471.bib",
+    "doi": "10.48550/ARXIV.2307.11471",
+    "source": "dblp",
+    "error": null
+  },
+  "Alignment Relation is What You Need for Diagram Parsing": {
+    "title": "Alignment Relation is What You Need for Diagram Parsing",
+    "venue": "IEEE TIP, 2024",
+    "year": "2024",
+    "bibtex": "@article{DBLP:journals/tip/ZhangZHLWW24,\n  author       = {Xinyu Zhang and\n                  Lingling Zhang and\n                  Xin Hu and\n                  Jun Liu and\n                  Shaowei Wang and\n                  Qianying Wang},\n  title        = {Alignment Relation is What You Need for Diagram Parsing},\n  journal      = {{IEEE} Trans. Image Process.},\n  volume       = {33},\n  pages        = {2131--2144},\n  year         = {2024},\n  url          = {https://doi.org/10.1109/TIP.2024.3374511},\n  doi          = {10.1109/TIP.2024.3374511},\n  timestamp    = {Wed, 12 Nov 2025 14:11:47 +0100},\n  biburl       = {https://dblp.org/rec/journals/tip/ZhangZHLWW24.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "journals/tip/ZhangZHLWW24",
+    "bibtex_url": "https://dblp.org/rec/journals/tip/ZhangZHLWW24.bib",
+    "doi": "10.1109/TIP.2024.3374511",
+    "source": "dblp",
+    "error": null
+  },
+  "Context-Aware Commonsense Knowledge Graph Reasoning with Path-Guided Explanations": {
+    "title": "Context-Aware Commonsense Knowledge Graph Reasoning with Path-Guided Explanations",
+    "venue": "IEEE TKDE, 2024",
+    "year": "2024",
+    "bibtex": "@article{DBLP:journals/tkde/PanLZZW24,\n  author       = {Yudai Pan and\n                  Jun Liu and\n                  Tianzhe Zhao and\n                  Lingling Zhang and\n                  Qianying Wang},\n  title        = {Context-Aware Commonsense Knowledge Graph Reasoning With Path-Guided\n                  Explanations},\n  journal      = {{IEEE} Trans. Knowl. Data Eng.},\n  volume       = {36},\n  number       = {8},\n  pages        = {3725--3738},\n  year         = {2024},\n  url          = {https://doi.org/10.1109/tkde.2024.3365103},\n  doi          = {10.1109/TKDE.2024.3365103},\n  timestamp    = {Wed, 12 Nov 2025 14:11:47 +0100},\n  biburl       = {https://dblp.org/rec/journals/tkde/PanLZZW24.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "journals/tkde/PanLZZW24",
+    "bibtex_url": "https://dblp.org/rec/journals/tkde/PanLZZW24.bib",
+    "doi": "10.1109/TKDE.2024.3365103",
+    "source": "dblp",
+    "error": null
+  },
+  "FPrompt-PLM: Flexible-Prompt on Pretrained Language Model for Continual Few-Shot Relation Extraction": {
+    "title": "FPrompt-PLM: Flexible-Prompt on Pretrained Language Model for Continual Few-Shot Relation Extraction",
+    "venue": "IEEE TKDE, 2024",
+    "year": "2024",
+    "bibtex": "@article{DBLP:journals/tkde/ZhangLWWYWL24,\n  author       = {Lingling Zhang and\n                  Yifei Li and\n                  Qianying Wang and\n                  Yun Wang and\n                  Hang Yan and\n                  Jiaxin Wang and\n                  Jun Liu},\n  title        = {FPrompt-PLM: Flexible-Prompt on Pretrained Language Model for Continual\n                  Few-Shot Relation Extraction},\n  journal      = {{IEEE} Trans. Knowl. Data Eng.},\n  volume       = {36},\n  number       = {12},\n  pages        = {8267--8282},\n  year         = {2024},\n  url          = {https://doi.org/10.1109/TKDE.2024.3419117},\n  doi          = {10.1109/TKDE.2024.3419117},\n  timestamp    = {Wed, 12 Nov 2025 14:11:47 +0100},\n  biburl       = {https://dblp.org/rec/journals/tkde/ZhangLWWYWL24.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "journals/tkde/ZhangLWWYWL24",
+    "bibtex_url": "https://dblp.org/rec/journals/tkde/ZhangLWWYWL24.bib",
+    "doi": "10.1109/TKDE.2024.3419117",
+    "source": "dblp",
+    "error": null
+  },
+  "RTRL: Relation-aware Transformer with Reinforcement Learning for Deep Question Generation": {
+    "title": "RTRL: Relation-aware Transformer with Reinforcement Learning for Deep Question Generation",
+    "venue": "Knowledge-Based Systems, 2024",
+    "year": "2024",
+    "bibtex": "@article{DBLP:journals/kbs/ZengWL24,\n  author       = {Hongwei Zeng and\n                  Bifan Wei and\n                  Jun Liu},\n  title        = {{RTRL:} Relation-aware Transformer with Reinforcement Learning for\n                  Deep Question Generation},\n  journal      = {Knowl. Based Syst.},\n  volume       = {300},\n  pages        = {112120},\n  year         = {2024},\n  url          = {https://doi.org/10.1016/j.knosys.2024.112120},\n  doi          = {10.1016/J.KNOSYS.2024.112120},\n  timestamp    = {Tue, 25 Nov 2025 10:56:15 +0100},\n  biburl       = {https://dblp.org/rec/journals/kbs/ZengWL24.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "journals/kbs/ZengWL24",
+    "bibtex_url": "https://dblp.org/rec/journals/kbs/ZengWL24.bib",
+    "doi": "10.1016/J.KNOSYS.2024.112120",
+    "source": "dblp",
+    "error": null
+  },
+  "Interest-Driven Community Detection on Attributed Heterogeneous Information Networks": {
+    "title": "Interest-Driven Community Detection on Attributed Heterogeneous Information Networks",
+    "venue": "Information Fusion, 2024",
+    "year": "2024",
+    "bibtex": "@article{DBLP:journals/inffus/LiuLDMC24,\n  author       = {Mengyue Liu and\n                  Jun Liu and\n                  Yixiang Dong and\n                  Rui Mao and\n                  Erik Cambria},\n  title        = {Interest-driven community detection on attributed heterogeneous information\n                  networks},\n  journal      = {Inf. Fusion},\n  volume       = {111},\n  pages        = {102525},\n  year         = {2024},\n  url          = {https://doi.org/10.1016/j.inffus.2024.102525},\n  doi          = {10.1016/J.INFFUS.2024.102525},\n  timestamp    = {Tue, 01 Apr 2025 19:01:38 +0200},\n  biburl       = {https://dblp.org/rec/journals/inffus/LiuLDMC24.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "journals/inffus/LiuLDMC24",
+    "bibtex_url": "https://dblp.org/rec/journals/inffus/LiuLDMC24.bib",
+    "doi": "10.1016/J.INFFUS.2024.102525",
+    "source": "dblp",
+    "error": null
+  },
+  "Multi-View Cognition with Path Search for One-Shot Part Labeling": {
+    "title": "Multi-View Cognition with Path Search for One-Shot Part Labeling",
+    "venue": "CVIU, 2024",
+    "year": "2024",
+    "bibtex": "@article{DBLP:journals/cviu/WangZQLLWZ24,\n  author       = {Shaowei Wang and\n                  Lingling Zhang and\n                  Tao Qin and\n                  Jun Liu and\n                  Yifei Li and\n                  Qianying Wang and\n                  Qinghua Zheng},\n  title        = {Multi-view cognition with path search for one-shot part labeling},\n  journal      = {Comput. Vis. Image Underst.},\n  volume       = {244},\n  pages        = {104015},\n  year         = {2024},\n  url          = {https://doi.org/10.1016/j.cviu.2024.104015},\n  doi          = {10.1016/J.CVIU.2024.104015},\n  timestamp    = {Wed, 12 Nov 2025 14:11:47 +0100},\n  biburl       = {https://dblp.org/rec/journals/cviu/WangZQLLWZ24.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "journals/cviu/WangZQLLWZ24",
+    "bibtex_url": "https://dblp.org/rec/journals/cviu/WangZQLLWZ24.bib",
+    "doi": "10.1016/J.CVIU.2024.104015",
+    "source": "dblp",
+    "error": null
+  },
+  "Learning Path Recommendation with Multi-behavior User Modeling and Cascading Deep Q Networks": {
+    "title": "Learning Path Recommendation with Multi-behavior User Modeling and Cascading Deep Q Networks",
+    "venue": "Knowledge-Based Systems, 2024",
+    "year": "2024",
+    "bibtex": "@article{DBLP:journals/kbs/MaZLCLTC24,\n  author       = {Dailusi Ma and\n                  Haiping Zhu and\n                  Siji Liao and\n                  Yan Chen and\n                  Jun Liu and\n                  Feng Tian and\n                  Ping Chen},\n  title        = {Learning path recommendation with multi-behavior user modeling and\n                  cascading deep {Q} networks},\n  journal      = {Knowl. Based Syst.},\n  volume       = {294},\n  pages        = {111743},\n  year         = {2024},\n  url          = {https://doi.org/10.1016/j.knosys.2024.111743},\n  doi          = {10.1016/J.KNOSYS.2024.111743},\n  timestamp    = {Sun, 01 Feb 2026 13:41:40 +0100},\n  biburl       = {https://dblp.org/rec/journals/kbs/MaZLCLTC24.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "journals/kbs/MaZLCLTC24",
+    "bibtex_url": "https://dblp.org/rec/journals/kbs/MaZLCLTC24.bib",
+    "doi": "10.1016/J.KNOSYS.2024.111743",
+    "source": "dblp",
+    "error": null
+  },
+  "Learnable Convolutional Attention Network for Knowledge Graph Completion": {
+    "title": "Learnable Convolutional Attention Network for Knowledge Graph Completion",
+    "venue": "Knowledge-Based Systems, 2024",
+    "year": "2024",
+    "bibtex": "@article{DBLP:journals/kbs/ShangZL24,\n  author       = {Bin Shang and\n                  Yinliang Zhao and\n                  Jun Liu},\n  title        = {Learnable convolutional attention network for knowledge graph completion},\n  journal      = {Knowl. Based Syst.},\n  volume       = {285},\n  pages        = {111360},\n  year         = {2024},\n  url          = {https://doi.org/10.1016/j.knosys.2023.111360},\n  doi          = {10.1016/J.KNOSYS.2023.111360},\n  timestamp    = {Fri, 31 May 2024 21:06:16 +0200},\n  biburl       = {https://dblp.org/rec/journals/kbs/ShangZL24.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "journals/kbs/ShangZL24",
+    "bibtex_url": "https://dblp.org/rec/journals/kbs/ShangZL24.bib",
+    "doi": "10.1016/J.KNOSYS.2023.111360",
+    "source": "dblp",
+    "error": null
+  },
+  "Knowledge Graph Representation Learning with Relation-guided Aggregation and Interaction": {
+    "title": "Knowledge Graph Representation Learning with Relation-guided Aggregation and Interaction",
+    "venue": "Information Processing and Management, 2024",
+    "year": "2024",
+    "bibtex": "@article{DBLP:journals/ipm/ShangZL24,\n  author       = {Bin Shang and\n                  Yinliang Zhao and\n                  Jun Liu},\n  title        = {Knowledge graph representation learning with relation-guided aggregation\n                  and interaction},\n  journal      = {Inf. Process. Manag.},\n  volume       = {61},\n  number       = {4},\n  pages        = {103752},\n  year         = {2024},\n  url          = {https://doi.org/10.1016/j.ipm.2024.103752},\n  doi          = {10.1016/J.IPM.2024.103752},\n  timestamp    = {Sat, 06 Sep 2025 20:27:00 +0200},\n  biburl       = {https://dblp.org/rec/journals/ipm/ShangZL24.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "journals/ipm/ShangZL24",
+    "bibtex_url": "https://dblp.org/rec/journals/ipm/ShangZL24.bib",
+    "doi": "10.1016/J.IPM.2024.103752",
+    "source": "dblp",
+    "error": null
+  },
+  "Look, Listen, and Answer: Overcoming Biases for Audio-Visual Question Answering": {
+    "title": "Look, Listen, and Answer: Overcoming Biases for Audio-Visual Question Answering",
+    "venue": "NeurIPS 2024",
+    "year": "2024",
+    "bibtex": "@inproceedings{DBLP:conf/nips/MaHWSSPLD24,\n  author       = {Jie Ma and\n                  Min Hu and\n                  Pinghui Wang and\n                  Wangchun Sun and\n                  Lingyun Song and\n                  Hongbin Pei and\n                  Jun Liu and\n                  Youtian Du},\n  editor       = {Amir Globersons and\n                  Lester Mackey and\n                  Danielle Belgrave and\n                  Angela Fan and\n                  Ulrich Paquet and\n                  Jakub M. Tomczak and\n                  Cheng Zhang},\n  title        = {Look, Listen, and Answer: Overcoming Biases for Audio-Visual Question\n                  Answering},\n  booktitle    = {Advances in Neural Information Processing Systems 37: Annual Conference\n                  on Neural Information Processing Systems 2024, NeurIPS 2024, Vancouver,\n                  BC, Canada, December 10 - 15, 2024},\n  year         = {2024},\n  url          = {http://papers.nips.cc/paper\\_files/paper/2024/hash/123a18dfd821c8b440f42a00a27648d6-Abstract-Conference.html},\n  timestamp    = {Tue, 26 May 2026 17:12:08 +0200},\n  biburl       = {https://dblp.org/rec/conf/nips/MaHWSSPLD24.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "conf/nips/MaHWSSPLD24",
+    "bibtex_url": "https://dblp.org/rec/conf/nips/MaHWSSPLD24.bib",
+    "source": "dblp",
+    "error": null
+  },
+  "QGEval: Benchmarking Multi-dimensional Evaluation for Question Generation": {
+    "title": "QGEval: Benchmarking Multi-dimensional Evaluation for Question Generation",
+    "venue": "EMNLP 2024",
+    "year": "2024",
+    "bibtex": "@inproceedings{DBLP:conf/emnlp/FuWHC024,\n  author       = {Weiping Fu and\n                  Bifan Wei and\n                  Jianxiang Hu and\n                  Zhongmin Cai and\n                  Jun Liu},\n  editor       = {Yaser Al{-}Onaizan and\n                  Mohit Bansal and\n                  Yun{-}Nung Chen},\n  title        = {QGEval: Benchmarking Multi-dimensional Evaluation for Question Generation},\n  booktitle    = {Proceedings of the 2024 Conference on Empirical Methods in Natural\n                  Language Processing, {EMNLP} 2024, Miami, FL, USA, November 12-16,\n                  2024},\n  pages        = {11783--11803},\n  publisher    = {Association for Computational Linguistics},\n  year         = {2024},\n  url          = {https://doi.org/10.18653/v1/2024.emnlp-main.658},\n  doi          = {10.18653/V1/2024.EMNLP-MAIN.658},\n  timestamp    = {Fri, 13 Jun 2025 08:28:46 +0200},\n  biburl       = {https://dblp.org/rec/conf/emnlp/FuWHC024.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "conf/emnlp/FuWHC024",
+    "bibtex_url": "https://dblp.org/rec/conf/emnlp/FuWHC024.bib",
+    "doi": "10.18653/V1/2024.EMNLP-MAIN.658",
+    "source": "dblp",
+    "error": null
+  },
+  "When Phrases Meet Probabilities: Enabling Open Relation Extraction with Cooperating Large Language Models": {
+    "title": "When Phrases Meet Probabilities: Enabling Open Relation Extraction with Cooperating Large Language Models",
+    "venue": "ACL 2024",
+    "year": "2024",
+    "bibtex": "@inproceedings{DBLP:conf/acl/WangZLZKL24,\n  author       = {Jiaxin Wang and\n                  Lingling Zhang and\n                  Wee Sun Lee and\n                  Yujie Zhong and\n                  Liwei Kang and\n                  Jun Liu},\n  editor       = {Lun{-}Wei Ku and\n                  Andre Martins and\n                  Vivek Srikumar},\n  title        = {When Phrases Meet Probabilities: Enabling Open Relation Extraction\n                  with Cooperating Large Language Models},\n  booktitle    = {Proceedings of the 62nd Annual Meeting of the Association for Computational\n                  Linguistics (Volume 1: Long Papers), {ACL} 2024, Bangkok, Thailand,\n                  August 11-16, 2024},\n  pages        = {13130--13147},\n  publisher    = {Association for Computational Linguistics},\n  year         = {2024},\n  url          = {https://doi.org/10.18653/v1/2024.acl-long.709},\n  doi          = {10.18653/V1/2024.ACL-LONG.709},\n  timestamp    = {Fri, 15 Aug 2025 07:36:44 +0200},\n  biburl       = {https://dblp.org/rec/conf/acl/WangZLZKL24.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "conf/acl/WangZLZKL24",
+    "bibtex_url": "https://dblp.org/rec/conf/acl/WangZLZKL24.bib",
+    "doi": "10.18653/V1/2024.ACL-LONG.709",
+    "source": "dblp",
+    "error": null
+  },
+  "PathReasoner: Modeling Reasoning Path with Equivalent Extension for Logical Question Answering": {
+    "title": "PathReasoner: Modeling Reasoning Path with Equivalent Extension for Logical Question Answering",
+    "venue": "ACL 2024",
+    "year": "2024",
+    "bibtex": "@inproceedings{DBLP:conf/acl/XuLZ0024,\n  author       = {Fangzhi Xu and\n                  Qika Lin and\n                  Tianzhe Zhao and\n                  Jiawei Han and\n                  Jun Liu},\n  editor       = {Lun{-}Wei Ku and\n                  Andre Martins and\n                  Vivek Srikumar},\n  title        = {PathReasoner: Modeling Reasoning Path with Equivalent Extension for\n                  Logical Question Answering},\n  booktitle    = {Proceedings of the 62nd Annual Meeting of the Association for Computational\n                  Linguistics (Volume 1: Long Papers), {ACL} 2024, Bangkok, Thailand,\n                  August 11-16, 2024},\n  pages        = {13413--13429},\n  publisher    = {Association for Computational Linguistics},\n  year         = {2024},\n  url          = {https://doi.org/10.18653/v1/2024.acl-long.724},\n  doi          = {10.18653/V1/2024.ACL-LONG.724},\n  timestamp    = {Sun, 19 Jan 2025 13:21:46 +0100},\n  biburl       = {https://dblp.org/rec/conf/acl/XuLZ0024.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "conf/acl/XuLZ0024",
+    "bibtex_url": "https://dblp.org/rec/conf/acl/XuLZ0024.bib",
+    "doi": "10.18653/V1/2024.ACL-LONG.724",
+    "source": "dblp",
+    "error": null
+  },
+  "Symbol-LLM: Towards Foundational Symbol-centric Interface For Large Language Models": {
+    "title": "Symbol-LLM: Towards Foundational Symbol-centric Interface For Large Language Models",
+    "venue": "ACL 2024",
+    "year": "2024",
+    "bibtex": "@inproceedings{DBLP:conf/acl/XuWSRYYLQ024,\n  author       = {Fangzhi Xu and\n                  Zhiyong Wu and\n                  Qiushi Sun and\n                  Siyu Ren and\n                  Fei Yuan and\n                  Shuai Yuan and\n                  Qika Lin and\n                  Yu Qiao and\n                  Jun Liu},\n  editor       = {Lun{-}Wei Ku and\n                  Andre Martins and\n                  Vivek Srikumar},\n  title        = {Symbol-LLM: Towards Foundational Symbol-centric Interface For Large\n                  Language Models},\n  booktitle    = {Proceedings of the 62nd Annual Meeting of the Association for Computational\n                  Linguistics (Volume 1: Long Papers), {ACL} 2024, Bangkok, Thailand,\n                  August 11-16, 2024},\n  pages        = {13091--13116},\n  publisher    = {Association for Computational Linguistics},\n  year         = {2024},\n  url          = {https://doi.org/10.18653/v1/2024.acl-long.707},\n  doi          = {10.18653/V1/2024.ACL-LONG.707},\n  timestamp    = {Mon, 15 Sep 2025 07:03:00 +0200},\n  biburl       = {https://dblp.org/rec/conf/acl/XuWSRYYLQ024.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "conf/acl/XuWSRYYLQ024",
+    "bibtex_url": "https://dblp.org/rec/conf/acl/XuWSRYYLQ024.bib",
+    "doi": "10.18653/V1/2024.ACL-LONG.707",
+    "source": "dblp",
+    "error": null
+  },
+  "Untargeted Adversarial Attack on Knowledge Graph Embeddings": {
+    "title": "Untargeted Adversarial Attack on Knowledge Graph Embeddings",
+    "venue": "SIGIR 2024",
+    "year": "2024",
+    "bibtex": "@inproceedings{DBLP:conf/sigir/Zhao0RLGL24,\n  author       = {Tianzhe Zhao and\n                  Jiaoyan Chen and\n                  Yanchi Ru and\n                  Qika Lin and\n                  Yuxia Geng and\n                  Jun Liu},\n  editor       = {Grace Hui Yang and\n                  Hongning Wang and\n                  Sam Han and\n                  Claudia Hauff and\n                  Guido Zuccon and\n                  Yi Zhang},\n  title        = {Untargeted Adversarial Attack on Knowledge Graph Embeddings},\n  booktitle    = {Proceedings of the 47th International {ACM} {SIGIR} Conference on\n                  Research and Development in Information Retrieval, {SIGIR} 2024, Washington\n                  DC, USA, July 14-18, 2024},\n  pages        = {1701--1711},\n  publisher    = {{ACM}},\n  year         = {2024},\n  url          = {https://doi.org/10.1145/3626772.3657702},\n  doi          = {10.1145/3626772.3657702},\n  timestamp    = {Sun, 19 Jan 2025 13:11:15 +0100},\n  biburl       = {https://dblp.org/rec/conf/sigir/Zhao0RLGL24.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "conf/sigir/Zhao0RLGL24",
+    "bibtex_url": "https://dblp.org/rec/conf/sigir/Zhao0RLGL24.bib",
+    "doi": "10.1145/3626772.3657702",
+    "source": "dblp",
+    "error": null
+  },
+  "E-GPS: Explainable Geometry Problem Solving via Top-Down Solver and Bottom-Up Generator": {
+    "title": "E-GPS: Explainable Geometry Problem Solving via Top-Down Solver and Bottom-Up Generator",
+    "venue": "CVPR 2024",
+    "year": "2024",
+    "bibtex": "@inproceedings{DBLP:conf/cvpr/WuZLTWWW24,\n  author       = {Wenjun Wu and\n                  Lingling Zhang and\n                  Jun Liu and\n                  Xi Tang and\n                  Yaxian Wang and\n                  Shaowei Wang and\n                  Qianying Wang},\n  title        = {{E-GPS:} Explainable Geometry Problem Solving via Top-Down Solver\n                  and Bottom-Up Generator},\n  booktitle    = {{IEEE/CVF} Conference on Computer Vision and Pattern Recognition,\n                  {CVPR} 2024, Seattle, WA, USA, June 16-22, 2024},\n  pages        = {13828--13837},\n  publisher    = {{IEEE}},\n  year         = {2024},\n  url          = {https://doi.org/10.1109/CVPR52733.2024.01312},\n  doi          = {10.1109/CVPR52733.2024.01312},\n  timestamp    = {Wed, 12 Nov 2025 14:11:48 +0100},\n  biburl       = {https://dblp.org/rec/conf/cvpr/WuZLTWWW24.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "conf/cvpr/WuZLTWWW24",
+    "bibtex_url": "https://dblp.org/rec/conf/cvpr/WuZLTWWW24.bib",
+    "doi": "10.1109/CVPR52733.2024.01312",
+    "source": "dblp",
+    "error": null
+  },
+  "CoG-DQA: Chain-of-Guiding Learning with Large Language Models for Diagram Question Answering": {
+    "title": "CoG-DQA: Chain-of-Guiding Learning with Large Language Models for Diagram Question Answering",
+    "venue": "CVPR 2024",
+    "year": "2024",
+    "bibtex": "@inproceedings{DBLP:conf/cvpr/WangZZQYZL24,\n  author       = {Shaowei Wang and\n                  Lingling Zhang and\n                  Longji Zhu and\n                  Tao Qin and\n                  Kim{-}Hui Yap and\n                  Xinyu Zhang and\n                  Jun Liu},\n  title        = {CoG-DQA: Chain-of-Guiding Learning with Large Language Models for\n                  Diagram Question Answering},\n  booktitle    = {{IEEE/CVF} Conference on Computer Vision and Pattern Recognition,\n                  {CVPR} 2024, Seattle, WA, USA, June 16-22, 2024},\n  pages        = {13969--13979},\n  publisher    = {{IEEE}},\n  year         = {2024},\n  url          = {https://doi.org/10.1109/CVPR52733.2024.01325},\n  doi          = {10.1109/CVPR52733.2024.01325},\n  timestamp    = {Tue, 22 Apr 2025 21:27:55 +0200},\n  biburl       = {https://dblp.org/rec/conf/cvpr/WangZZQYZL24.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "conf/cvpr/WangZZQYZL24",
+    "bibtex_url": "https://dblp.org/rec/conf/cvpr/WangZZQYZL24.bib",
+    "doi": "10.1109/CVPR52733.2024.01325",
+    "source": "dblp",
+    "error": null
+  },
+  "A Semantic Mention Graph Augmented Model for Document-Level Event Argument Extraction": {
+    "title": "A Semantic Mention Graph Augmented Model for Document-Level Event Argument Extraction",
+    "venue": "COLING 2024",
+    "year": "2024",
+    "bibtex": "@inproceedings{DBLP:conf/coling/ZhangYZLX024,\n  author       = {Jian Zhang and\n                  Changlin Yang and\n                  Haiping Zhu and\n                  Qika Lin and\n                  Fangzhi Xu and\n                  Jun Liu},\n  editor       = {Nicoletta Calzolari and\n                  Min{-}Yen Kan and\n                  V{\\'{e}}ronique Hoste and\n                  Alessandro Lenci and\n                  Sakriani Sakti and\n                  Nianwen Xue},\n  title        = {A Semantic Mention Graph Augmented Model for Document-Level Event\n                  Argument Extraction},\n  booktitle    = {Proceedings of the 2024 Joint International Conference on Computational\n                  Linguistics, Language Resources and Evaluation, {LREC/COLING} 2024,\n                  20-25 May, 2024, Torino, Italy},\n  pages        = {1577--1587},\n  publisher    = {{ELRA} and {ICCL}},\n  year         = {2024},\n  url          = {https://aclanthology.org/2024.lrec-main.139},\n  timestamp    = {Tue, 19 Aug 2025 07:53:52 +0200},\n  biburl       = {https://dblp.org/rec/conf/coling/ZhangYZLX024.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "conf/coling/ZhangYZLX024",
+    "bibtex_url": "https://dblp.org/rec/conf/coling/ZhangYZLX024.bib",
+    "source": "dblp",
+    "error": null
+  },
+  "A Symbolic Rule Integration Framework with Logic Transformer for Inductive Relation Prediction": {
+    "title": "A Symbolic Rule Integration Framework with Logic Transformer for Inductive Relation Prediction",
+    "venue": "WWW 2024",
+    "year": "2024",
+    "bibtex": "@inproceedings{DBLP:conf/www/PanLZZ0D24,\n  author       = {Yudai Pan and\n                  Jun Liu and\n                  Tianzhe Zhao and\n                  Lingling Zhang and\n                  Yun Lin and\n                  Jin Song Dong},\n  editor       = {Tat{-}Seng Chua and\n                  Chong{-}Wah Ngo and\n                  Ravi Kumar and\n                  Hady W. Lauw and\n                  Roy Ka{-}Wei Lee},\n  title        = {A Symbolic Rule Integration Framework with Logic Transformer for Inductive\n                  Relation Prediction},\n  booktitle    = {Proceedings of the {ACM} on Web Conference 2024, {WWW} 2024, Singapore,\n                  May 13-17, 2024},\n  pages        = {2181--2192},\n  publisher    = {{ACM}},\n  year         = {2024},\n  url          = {https://doi.org/10.1145/3589334.3645594},\n  doi          = {10.1145/3589334.3645594},\n  timestamp    = {Mon, 15 Sep 2025 20:24:37 +0200},\n  biburl       = {https://dblp.org/rec/conf/www/PanLZZ0D24.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "conf/www/PanLZZ0D24",
+    "bibtex_url": "https://dblp.org/rec/conf/www/PanLZZ0D24.bib",
+    "doi": "10.1145/3589334.3645594",
+    "source": "dblp",
+    "error": null
+  },
+  "Mixed Geometry Message and Trainable Convolutional Attention Network for KG Completion": {
+    "title": "Mixed Geometry Message and Trainable Convolutional Attention Network for KG Completion",
+    "venue": "AAAI 2024",
+    "year": "2024",
+    "error": "ALL_FAILED"
+  },
+  "LAFA: Multimodal Knowledge Graph Completion with Link Aware Fusion and Aggregation": {
+    "title": "LAFA: Multimodal Knowledge Graph Completion with Link Aware Fusion and Aggregation",
+    "venue": "AAAI 2024",
+    "year": "2024",
+    "bibtex": "@inproceedings{DBLP:conf/aaai/ShangZLW24,\n  author       = {Bin Shang and\n                  Yinliang Zhao and\n                  Jun Liu and\n                  Di Wang},\n  editor       = {Michael J. Wooldridge and\n                  Jennifer G. Dy and\n                  Sriraam Natarajan},\n  title        = {{LAFA:} Multimodal Knowledge Graph Completion with Link Aware Fusion\n                  and Aggregation},\n  booktitle    = {Thirty-Eighth {AAAI} Conference on Artificial Intelligence, {AAAI}\n                  2024, Thirty-Sixth Conference on Innovative Applications of Artificial\n                  Intelligence, {IAAI} 2024, Fourteenth Symposium on Educational Advances\n                  in Artificial Intelligence, {EAAI} 2014, February 20-27, 2024, Vancouver,\n                  Canada},\n  pages        = {8957--8965},\n  publisher    = {{AAAI} Press},\n  year         = {2024},\n  url          = {https://doi.org/10.1609/aaai.v38i8.28744},\n  doi          = {10.1609/AAAI.V38I8.28744},\n  timestamp    = {Wed, 18 Mar 2026 17:07:12 +0100},\n  biburl       = {https://dblp.org/rec/conf/aaai/ShangZLW24.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "conf/aaai/ShangZLW24",
+    "bibtex_url": "https://dblp.org/rec/conf/aaai/ShangZLW24.bib",
+    "doi": "10.1609/AAAI.V38I8.28744",
+    "source": "dblp",
+    "error": null
+  },
+  "Diagram Perception Networks for Textbook Question Answering via Joint Optimization": {
+    "title": "Diagram Perception Networks for Textbook Question Answering via Joint Optimization",
+    "venue": "IJCV, 2023",
+    "year": "2023",
+    "bibtex": "@article{DBLP:journals/ijcv/MaLCWT24,\n  author       = {Jie Ma and\n                  Jun Liu and\n                  Qi Chai and\n                  Pinghui Wang and\n                  Jing Tao},\n  title        = {Diagram Perception Networks for Textbook Question Answering via Joint\n                  Optimization},\n  journal      = {Int. J. Comput. Vis.},\n  volume       = {132},\n  number       = {5},\n  pages        = {1578--1591},\n  year         = {2024},\n  url          = {https://doi.org/10.1007/s11263-023-01954-z},\n  doi          = {10.1007/S11263-023-01954-Z},\n  timestamp    = {Fri, 17 May 2024 21:42:01 +0200},\n  biburl       = {https://dblp.org/rec/journals/ijcv/MaLCWT24.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "journals/ijcv/MaLCWT24",
+    "bibtex_url": "https://dblp.org/rec/journals/ijcv/MaLCWT24.bib",
+    "doi": "10.1007/S11263-023-01954-Z",
+    "source": "dblp",
+    "error": null
+  },
+  "Mind Reasoning Manners: Enhancing Type Perception for Generalized Zero-shot Logical Reasoning over Text": {
+    "title": "Mind Reasoning Manners: Enhancing Type Perception for Generalized Zero-shot Logical Reasoning over Text",
+    "venue": "IEEE TNNLS, 2023",
+    "year": "2023",
+    "bibtex": "@article{DBLP:journals/tnn/XuLLZZZ24,\n  author       = {Fangzhi Xu and\n                  Jun Liu and\n                  Qika Lin and\n                  Tianzhe Zhao and\n                  Jian Zhang and\n                  Lingling Zhang},\n  title        = {Mind Reasoning Manners: Enhancing Type Perception for Generalized\n                  Zero-Shot Logical Reasoning Over Text},\n  journal      = {{IEEE} Trans. Neural Networks Learn. Syst.},\n  volume       = {35},\n  number       = {12},\n  pages        = {18499--18511},\n  year         = {2024},\n  url          = {https://doi.org/10.1109/TNNLS.2023.3317254},\n  doi          = {10.1109/TNNLS.2023.3317254},\n  timestamp    = {Tue, 19 Aug 2025 07:53:50 +0200},\n  biburl       = {https://dblp.org/rec/journals/tnn/XuLLZZZ24.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "journals/tnn/XuLLZZZ24",
+    "bibtex_url": "https://dblp.org/rec/journals/tnn/XuLLZZZ24.bib",
+    "doi": "10.1109/TNNLS.2023.3317254",
+    "source": "dblp",
+    "error": null
+  },
+  "SocialSift: Target Query Discovery on Online Social Media With Deep Reinforcement Learning": {
+    "title": "SocialSift: Target Query Discovery on Online Social Media With Deep Reinforcement Learning",
+    "venue": "IEEE TNNLS, 2023",
+    "year": "2023",
+    "bibtex": "@article{DBLP:journals/tnn/WangWQWKGLC23,\n  author       = {Changyu Wang and\n                  Pinghui Wang and\n                  Tao Qin and\n                  Chenxu Wang and\n                  Suhansanu Kumar and\n                  Xiaohong Guan and\n                  Jun Liu and\n                  Kevin Chen{-}Chuan Chang},\n  title        = {SocialSift: Target Query Discovery on Online Social Media With Deep\n                  Reinforcement Learning},\n  journal      = {{IEEE} Trans. Neural Networks Learn. Syst.},\n  volume       = {34},\n  number       = {9},\n  pages        = {5654--5668},\n  year         = {2023},\n  url          = {https://doi.org/10.1109/TNNLS.2021.3130587},\n  doi          = {10.1109/TNNLS.2021.3130587},\n  timestamp    = {Fri, 16 May 2025 12:44:55 +0200},\n  biburl       = {https://dblp.org/rec/journals/tnn/WangWQWKGLC23.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "journals/tnn/WangWQWKGLC23",
+    "bibtex_url": "https://dblp.org/rec/journals/tnn/WangWQWKGLC23.bib",
+    "doi": "10.1109/TNNLS.2021.3130587",
+    "source": "dblp",
+    "error": null
+  },
+  "DisAVR: Disentangled Adaptive Visual Reasoning Network for Diagram Question Answering": {
+    "title": "DisAVR: Disentangled Adaptive Visual Reasoning Network for Diagram Question Answering",
+    "venue": "IEEE TIP, 2023",
+    "year": "2023",
+    "bibtex": "@article{DBLP:journals/tip/WangWLZWW23,\n  author       = {Yaxian Wang and\n                  Bifan Wei and\n                  Jun Liu and\n                  Lingling Zhang and\n                  Jiaxin Wang and\n                  Qianying Wang},\n  title        = {DisAVR: Disentangled Adaptive Visual Reasoning Network for Diagram\n                  Question Answering},\n  journal      = {{IEEE} Trans. Image Process.},\n  volume       = {32},\n  pages        = {4812--4827},\n  year         = {2023},\n  url          = {https://doi.org/10.1109/TIP.2023.3306910},\n  doi          = {10.1109/TIP.2023.3306910},\n  timestamp    = {Wed, 12 Nov 2025 14:11:47 +0100},\n  biburl       = {https://dblp.org/rec/journals/tip/WangWLZWW23.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "journals/tip/WangWLZWW23",
+    "bibtex_url": "https://dblp.org/rec/journals/tip/WangWLZWW23.bib",
+    "doi": "10.1109/TIP.2023.3306910",
+    "source": "dblp",
+    "error": null
+  },
+  "XTQA: Span-Level Explanations for Textbook Question Answering": {
+    "title": "XTQA: Span-Level Explanations for Textbook Question Answering",
+    "venue": "IEEE TNNLS, 2023",
+    "year": "2023",
+    "bibtex": "@article{DBLP:journals/tnn/MaCLYWZ24,\n  author       = {Jie Ma and\n                  Qi Chai and\n                  Jun Liu and\n                  Qingyu Yin and\n                  Pinghui Wang and\n                  Qinghua Zheng},\n  title        = {{XTQA:} Span-Level Explanations for Textbook Question Answering},\n  journal      = {{IEEE} Trans. Neural Networks Learn. Syst.},\n  volume       = {35},\n  number       = {11},\n  pages        = {16493--16503},\n  year         = {2024},\n  url          = {https://doi.org/10.1109/TNNLS.2023.3294991},\n  doi          = {10.1109/TNNLS.2023.3294991},\n  timestamp    = {Sat, 30 Nov 2024 21:08:30 +0100},\n  biburl       = {https://dblp.org/rec/journals/tnn/MaCLYWZ24.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "journals/tnn/MaCLYWZ24",
+    "bibtex_url": "https://dblp.org/rec/journals/tnn/MaCLYWZ24.bib",
+    "doi": "10.1109/TNNLS.2023.3294991",
+    "source": "dblp",
+    "error": null
+  },
+  "Incorporating Logic Rules with Textual Representations for Interpretable Knowledge Graph Reasoning": {
+    "title": "Incorporating Logic Rules with Textual Representations for Interpretable Knowledge Graph Reasoning",
+    "venue": "Knowledge-Based Systems, 2023",
+    "year": "2023",
+    "bibtex": "@article{DBLP:journals/kbs/PanLZH23,\n  author       = {Yudai Pan and\n                  Jun Liu and\n                  Lingling Zhang and\n                  Yi Huang},\n  title        = {Incorporating logic rules with textual representations for interpretable\n                  knowledge graph reasoning},\n  journal      = {Knowl. Based Syst.},\n  volume       = {277},\n  pages        = {110787},\n  year         = {2023},\n  url          = {https://doi.org/10.1016/j.knosys.2023.110787},\n  doi          = {10.1016/J.KNOSYS.2023.110787},\n  timestamp    = {Sat, 11 Oct 2025 08:45:52 +0200},\n  biburl       = {https://dblp.org/rec/journals/kbs/PanLZH23.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "journals/kbs/PanLZH23",
+    "bibtex_url": "https://dblp.org/rec/journals/kbs/PanLZH23.bib",
+    "doi": "10.1016/J.KNOSYS.2023.110787",
+    "source": "dblp",
+    "error": null
+  },
+  "MoCA: Incorporating Domain Pretraining and Cross Attention for Textbook Question Answering": {
+    "title": "MoCA: Incorporating Domain Pretraining and Cross Attention for Textbook Question Answering",
+    "venue": "Pattern Recognition, 2023",
+    "year": "2023",
+    "bibtex": "@article{Xu_2023, title={MoCA: Incorporating domain pretraining and cross attention for textbook question answering}, volume={140}, ISSN={0031-3203}, url={http://dx.doi.org/10.1016/J.PATCOG.2023.109588}, DOI={10.1016/j.patcog.2023.109588}, journal={Pattern Recognition}, publisher={Elsevier BV}, author={Xu, Fangzhi and Lin, Qika and Liu, Jun and Zhang, Lingling and Zhao, Tianzhe and Chai, Qi and Pan, Yudai and Huang, Yi and Wang, Qianying}, year={2023}, month=Aug, pages={109588} }",
+    "dblp_key": "journals/pr/XuLLZZCPHW23",
+    "bibtex_url": "https://dblp.org/rec/journals/pr/XuLLZZCPHW23.bib",
+    "doi": "10.1016/J.PATCOG.2023.109588",
+    "source": "dblp",
+    "error": null
+  },
+  "Dynamic Dual Graph Networks for Textbook Question Answering": {
+    "title": "Dynamic Dual Graph Networks for Textbook Question Answering",
+    "venue": "Pattern Recognition, 2023",
+    "year": "2023",
+    "bibtex": "@article{Wang_2023, title={Dynamic dual graph networks for textbook question answering}, volume={139}, ISSN={0031-3203}, url={http://dx.doi.org/10.1016/j.patcog.2023.109441}, DOI={10.1016/j.patcog.2023.109441}, journal={Pattern Recognition}, publisher={Elsevier BV}, author={Wang, Yaxian and Liu, Jun and Ma, Jie and Zeng, Hongwei and Zhang, Lingling and Li, Junjun}, year={2023}, month=July, pages={109441} }",
+    "doi": "10.1016/j.patcog.2023.109441",
+    "pdf_url": "",
+    "source": "crossref",
+    "error": null
+  },
+  "RPMG-FSS: Robust Prior Mask Guided Few-Shot Semantic Segmentation": {
+    "title": "RPMG-FSS: Robust Prior Mask Guided Few-Shot Semantic Segmentation",
+    "venue": "IEEE TCSVT, 2023",
+    "year": "2023",
+    "bibtex": "@article{Zhang_2023, title={RPMG-FSS: Robust Prior Mask Guided Few-Shot Semantic Segmentation}, volume={33}, ISSN={1558-2205}, url={http://dx.doi.org/10.1109/tcsvt.2023.3265075}, DOI={10.1109/tcsvt.2023.3265075}, number={11}, journal={IEEE Transactions on Circuits and Systems for Video Technology}, publisher={Institute of Electrical and Electronics Engineers (IEEE)}, author={Zhang, Lingling and Zhang, Xinyu and Wang, Qianying and Wu, Wenjun and Chang, Xiaojun and Liu, Jun}, year={2023}, month=Nov, pages={6609–6621} }",
+    "doi": "10.1109/tcsvt.2023.3265075",
+    "pdf_url": "",
+    "source": "crossref",
+    "error": null
+  },
+  "GBTTE: Graph Attention Network Based Bus Travel Time Estimation": {
+    "title": "GBTTE: Graph Attention Network Based Bus Travel Time Estimation",
+    "venue": "CIKM 2023",
+    "year": "2023",
+    "bibtex": "@inproceedings{Rong_2023, series={CIKM ’23}, title={GBTTE: Graph Attention Network Based Bus Travel Time Estimation}, url={http://dx.doi.org/10.1145/3583780.3614730}, DOI={10.1145/3583780.3614730}, booktitle={Proceedings of the 32nd ACM International Conference on Information and Knowledge Management}, publisher={ACM}, author={Rong, Yuecheng and Yao, Juntao and Liu, Jun and Fang, Yifan and Luo, Wei and Liu, Hao and Ma, Jie and Dan, Zepeng and Lin, Jinzhu and Wu, Zhi and Zhang, Yan and Zhang, Chuanming}, year={2023}, month=Oct, pages={4794–4800}, collection={CIKM ’23} }",
+    "doi": "10.1145/3583780.3614730",
+    "pdf_url": "",
+    "source": "crossref",
+    "error": null
+  },
+  "B2-Sampling: Fusing Balanced and Biased Sampling for Graph Contrastive Learning": {
+    "title": "B2-Sampling: Fusing Balanced and Biased Sampling for Graph Contrastive Learning",
+    "venue": "KDD 2023",
+    "year": "2023",
+    "bibtex": "@inproceedings{Liu_2023, series={KDD ’23}, title={B\n            <sup>2</sup>\n            -Sampling: Fusing Balanced and Biased Sampling for Graph Contrastive Learning}, url={http://dx.doi.org/10.1145/3580305.3599262}, DOI={10.1145/3580305.3599262}, booktitle={Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining}, publisher={ACM}, author={Liu, Mengyue and Lin, Yun and Liu, Jun and Liu, Bohao and Zheng, Qinghua and Dong, Jin Song}, year={2023}, month=Aug, pages={1489–1500}, collection={KDD ’23} }",
+    "doi": "10.1145/3580305.3599262",
+    "pdf_url": "",
+    "source": "crossref",
+    "error": null
+  },
+  "Relation-Aware Multi-Positive Contrastive Knowledge Graph Completion": {
+    "title": "Relation-Aware Multi-Positive Contrastive Knowledge Graph Completion",
+    "venue": "SIGIR 2023",
+    "year": "2023",
+    "bibtex": "@inproceedings{Shang_2023, series={SIGIR ’23}, title={Relation-Aware Multi-Positive Contrastive Knowledge Graph Completion with Embedding Dimension Scaling}, url={http://dx.doi.org/10.1145/3539618.3591756}, DOI={10.1145/3539618.3591756}, booktitle={Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval}, publisher={ACM}, author={Shang, Bin and Zhao, Yinliang and Wang, Di and Liu, Jun}, year={2023}, month=July, pages={878–888}, collection={SIGIR ’23} }",
+    "doi": "10.1145/3539618.3591756",
+    "pdf_url": "",
+    "source": "crossref",
+    "error": null
+  },
+  "GPTR: Gestalt-Perception Transformer for Diagram Object Detection": {
+    "title": "GPTR: Gestalt-Perception Transformer for Diagram Object Detection",
+    "venue": "AAAI 2023",
+    "year": "2023",
+    "bibtex": "@inproceedings{DBLP:conf/aaai/HuZLFYW23,\n  author       = {Xin Hu and\n                  Lingling Zhang and\n                  Jun Liu and\n                  Jinfu Fan and\n                  Yang You and\n                  Yaqiang Wu},\n  editor       = {Brian Williams and\n                  Yiling Chen and\n                  Jennifer Neville},\n  title        = {{GPTR:} Gestalt-Perception Transformer for Diagram Object Detection},\n  booktitle    = {Thirty-Seventh {AAAI} Conference on Artificial Intelligence, {AAAI}\n                  2023, Thirty-Fifth Conference on Innovative Applications of Artificial\n                  Intelligence, {IAAI} 2023, Thirteenth Symposium on Educational Advances\n                  in Artificial Intelligence, {EAAI} 2023, Washington, DC, USA, February\n                  7-14, 2023},\n  pages        = {899--907},\n  publisher    = {{AAAI} Press},\n  year         = {2023},\n  url          = {https://doi.org/10.1609/aaai.v37i1.25169},\n  doi          = {10.1609/AAAI.V37I1.25169},\n  timestamp    = {Wed, 18 Mar 2026 17:07:12 +0100},\n  biburl       = {https://dblp.org/rec/conf/aaai/HuZLFYW23.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "conf/aaai/HuZLFYW23",
+    "bibtex_url": "https://dblp.org/rec/conf/aaai/HuZLFYW23.bib",
+    "doi": "10.1609/AAAI.V37I1.25169",
+    "source": "dblp",
+    "error": null
+  },
+  "Diagram Visual Grounding: Learning to See with Gestalt-Perceptual Attention": {
+    "title": "Diagram Visual Grounding: Learning to See with Gestalt-Perceptual Attention",
+    "venue": "IJCAI 2023",
+    "year": "2023",
+    "bibtex": "@inproceedings{DBLP:conf/ijcai/HuZ0ZWW23,\n  author       = {Xin Hu and\n                  Lingling Zhang and\n                  Jun Liu and\n                  Xinyu Zhang and\n                  Wenjun Wu and\n                  Qianying Wang},\n  title        = {Diagram Visual Grounding: Learning to See with Gestalt-Perceptual\n                  Attention},\n  booktitle    = {Proceedings of the Thirty-Second International Joint Conference on\n                  Artificial Intelligence, {IJCAI} 2023, 19th-25th August 2023, Macao,\n                  SAR, China},\n  pages        = {837--845},\n  publisher    = {ijcai.org},\n  year         = {2023},\n  url          = {https://doi.org/10.24963/ijcai.2023/93},\n  doi          = {10.24963/IJCAI.2023/93},\n  timestamp    = {Wed, 12 Nov 2025 14:11:48 +0100},\n  biburl       = {https://dblp.org/rec/conf/ijcai/HuZ0ZWW23.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "conf/ijcai/HuZ0ZWW23",
+    "bibtex_url": "https://dblp.org/rec/conf/ijcai/HuZ0ZWW23.bib",
+    "doi": "10.24963/IJCAI.2023/93",
+    "source": "dblp",
+    "error": null
+  },
+  "Synthesize, Prompt and Transfer: Zero-shot Conversational Question Generation": {
+    "title": "Synthesize, Prompt and Transfer: Zero-shot Conversational Question Generation",
+    "venue": "ACL 2023",
+    "year": "2023",
+    "bibtex": "@inproceedings{DBLP:conf/acl/ZengWLF23,\n  author       = {Hongwei Zeng and\n                  Bifan Wei and\n                  Jun Liu and\n                  Weiping Fu},\n  editor       = {Anna Rogers and\n                  Jordan L. Boyd{-}Graber and\n                  Naoaki Okazaki},\n  title        = {Synthesize, Prompt and Transfer: Zero-shot Conversational Question\n                  Generation with Pre-trained Language Model},\n  booktitle    = {Proceedings of the 61st Annual Meeting of the Association for Computational\n                  Linguistics (Volume 1: Long Papers), {ACL} 2023, Toronto, Canada,\n                  July 9-14, 2023},\n  pages        = {8989--9010},\n  publisher    = {Association for Computational Linguistics},\n  year         = {2023},\n  url          = {https://doi.org/10.18653/v1/2023.acl-long.500},\n  doi          = {10.18653/V1/2023.ACL-LONG.500},\n  timestamp    = {Wed, 26 Nov 2025 07:41:28 +0100},\n  biburl       = {https://dblp.org/rec/conf/acl/ZengWLF23.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "conf/acl/ZengWLF23",
+    "bibtex_url": "https://dblp.org/rec/conf/acl/ZengWLF23.bib",
+    "doi": "10.18653/V1/2023.ACL-LONG.500",
+    "source": "dblp",
+    "error": null
+  },
+  "TECHS: Temporal Logical Graph Networks for Explainable Extrapolation Reasoning": {
+    "title": "TECHS: Temporal Logical Graph Networks for Explainable Extrapolation Reasoning",
+    "venue": "ACL 2023",
+    "year": "2023",
+    "bibtex": "@inproceedings{DBLP:conf/acl/LinL0XC23,\n  author       = {Qika Lin and\n                  Jun Liu and\n                  Rui Mao and\n                  Fangzhi Xu and\n                  Erik Cambria},\n  editor       = {Anna Rogers and\n                  Jordan L. Boyd{-}Graber and\n                  Naoaki Okazaki},\n  title        = {{TECHS:} Temporal Logical Graph Networks for Explainable Extrapolation\n                  Reasoning},\n  booktitle    = {Proceedings of the 61st Annual Meeting of the Association for Computational\n                  Linguistics (Volume 1: Long Papers), {ACL} 2023, Toronto, Canada,\n                  July 9-14, 2023},\n  pages        = {1281--1293},\n  publisher    = {Association for Computational Linguistics},\n  year         = {2023},\n  url          = {https://doi.org/10.18653/v1/2023.acl-long.71},\n  doi          = {10.18653/V1/2023.ACL-LONG.71},\n  timestamp    = {Thu, 25 Dec 2025 12:46:40 +0100},\n  biburl       = {https://dblp.org/rec/conf/acl/LinL0XC23.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "conf/acl/LinL0XC23",
+    "bibtex_url": "https://dblp.org/rec/conf/acl/LinL0XC23.bib",
+    "doi": "10.18653/V1/2023.ACL-LONG.71",
+    "source": "dblp",
+    "error": null
+  },
+  "Spatial-Semantic Collaborative Graph Network for Textbook Question Answering": {
+    "title": "Spatial-Semantic Collaborative Graph Network for Textbook Question Answering",
+    "venue": "IEEE TCSVT, 2022",
+    "year": "2022",
+    "bibtex": "@article{DBLP:journals/tcsv/WangWLLZW23,\n  author       = {Yaxian Wang and\n                  Bifan Wei and\n                  Jun Liu and\n                  Qika Lin and\n                  Lingling Zhang and\n                  Yaqiang Wu},\n  title        = {Spatial-Semantic Collaborative Graph Network for Textbook Question\n                  Answering},\n  journal      = {{IEEE} Trans. Circuits Syst. Video Technol.},\n  volume       = {33},\n  number       = {7},\n  pages        = {3214--3228},\n  year         = {2023},\n  url          = {https://doi.org/10.1109/TCSVT.2022.3231463},\n  doi          = {10.1109/TCSVT.2022.3231463},\n  timestamp    = {Tue, 08 Oct 2024 17:17:08 +0200},\n  biburl       = {https://dblp.org/rec/journals/tcsv/WangWLLZW23.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "journals/tcsv/WangWLLZW23",
+    "bibtex_url": "https://dblp.org/rec/journals/tcsv/WangWLLZW23.bib",
+    "doi": "10.1109/TCSVT.2022.3231463",
+    "source": "dblp",
+    "error": null
+  },
+  "TGIN: Translation-Based Graph Inference Network for Few-Shot Relational Triplet Extraction": {
+    "title": "TGIN: Translation-Based Graph Inference Network for Few-Shot Relational Triplet Extraction",
+    "venue": "IEEE TNNLS, 2022",
+    "year": "2022",
+    "bibtex": "@article{DBLP:journals/tnn/WangZLMWZWH24,\n  author       = {Jiaxin Wang and\n                  Lingling Zhang and\n                  Jun Liu and\n                  Kunming Ma and\n                  Wenjun Wu and\n                  Xiang Zhao and\n                  Yaqiang Wu and\n                  Yi Huang},\n  title        = {{TGIN:} Translation-Based Graph Inference Network for Few-Shot Relational\n                  Triplet Extraction},\n  journal      = {{IEEE} Trans. Neural Networks Learn. Syst.},\n  volume       = {35},\n  number       = {7},\n  pages        = {9147--9161},\n  year         = {2024},\n  url          = {https://doi.org/10.1109/TNNLS.2022.3218981},\n  doi          = {10.1109/TNNLS.2022.3218981},\n  timestamp    = {Fri, 10 Oct 2025 16:41:55 +0200},\n  biburl       = {https://dblp.org/rec/journals/tnn/WangZLMWZWH24.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "journals/tnn/WangZLMWZWH24",
+    "bibtex_url": "https://dblp.org/rec/journals/tnn/WangZLMWZWH24.bib",
+    "doi": "10.1109/TNNLS.2022.3218981",
+    "source": "dblp",
+    "error": null
+  },
+  "Fusing Topology Contexts and Logical Rules in Language Models for KG Completion": {
+    "title": "Fusing Topology Contexts and Logical Rules in Language Models for KG Completion",
+    "venue": "Information Fusion, 2022",
+    "year": "2022",
+    "error": "ALL_FAILED"
+  },
+  "Du-Bus: A Realtime Bus Waiting Time Estimation System Based On Multi-source Data": {
+    "title": "Du-Bus: A Realtime Bus Waiting Time Estimation System Based On Multi-source Data",
+    "venue": "IEEE TITS, 2022",
+    "year": "2022",
+    "bibtex": "@article{DBLP:journals/tits/RongXLLDLLZG22,\n  author       = {Yuecheng Rong and\n                  Zhimian Xu and\n                  Jun Liu and\n                  Hao Liu and\n                  Jian Ding and\n                  Xuanyu Liu and\n                  Wei Luo and\n                  Chuanming Zhang and\n                  Jiaxiang Gao},\n  title        = {Du-Bus: {A} Realtime Bus Waiting Time Estimation System Based On Multi-Source\n                  Data},\n  journal      = {{IEEE} Trans. Intell. Transp. Syst.},\n  volume       = {23},\n  number       = {12},\n  pages        = {24524--24539},\n  year         = {2022},\n  url          = {https://doi.org/10.1109/TITS.2022.3210170},\n  doi          = {10.1109/TITS.2022.3210170},\n  timestamp    = {Sun, 25 Dec 2022 14:03:00 +0100},\n  biburl       = {https://dblp.org/rec/journals/tits/RongXLLDLLZG22.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "journals/tits/RongXLLDLLZG22",
+    "bibtex_url": "https://dblp.org/rec/journals/tits/RongXLLDLLZG22.bib",
+    "doi": "10.1109/TITS.2022.3210170",
+    "source": "dblp",
+    "error": null
+  },
+  "Answering Knowledge-based Visual Questions via the Exploration of Question Purpose": {
+    "title": "Answering Knowledge-based Visual Questions via the Exploration of Question Purpose",
+    "venue": "Pattern Recognition, 2022",
+    "year": "2022",
+    "bibtex": "@article{Song_2023, title={Answering knowledge-based visual questions via the exploration of Question Purpose}, volume={133}, ISSN={0031-3203}, url={http://dx.doi.org/10.1016/j.patcog.2022.109015}, DOI={10.1016/j.patcog.2022.109015}, journal={Pattern Recognition}, publisher={Elsevier BV}, author={Song, Lingyun and Li, Jianao and Liu, Jun and Yang, Yang and Shang, Xuequn and Sun, Mingxuan}, year={2023}, month=Jan, pages={109015} }",
+    "doi": "10.1016/j.patcog.2022.109015",
+    "pdf_url": "",
+    "source": "crossref",
+    "error": null
+  },
+  "TN-ZSTAD: Transferable Network for Zero-Shot Temporal Activity Detection": {
+    "title": "TN-ZSTAD: Transferable Network for Zero-Shot Temporal Activity Detection",
+    "venue": "IEEE TPAMI, 2022",
+    "year": "2022",
+    "bibtex": "@article{Zhang_2022, title={TN-ZSTAD: Transferable Network for Zero-Shot Temporal Activity Detection}, ISSN={1939-3539}, url={http://dx.doi.org/10.1109/tpami.2022.3183586}, DOI={10.1109/tpami.2022.3183586}, journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, publisher={Institute of Electrical and Electronics Engineers (IEEE)}, author={Zhang, Lingling and Chang, Xiaojun and Liu, Jun and Luo, Minnan and Li, Zhihui and Yao, Lina and Hauptmann, Alex}, year={2022}, pages={1–14} }",
+    "doi": "10.1109/tpami.2022.3183586",
+    "pdf_url": "",
+    "source": "crossref",
+    "error": null
+  },
+  "Weakly Supervised Learning for Textbook Question Answering": {
+    "title": "Weakly Supervised Learning for Textbook Question Answering",
+    "venue": "IEEE TIP, 2022",
+    "year": "2022",
+    "bibtex": "@article{Ma_2021, title={Weakly Supervised Learning for Textbook Question Answering}, url={http://dx.doi.org/10.36227/techrxiv.16864633}, DOI={10.36227/techrxiv.16864633}, publisher={Institute of Electrical and Electronics Engineers (IEEE)}, author={Ma, Jie and Chai, Qi and Huang, Jingyue and Liu, Jun and You, Yang and Zheng, Qinghua}, year={2021}, month=Oct }",
+    "doi": "10.36227/techrxiv.16864633",
+    "pdf_url": "",
+    "source": "crossref",
+    "error": null
+  },
+  "Multistructure Contrastive Learning for Event Representation": {
+    "title": "Multistructure Contrastive Learning for Event Representation",
+    "venue": "IEEE TNNLS, 2022",
+    "year": "2022",
+    "bibtex": "@article{Zheng_2024, title={Multistructure Contrastive Learning for Pretraining Event Representation}, volume={35}, ISSN={2162-2388}, url={http://dx.doi.org/10.1109/tnnls.2022.3177641}, DOI={10.1109/tnnls.2022.3177641}, number={1}, journal={IEEE Transactions on Neural Networks and Learning Systems}, publisher={Institute of Electrical and Electronics Engineers (IEEE)}, author={Zheng, Jianming and Cai, Fei and Liu, Jun and Ling, Yanxiang and Chen, Honghui}, year={2024}, month=Jan, pages={842–854} }",
+    "doi": "10.1109/tnnls.2022.3177641",
+    "pdf_url": "",
+    "source": "crossref",
+    "error": null
+  },
+  "MuL-GRN: Multi-Level Graph Relation Network for Few-Shot Node Classification": {
+    "title": "MuL-GRN: Multi-Level Graph Relation Network for Few-Shot Node Classification",
+    "venue": "IEEE TKDE, 2022",
+    "year": "2022",
+    "bibtex": "@article{DBLP:journals/tkde/ZhangWLCLWZ23,\n  author       = {Lingling Zhang and\n                  Shaowei Wang and\n                  Jun Liu and\n                  Xiaojun Chang and\n                  Qika Lin and\n                  Yaqiang Wu and\n                  Qinghua Zheng},\n  title        = {MuL-GRN: Multi-Level Graph Relation Network for Few-Shot Node Classification},\n  journal      = {{IEEE} Trans. Knowl. Data Eng.},\n  volume       = {35},\n  number       = {6},\n  pages        = {6085--6098},\n  year         = {2023},\n  url          = {https://doi.org/10.1109/TKDE.2022.3176880},\n  doi          = {10.1109/TKDE.2022.3176880},\n  timestamp    = {Tue, 08 Oct 2024 17:17:08 +0200},\n  biburl       = {https://dblp.org/rec/journals/tkde/ZhangWLCLWZ23.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "journals/tkde/ZhangWLCLWZ23",
+    "bibtex_url": "https://dblp.org/rec/journals/tkde/ZhangWLCLWZ23.bib",
+    "doi": "10.1109/TKDE.2022.3176880",
+    "source": "dblp",
+    "error": null
+  },
+  "Generating Relevant and Informative Questions for Open-domain Conversations": {
+    "title": "Generating Relevant and Informative Questions for Open-domain Conversations",
+    "venue": "ACM TOIS, 2022",
+    "year": "2022",
+    "bibtex": "@article{DBLP:journals/tois/LingCLCR23,\n  author       = {Yanxiang Ling and\n                  Fei Cai and\n                  Jun Liu and\n                  Honghui Chen and\n                  Maarten de Rijke},\n  title        = {Generating Relevant and Informative Questions for Open-Domain Conversations},\n  journal      = {{ACM} Trans. Inf. Syst.},\n  volume       = {41},\n  number       = {1},\n  pages        = {2:1--2:30},\n  year         = {2023},\n  url          = {https://doi.org/10.1145/3510612},\n  doi          = {10.1145/3510612},\n  timestamp    = {Sun, 06 Oct 2024 21:41:42 +0200},\n  biburl       = {https://dblp.org/rec/journals/tois/LingCLCR23.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "journals/tois/LingCLCR23",
+    "bibtex_url": "https://dblp.org/rec/journals/tois/LingCLCR23.bib",
+    "doi": "10.1145/3510612",
+    "source": "dblp",
+    "error": null
+  },
+  "Computer Science Diagram Understanding with Topology Parsing": {
+    "title": "Computer Science Diagram Understanding with Topology Parsing",
+    "venue": "ACM TKDD, 2022",
+    "year": "2022",
+    "error": "ALL_FAILED"
+  },
+  "Inductive Relation Prediction with Logical Reasoning Using Contrastive Representations": {
+    "title": "Inductive Relation Prediction with Logical Reasoning Using Contrastive Representations",
+    "venue": "EMNLP 2022",
+    "year": "2022",
+    "bibtex": "@inproceedings{Pan_2022, title={Inductive Relation Prediction with Logical Reasoning Using Contrastive Representations}, url={http://dx.doi.org/10.18653/v1/2022.emnlp-main.286}, DOI={10.18653/v1/2022.emnlp-main.286}, booktitle={Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing}, publisher={Association for Computational Linguistics}, author={Pan, Yudai and Liu, Jun and Zhang, Lingling and Zhao, Tianzhe and Lin, Qika and Hu, Xin and Wang, Qianying}, year={2022}, pages={4261–4274} }",
+    "doi": "10.18653/v1/2022.emnlp-main.286",
+    "pdf_url": "",
+    "source": "crossref",
+    "error": null
+  },
+  "MatchPrompt: Prompt-based Open Relation Extraction with Semantic Consistency Guided Clustering": {
+    "title": "MatchPrompt: Prompt-based Open Relation Extraction with Semantic Consistency Guided Clustering",
+    "venue": "EMNLP 2022",
+    "year": "2022",
+    "bibtex": "@inproceedings{Wang_2022, title={MatchPrompt: Prompt-based Open Relation Extraction with Semantic Consistency Guided Clustering}, url={http://dx.doi.org/10.18653/v1/2022.emnlp-main.537}, DOI={10.18653/v1/2022.emnlp-main.537}, booktitle={Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing}, publisher={Association for Computational Linguistics}, author={Wang, Jiaxin and Zhang, Lingling and Liu, Jun and Liang, Xi and Zhong, Yujie and Wu, Yaqiang}, year={2022}, pages={7875–7888} }",
+    "doi": "10.18653/v1/2022.emnlp-main.537",
+    "pdf_url": "",
+    "source": "crossref",
+    "error": null
+  },
+  "BusWTE: Realtime Bus Waiting Time Estimation of GPS Missing via Multi-Task Learning": {
+    "title": "BusWTE: Realtime Bus Waiting Time Estimation of GPS Missing via Multi-Task Learning",
+    "venue": "ECML-PKDD 2022",
+    "year": "2022",
+    "bibtex": "@inbook{Rong_2023, title={BusWTE: Realtime Bus Waiting Time Estimation of GPS Missing via Multi-task Learning}, ISBN={9783031264221}, ISSN={1611-3349}, url={http://dx.doi.org/10.1007/978-3-031-26422-1_34}, DOI={10.1007/978-3-031-26422-1_34}, booktitle={Machine Learning and Knowledge Discovery in Databases}, publisher={Springer Nature Switzerland}, author={Rong, Yuecheng and Liu, Jun and Xu, Zhilin and Ding, Jian and Zhang, Chuangming and Gao, Jiaxiang}, year={2023}, pages={554–570} }",
+    "doi": "10.1007/978-3-031-26422-1_34",
+    "pdf_url": "",
+    "source": "crossref",
+    "error": null
+  },
+  "Incorporating Prior Type Information for Few-shot Knowledge Graph Completion": {
+    "title": "Incorporating Prior Type Information for Few-shot Knowledge Graph Completion",
+    "venue": "APWeb-WAIM 2022",
+    "year": "2022",
+    "bibtex": "@inproceedings{DBLP:conf/apweb/YaoZXL22,\n  author       = {Siyu Yao and\n                  Tianzhe Zhao and\n                  Fangzhi Xu and\n                  Jun Liu},\n  editor       = {Bohan Li and\n                  Lin Yue and\n                  Chuanqi Tao and\n                  Xuming Han and\n                  Diego Calvanese and\n                  Toshiyuki Amagasa},\n  title        = {Incorporating Prior Type Information for Few-Shot Knowledge Graph\n                  Completion},\n  booktitle    = {Web and Big Data - 6th International Joint Conference, APWeb-WAIM\n                  2022, Nanjing, China, November 25-27, 2022, Proceedings, Part {II}},\n  series       = {Lecture Notes in Computer Science},\n  pages        = {271--285},\n  publisher    = {Springer},\n  year         = {2022},\n  url          = {https://doi.org/10.1007/978-3-031-25198-6\\_21},\n  doi          = {10.1007/978-3-031-25198-6\\_21},\n  timestamp    = {Tue, 14 Mar 2023 18:44:57 +0100},\n  biburl       = {https://dblp.org/rec/conf/apweb/YaoZXL22.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "conf/apweb/YaoZXL22",
+    "bibtex_url": "https://dblp.org/rec/conf/apweb/YaoZXL22.bib",
+    "doi": "10.1007/978-3-031-25198-6_21",
+    "source": "dblp",
+    "error": null
+  },
+  "Logiformer: A Two-Branch Graph Transformer Network for Interpretable Logical Reasoning": {
+    "title": "Logiformer: A Two-Branch Graph Transformer Network for Interpretable Logical Reasoning",
+    "venue": "SIGIR 2022",
+    "year": "2022",
+    "bibtex": "@inproceedings{DBLP:conf/sigir/XuLLPZ22,\n  author       = {Fangzhi Xu and\n                  Jun Liu and\n                  Qika Lin and\n                  Yudai Pan and\n                  Lingling Zhang},\n  editor       = {Enrique Amig{\\'{o}} and\n                  Pablo Castells and\n                  Julio Gonzalo and\n                  Ben Carterette and\n                  J. Shane Culpepper and\n                  Gabriella Kazai},\n  title        = {Logiformer: {A} Two-Branch Graph Transformer Network for Interpretable\n                  Logical Reasoning},\n  booktitle    = {{SIGIR} '22: The 45th International {ACM} {SIGIR} Conference on Research\n                  and Development in Information Retrieval, Madrid, Spain, July 11 -\n                  15, 2022},\n  pages        = {1055--1065},\n  publisher    = {{ACM}},\n  year         = {2022},\n  url          = {https://doi.org/10.1145/3477495.3532016},\n  doi          = {10.1145/3477495.3532016},\n  timestamp    = {Thu, 12 Mar 2026 08:05:43 +0100},\n  biburl       = {https://dblp.org/rec/conf/sigir/XuLLPZ22.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "conf/sigir/XuLLPZ22",
+    "bibtex_url": "https://dblp.org/rec/conf/sigir/XuLLPZ22.bib",
+    "doi": "10.1145/3477495.3532016",
+    "source": "dblp",
+    "error": null
+  },
+  "Incorporating Context Graph with Logical Reasoning for Inductive Relation Prediction": {
+    "title": "Incorporating Context Graph with Logical Reasoning for Inductive Relation Prediction",
+    "venue": "SIGIR 2022",
+    "year": "2022",
+    "bibtex": null,
+    "dblp_key": "conf/sigir/LinLXPZZZ22",
+    "bibtex_url": "https://dblp.org/rec/conf/sigir/LinLXPZZZ22.bib",
+    "doi": "10.1145/3477495.3531996",
+    "source": "dblp",
+    "error": null
+  },
+  "Contrastive Graph Representations for Logical Formulas Embedding": {
+    "title": "Contrastive Graph Representations for Logical Formulas Embedding",
+    "venue": "IEEE TKDE, 2021",
+    "year": "2021",
+    "bibtex": "@article{DBLP:journals/tkde/LinLZPHXZ23,\n  author       = {Qika Lin and\n                  Jun Liu and\n                  Lingling Zhang and\n                  Yudai Pan and\n                  Xin Hu and\n                  Fangzhi Xu and\n                  Hongwei Zeng},\n  title        = {Contrastive Graph Representations for Logical Formulas Embedding},\n  journal      = {{IEEE} Trans. Knowl. Data Eng.},\n  volume       = {35},\n  number       = {4},\n  pages        = {3563--3574},\n  year         = {2023},\n  url          = {https://doi.org/10.1109/TKDE.2021.3139333},\n  doi          = {10.1109/TKDE.2021.3139333},\n  timestamp    = {Tue, 25 Nov 2025 10:56:15 +0100},\n  biburl       = {https://dblp.org/rec/journals/tkde/LinLZPHXZ23.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "journals/tkde/LinLZPHXZ23",
+    "bibtex_url": "https://dblp.org/rec/journals/tkde/LinLZPHXZ23.bib",
+    "doi": "10.1109/TKDE.2021.3139333",
+    "source": "dblp",
+    "error": null
+  },
+  "Keep and Select: Improving Hierarchical Context Modeling for Multi-turn Response Generation": {
+    "title": "Keep and Select: Improving Hierarchical Context Modeling for Multi-turn Response Generation",
+    "venue": "IEEE TNNLS, 2021",
+    "year": "2021",
+    "bibtex": "@article{Ling_2023, title={Keep and Select: Improving Hierarchical Context Modeling for Multi-Turn Response Generation}, volume={34}, ISSN={2162-2388}, url={http://dx.doi.org/10.1109/TNNLS.2021.3112700}, DOI={10.1109/tnnls.2021.3112700}, number={7}, journal={IEEE Transactions on Neural Networks and Learning Systems}, publisher={Institute of Electrical and Electronics Engineers (IEEE)}, author={Ling, Yanxiang and Cai, Fei and Liu, Jun and Chen, Honghui and de Rijke, Maarten}, year={2023}, month=July, pages={3636–3649} }",
+    "dblp_key": "journals/tnn/LingCLCR23",
+    "bibtex_url": "https://dblp.org/rec/journals/tnn/LingCLCR23.bib",
+    "doi": "10.1109/TNNLS.2021.3112700",
+    "source": "dblp",
+    "error": null
+  },
+  "Fs-DSM: Few-Shot Diagram-Sentence Matching via Cross-Modal Attention Graph Model": {
+    "title": "Fs-DSM: Few-Shot Diagram-Sentence Matching via Cross-Modal Attention Graph Model",
+    "venue": "IEEE TIP, 2021",
+    "year": "2021",
+    "bibtex": "@article{Hu_2021, title={Fs-DSM: Few-Shot Diagram-Sentence Matching via Cross-Modal Attention Graph Model}, volume={30}, ISSN={1941-0042}, url={http://dx.doi.org/10.1109/TIP.2021.3112294}, DOI={10.1109/tip.2021.3112294}, journal={IEEE Transactions on Image Processing}, publisher={Institute of Electrical and Electronics Engineers (IEEE)}, author={Hu, Xin and Zhang, Lingling and Liu, Jun and Zheng, Qinghua and Zhou, Jianlong}, year={2021}, pages={8102–8115} }",
+    "dblp_key": "journals/tip/HuZLZZ21",
+    "bibtex_url": "https://dblp.org/rec/journals/tip/HuZLZZ21.bib",
+    "doi": "10.1109/TIP.2021.3112294",
+    "source": "dblp",
+    "error": null
+  },
+  "Multi-Task Learning for Visual Question Answering": {
+    "title": "Multi-Task Learning for Visual Question Answering",
+    "venue": "IEEE TNNLS, 2021",
+    "year": "2021",
+    "bibtex": "@article{Lei_2020, title={Multi-Question Learning for Visual Question Answering}, volume={34}, ISSN={2159-5399}, url={http://dx.doi.org/10.1609/aaai.v34i07.6794}, DOI={10.1609/aaai.v34i07.6794}, number={07}, journal={Proceedings of the AAAI Conference on Artificial Intelligence}, publisher={Association for the Advancement of Artificial Intelligence (AAAI)}, author={Lei, Chenyi and Wu, Lei and Liu, Dong and Li, Zhao and Wang, Guoxin and Tang, Haihong and Li, Houqiang}, year={2020}, month=Apr, pages={11328–11335} }",
+    "doi": "10.1609/aaai.v34i07.6794",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/6794/6648",
+    "source": "crossref",
+    "error": null
+  },
+  "Rule-Enhanced Iterative Complementation for Knowledge Graph Reasoning": {
+    "title": "Rule-Enhanced Iterative Complementation for Knowledge Graph Reasoning",
+    "venue": "Information Sciences, 2021",
+    "year": "2021",
+    "bibtex": "@article{Lin_2021, title={Rule-enhanced iterative complementation for knowledge graph reasoning}, volume={575}, ISSN={0020-0255}, url={http://dx.doi.org/10.1016/j.ins.2021.06.040}, DOI={10.1016/j.ins.2021.06.040}, journal={Information Sciences}, publisher={Elsevier BV}, author={Lin, Qika and Liu, Jun and Pan, Yudai and Zhang, Lingling and Hu, Xin and Ma, Jie}, year={2021}, month=Oct, pages={66–79} }",
+    "doi": "10.1016/j.ins.2021.06.040",
+    "pdf_url": "",
+    "source": "crossref",
+    "error": null
+  },
+  "Relation-aware Fine-grained Reasoning Network for Textbook Question Answering": {
+    "title": "Relation-aware Fine-grained Reasoning Network for Textbook Question Answering",
+    "venue": "IEEE TNNLS, 2021",
+    "year": "2021",
+    "bibtex": "@article{DBLP:journals/tnn/MaLWLL23,\n  author       = {Jie Ma and\n                  Jun Liu and\n                  Yaxian Wang and\n                  Junjun Li and\n                  Tongliang Liu},\n  title        = {Relation-Aware Fine-Grained Reasoning Network for Textbook Question\n                  Answering},\n  journal      = {{IEEE} Trans. Neural Networks Learn. Syst.},\n  volume       = {34},\n  number       = {1},\n  pages        = {15--27},\n  year         = {2023},\n  url          = {https://doi.org/10.1109/TNNLS.2021.3089140},\n  doi          = {10.1109/TNNLS.2021.3089140},\n  timestamp    = {Tue, 31 Jan 2023 20:45:23 +0100},\n  biburl       = {https://dblp.org/rec/journals/tnn/MaLWLL23.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "journals/tnn/MaLWLL23",
+    "bibtex_url": "https://dblp.org/rec/journals/tnn/MaLWLL23.bib",
+    "doi": "10.1109/TNNLS.2021.3089140",
+    "source": "dblp",
+    "error": null
+  },
+  "Auto-FSL: Searching the Attribute Consistent Network for Few-Shot Learning": {
+    "title": "Auto-FSL: Searching the Attribute Consistent Network for Few-Shot Learning",
+    "venue": "IEEE TCSVT, 2021",
+    "year": "2021",
+    "bibtex": "@article{DBLP:journals/tcsv/ZhangWCLGZ22,\n  author       = {Lingling Zhang and\n                  Shaowei Wang and\n                  Xiaojun Chang and\n                  Jun Liu and\n                  Zongyuan Ge and\n                  Qinghua Zheng},\n  title        = {Auto-FSL: Searching the Attribute Consistent Network for Few-Shot\n                  Learning},\n  journal      = {{IEEE} Trans. Circuits Syst. Video Technol.},\n  volume       = {32},\n  number       = {3},\n  pages        = {1213--1223},\n  year         = {2022},\n  url          = {https://doi.org/10.1109/TCSVT.2021.3076523},\n  doi          = {10.1109/TCSVT.2021.3076523},\n  timestamp    = {Tue, 08 Oct 2024 17:17:08 +0200},\n  biburl       = {https://dblp.org/rec/journals/tcsv/ZhangWCLGZ22.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "journals/tcsv/ZhangWCLGZ22",
+    "bibtex_url": "https://dblp.org/rec/journals/tcsv/ZhangWCLGZ22.bib",
+    "doi": "10.1109/TCSVT.2021.3076523",
+    "source": "dblp",
+    "error": null
+  },
+  "CSDQA: Diagram Question Answering in Computer Science": {
+    "title": "CSDQA: Diagram Question Answering in Computer Science",
+    "venue": "CCKS 2021",
+    "year": "2021",
+    "bibtex": "@inproceedings{DBLP:conf/ccks/WangZYHQWL21,\n  author       = {Shaowei Wang and\n                  Lingling Zhang and\n                  Yi Yang and\n                  Xin Hu and\n                  Tao Qin and\n                  Bifan Wei and\n                  Jun Liu},\n  editor       = {Bing Qin and\n                  Zhi Jin and\n                  Haofen Wang and\n                  Jeff Z. Pan and\n                  Yongbin Liu and\n                  Bo An},\n  title        = {{CSDQA:} Diagram Question Answering in Computer Science},\n  booktitle    = {Knowledge Graph and Semantic Computing: Knowledge Graph Empowers New\n                  Infrastructure Construction - 6th China Conference, {CCKS} 2021, Guangzhou,\n                  China, November 4-7, 2021, Proceedings},\n  series       = {Communications in Computer and Information Science},\n  pages        = {274--280},\n  publisher    = {Springer},\n  year         = {2021},\n  url          = {https://doi.org/10.1007/978-981-16-6471-7\\_21},\n  doi          = {10.1007/978-981-16-6471-7\\_21},\n  timestamp    = {Tue, 21 Apr 2026 16:20:50 +0200},\n  biburl       = {https://dblp.org/rec/conf/ccks/WangZYHQWL21.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "conf/ccks/WangZYHQWL21",
+    "bibtex_url": "https://dblp.org/rec/conf/ccks/WangZYHQWL21.bib",
+    "doi": "10.1007/978-981-16-6471-7_21",
+    "source": "dblp",
+    "error": null
+  },
+  "Reliable Recommendation with Review-level Explanations": {
+    "title": "Reliable Recommendation with Review-level Explanations",
+    "venue": "ICDE 2021",
+    "year": "2021",
+    "bibtex": "@inproceedings{DBLP:conf/icde/LyuY0LLD21,\n  author       = {Yanzhang Lyu and\n                  Hongzhi Yin and\n                  Jun Liu and\n                  Mengyue Liu and\n                  Huan Liu and\n                  Shizhuo Deng},\n  title        = {Reliable Recommendation with Review-level Explanations},\n  booktitle    = {37th {IEEE} International Conference on Data Engineering, {ICDE} 2021,\n                  Chania, Greece, April 19-22, 2021},\n  pages        = {1548--1558},\n  publisher    = {{IEEE}},\n  year         = {2021},\n  url          = {https://doi.org/10.1109/ICDE51399.2021.00137},\n  doi          = {10.1109/ICDE51399.2021.00137},\n  timestamp    = {Mon, 05 Dec 2022 16:43:34 +0100},\n  biburl       = {https://dblp.org/rec/conf/icde/LyuY0LLD21.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "conf/icde/LyuY0LLD21",
+    "bibtex_url": "https://dblp.org/rec/conf/icde/LyuY0LLD21.bib",
+    "doi": "10.1109/ICDE51399.2021.00137",
+    "source": "dblp",
+    "error": null
+  },
+  "知识森林：理论、方法与实践": {
+    "title": "知识森林：理论、方法与实践",
+    "venue": "科学出版社, 2021",
+    "year": "2021",
+    "error": "ALL_FAILED"
+  },
+  "Weakly Supervised Group Mask Network for Object Detection": {
+    "title": "Weakly Supervised Group Mask Network for Object Detection",
+    "venue": "IJCV, 2020",
+    "year": "2020",
+    "bibtex": "@article{Song_2020, title={Weakly Supervised Group Mask Network for Object Detection}, volume={129}, ISSN={1573-1405}, url={http://dx.doi.org/10.1007/s11263-020-01397-w}, DOI={10.1007/s11263-020-01397-w}, number={3}, journal={International Journal of Computer Vision}, publisher={Springer Science and Business Media LLC}, author={Song, Lingyun and Liu, Jun and Sun, Mingxuan and Shang, Xuequn}, year={2020}, month=Nov, pages={681–702} }",
+    "doi": "10.1007/s11263-020-01397-w",
+    "pdf_url": "http://link.springer.com/content/pdf/10.1007/s11263-020-01397-w.pdf",
+    "source": "crossref",
+    "error": null
+  },
+  "Faceted Text Segmentation via Multi-Task Learning": {
+    "title": "Faceted Text Segmentation via Multi-Task Learning",
+    "venue": "IEEE TNNLS, 2020",
+    "year": "2020",
+    "bibtex": "@article{Wu_2021, title={Faceted Text Segmentation via Multitask Learning}, volume={32}, ISSN={2162-2388}, url={http://dx.doi.org/10.1109/tnnls.2020.3015996}, DOI={10.1109/tnnls.2020.3015996}, number={9}, journal={IEEE Transactions on Neural Networks and Learning Systems}, publisher={Institute of Electrical and Electronics Engineers (IEEE)}, author={Wu, Bei and Wei, Bifan and Liu, Jun and Wu, Kewei and Wang, Meng}, year={2021}, month=Sept, pages={3846–3857} }",
+    "doi": "10.1109/tnnls.2020.3015996",
+    "pdf_url": "",
+    "source": "crossref",
+    "error": null
+  },
+  "Fine-grained 3D-Attention Prototypes for Few-Shot Learning": {
+    "title": "Fine-grained 3D-Attention Prototypes for Few-Shot Learning",
+    "venue": "Neural Computation, 2020",
+    "year": "2020",
+    "bibtex": "@article{Hu_2020, title={Fine-Grained 3D-Attention Prototypes for Few-Shot Learning}, volume={32}, ISSN={1530-888X}, url={http://dx.doi.org/10.1162/neco_a_01302}, DOI={10.1162/neco_a_01302}, number={9}, journal={Neural Computation}, publisher={MIT Press - Journals}, author={Hu, Xin and Liu, Jun and Ma, Jie and Pan, Yudai and Zhang, Lingling}, year={2020}, month=Sept, pages={1664–1684} }",
+    "doi": "10.1162/neco_a_01302",
+    "pdf_url": "",
+    "source": "crossref",
+    "error": null
+  },
+  "Few-Shot Activity Recognition with Cross-Modal Memory Network": {
+    "title": "Few-Shot Activity Recognition with Cross-Modal Memory Network",
+    "venue": "Pattern Recognition, 2020",
+    "year": "2020",
+    "bibtex": "@article{Zhang_2020, title={Few-shot activity recognition with cross-modal memory network}, volume={108}, ISSN={0031-3203}, url={http://dx.doi.org/10.1016/j.patcog.2020.107348}, DOI={10.1016/j.patcog.2020.107348}, journal={Pattern Recognition}, publisher={Elsevier BV}, author={Zhang, Lingling and Chang, Xiaojun and Liu, Jun and Luo, Minnan and Prakash, Mahesh and Hauptmann, Alexander G.}, year={2020}, month=Dec, pages={107348} }",
+    "doi": "10.1016/j.patcog.2020.107348",
+    "pdf_url": "",
+    "source": "crossref",
+    "error": null
+  },
+  "ZSTAD: Zero-Shot Temporal Activity Detection": {
+    "title": "ZSTAD: Zero-Shot Temporal Activity Detection",
+    "venue": "CVPR 2020",
+    "year": "2020",
+    "bibtex": "@inproceedings{DBLP:conf/cvpr/ZhangCLLWGH20,\n  author       = {Lingling Zhang and\n                  Xiaojun Chang and\n                  Jun Liu and\n                  Minnan Luo and\n                  Sen Wang and\n                  Zongyuan Ge and\n                  Alexander G. Hauptmann},\n  title        = {{ZSTAD:} Zero-Shot Temporal Activity Detection},\n  booktitle    = {2020 {IEEE/CVF} Conference on Computer Vision and Pattern Recognition,\n                  {CVPR} 2020, Seattle, WA, USA, June 13-19, 2020},\n  pages        = {876--885},\n  publisher    = {Computer Vision Foundation / {IEEE}},\n  year         = {2020},\n  url          = {https://openaccess.thecvf.com/content\\_CVPR\\_2020/html/Zhang\\_ZSTAD\\_Zero-Shot\\_Temporal\\_Activity\\_Detection\\_CVPR\\_2020\\_paper.html},\n  doi          = {10.1109/CVPR42600.2020.00096},\n  timestamp    = {Tue, 08 Oct 2024 17:17:06 +0200},\n  biburl       = {https://dblp.org/rec/conf/cvpr/ZhangCLLWGH20.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "conf/cvpr/ZhangCLLWGH20",
+    "bibtex_url": "https://dblp.org/rec/conf/cvpr/ZhangCLLWGH20.bib",
+    "doi": "10.1109/CVPR42600.2020.00096",
+    "source": "dblp",
+    "error": null
+  },
+  "Knowledge Forest: A Novel Model to Organize Knowledge Fragments": {
+    "title": "Knowledge Forest: A Novel Model to Organize Knowledge Fragments",
+    "venue": "Science China Information Sciences, 2019",
+    "year": "2019",
+    "error": "ALL_FAILED"
+  },
+  "Deep Top-k Ranking for Image-Sentence Matching": {
+    "title": "Deep Top-k Ranking for Image-Sentence Matching",
+    "venue": "IEEE TMM, 2019",
+    "year": "2019",
+    "bibtex": "@article{Zhang_2020, title={Deep Top-$k$ Ranking for Image–Sentence Matching}, volume={22}, ISSN={1941-0077}, url={http://dx.doi.org/10.1109/tmm.2019.2931352}, DOI={10.1109/tmm.2019.2931352}, number={3}, journal={IEEE Transactions on Multimedia}, publisher={Institute of Electrical and Electronics Engineers (IEEE)}, author={Zhang, Lingling and Luo, Minnan and Liu, Jun and Chang, Xiaojun and Yang, Yi and Hauptmann, Alexander G.}, year={2020}, month=Mar, pages={775–785} }",
+    "doi": "10.1109/tmm.2019.2931352",
+    "pdf_url": "",
+    "source": "crossref",
+    "error": null
+  },
+  "Scheduled Sampling for One-Shot Learning via Matching Network": {
+    "title": "Scheduled Sampling for One-Shot Learning via Matching Network",
+    "venue": "Pattern Recognition, 2019",
+    "year": "2019",
+    "bibtex": "@article{Zhang_2019, title={Scheduled sampling for one-shot learning via matching network}, volume={96}, ISSN={0031-3203}, url={http://dx.doi.org/10.1016/j.patcog.2019.07.007}, DOI={10.1016/j.patcog.2019.07.007}, journal={Pattern Recognition}, publisher={Elsevier BV}, author={Zhang, Lingling and Liu, Jun and Luo, Minnan and Chang, Xiaojun and Zheng, Qinghua and Hauptmann, Alexander G.}, year={2019}, month=Dec, pages={106962} }",
+    "doi": "10.1016/j.patcog.2019.07.007",
+    "pdf_url": "",
+    "source": "crossref",
+    "error": null
+  },
+  "AHNG: Representation Learning on Attributed Heterogeneous Network": {
+    "title": "AHNG: Representation Learning on Attributed Heterogeneous Network",
+    "venue": "Information Fusion, 2019",
+    "year": "2019",
+    "bibtex": "@article{DBLP:journals/inffus/LiuLCWCZ19,\n  author       = {Mengyue Liu and\n                  Jun Liu and\n                  Yihe Chen and\n                  Meng Wang and\n                  Hao Chen and\n                  Qinghua Zheng},\n  title        = {{AHNG:} Representation learning on attributed heterogeneous network},\n  journal      = {Inf. Fusion},\n  volume       = {50},\n  pages        = {221--230},\n  year         = {2019},\n  url          = {https://doi.org/10.1016/j.inffus.2019.01.005},\n  doi          = {10.1016/J.INFFUS.2019.01.005},\n  timestamp    = {Sun, 19 Jan 2025 14:45:44 +0100},\n  biburl       = {https://dblp.org/rec/journals/inffus/LiuLCWCZ19.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "journals/inffus/LiuLCWCZ19",
+    "bibtex_url": "https://dblp.org/rec/journals/inffus/LiuLCWCZ19.bib",
+    "doi": "10.1016/J.INFFUS.2019.01.005",
+    "source": "dblp",
+    "error": null
+  },
+  "Jointly Optimized Neural Coreference Resolution with Mutual Attention": {
+    "title": "Jointly Optimized Neural Coreference Resolution with Mutual Attention",
+    "venue": "WSDM 2019",
+    "year": "2019",
+    "bibtex": "@inproceedings{Ma_2020, series={WSDM ’20}, title={Jointly Optimized Neural Coreference Resolution with Mutual Attention}, url={http://dx.doi.org/10.1145/3336191.3371787}, DOI={10.1145/3336191.3371787}, booktitle={Proceedings of the 13th International Conference on Web Search and Data Mining}, publisher={ACM}, author={Ma, Jie and Liu, Jun and Li, Yufei and Hu, Xin and Pan, Yudai and Sun, Shen and Lin, Qika}, year={2020}, month=Jan, pages={402–410}, collection={WSDM ’20} }",
+    "doi": "10.1145/3336191.3371787",
+    "pdf_url": "",
+    "source": "crossref",
+    "error": null
+  },
+  "A Deep Multi-Modal CNN for Multi-Instance Multi-Label Image Classification": {
+    "title": "A Deep Multi-Modal CNN for Multi-Instance Multi-Label Image Classification",
+    "venue": "IEEE TIP, 2018",
+    "year": "2018",
+    "bibtex": "@article{Song_2018, title={A Deep Multi-Modal CNN for Multi-Instance Multi-Label Image Classification}, volume={27}, ISSN={1941-0042}, url={http://dx.doi.org/10.1109/tip.2018.2864920}, DOI={10.1109/tip.2018.2864920}, number={12}, journal={IEEE Transactions on Image Processing}, publisher={Institute of Electrical and Electronics Engineers (IEEE)}, author={Song, Lingyun and Liu, Jun and Qian, Buyue and Sun, Mingxuan and Yang, Kuan and Sun, Meng and Abbas, Samar}, year={2018}, month=Dec, pages={6025–6038} }",
+    "doi": "10.1109/tip.2018.2864920",
+    "pdf_url": "",
+    "source": "crossref",
+    "error": null
+  },
+  "Android Malware Familial Classification via Frequent Subgraph Analysis": {
+    "title": "Android Malware Familial Classification via Frequent Subgraph Analysis",
+    "venue": "IEEE TIFS, 2018",
+    "year": "2018",
+    "bibtex": "@article{DBLP:journals/tifs/Fan0LCTZL18,\n  author       = {Ming Fan and\n                  Jun Liu and\n                  Xiapu Luo and\n                  Kai Chen and\n                  Zhenzhou Tian and\n                  Qinghua Zheng and\n                  Ting Liu},\n  title        = {Android Malware Familial Classification and Representative Sample\n                  Selection via Frequent Subgraph Analysis},\n  journal      = {{IEEE} Trans. Inf. Forensics Secur.},\n  volume       = {13},\n  number       = {8},\n  pages        = {1890--1905},\n  year         = {2018},\n  url          = {https://doi.org/10.1109/TIFS.2018.2806891},\n  doi          = {10.1109/TIFS.2018.2806891},\n  timestamp    = {Wed, 01 Mar 2023 22:21:54 +0100},\n  biburl       = {https://dblp.org/rec/journals/tifs/Fan0LCTZL18.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "journals/tifs/Fan0LCTZL18",
+    "bibtex_url": "https://dblp.org/rec/journals/tifs/Fan0LCTZL18.bib",
+    "doi": "10.1109/TIFS.2018.2806891",
+    "source": "dblp",
+    "error": null
+  },
+  "Facet Annotation by Extending CNN with a Matching Strategy": {
+    "title": "Facet Annotation by Extending CNN with a Matching Strategy",
+    "venue": "Neural Computation, 2018",
+    "year": "2018",
+    "bibtex": "@article{DBLP:journals/neco/WuWLGZC18,\n  author       = {Bei Wu and\n                  Bifan Wei and\n                  Jun Liu and\n                  Zhaotong Guo and\n                  Yuanhao Zheng and\n                  Yihe Chen},\n  title        = {Facet Annotation by Extending {CNN} with a Matching Strategy},\n  journal      = {Neural Comput.},\n  volume       = {30},\n  number       = {6},\n  year         = {2018},\n  url          = {https://doi.org/10.1162/neco\\_a\\_01077},\n  doi          = {10.1162/NECO\\_A\\_01077},\n  timestamp    = {Sat, 01 Nov 2025 10:14:17 +0100},\n  biburl       = {https://dblp.org/rec/journals/neco/WuWLGZC18.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "journals/neco/WuWLGZC18",
+    "bibtex_url": "https://dblp.org/rec/journals/neco/WuWLGZC18.bib",
+    "doi": "10.1162/NECO_A_01077",
+    "source": "dblp",
+    "error": null
+  },
+  "Graph Embedding based Familial Analysis of Android Malware": {
+    "title": "Graph Embedding based Familial Analysis of Android Malware",
+    "venue": "ICSE 2019",
+    "year": "2018",
+    "bibtex": "@inproceedings{DBLP:conf/icse/FanLLWNZL19,\n  author       = {Ming Fan and\n                  Xiapu Luo and\n                  Jun Liu and\n                  Meng Wang and\n                  Chunyin Nong and\n                  Qinghua Zheng and\n                  Ting Liu},\n  editor       = {Joanne M. Atlee and\n                  Tevfik Bultan and\n                  Jon Whittle},\n  title        = {Graph embedding based familial analysis of Android malware using unsupervised\n                  learning},\n  booktitle    = {Proceedings of the 41st International Conference on Software Engineering,\n                  {ICSE} 2019, Montreal, QC, Canada, May 25-31, 2019},\n  pages        = {771--782},\n  publisher    = {{IEEE} / {ACM}},\n  year         = {2019},\n  url          = {https://doi.org/10.1109/ICSE.2019.00085},\n  doi          = {10.1109/ICSE.2019.00085},\n  timestamp    = {Tue, 24 May 2022 15:28:49 +0200},\n  biburl       = {https://dblp.org/rec/conf/icse/FanLLWNZL19.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "conf/icse/FanLLWNZL19",
+    "bibtex_url": "https://dblp.org/rec/conf/icse/FanLLWNZL19.bib",
+    "doi": "10.1109/ICSE.2019.00085",
+    "source": "dblp",
+    "error": null
+  },
+  "CTDroid: Leveraging a Corpus of Technical Blogs for Android Malware Analysis": {
+    "title": "CTDroid: Leveraging a Corpus of Technical Blogs for Android Malware Analysis",
+    "venue": "NASAC 2018",
+    "year": "2018",
+    "bibtex": "@article{DBLP:journals/tr/FanLLNZL20,\n  author       = {Ming Fan and\n                  Xiapu Luo and\n                  Jun Liu and\n                  Chunyin Nong and\n                  Qinghua Zheng and\n                  Ting Liu},\n  title        = {CTDroid: Leveraging a Corpus of Technical Blogs for Android Malware\n                  Analysis},\n  journal      = {{IEEE} Trans. Reliab.},\n  volume       = {69},\n  number       = {1},\n  pages        = {124--138},\n  year         = {2020},\n  url          = {https://doi.org/10.1109/TR.2019.2926129},\n  doi          = {10.1109/TR.2019.2926129},\n  timestamp    = {Sun, 19 Jan 2025 15:01:50 +0100},\n  biburl       = {https://dblp.org/rec/journals/tr/FanLLNZL20.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "journals/tr/FanLLNZL20",
+    "bibtex_url": "https://dblp.org/rec/journals/tr/FanLLNZL20.bib",
+    "doi": "10.1109/TR.2019.2926129",
+    "source": "dblp",
+    "error": null
+  },
+  "Graph Embedding based Query Construction over Knowledge Graphs": {
+    "title": "Graph Embedding based Query Construction over Knowledge Graphs",
+    "venue": "IEEE ICBK 2018",
+    "year": "2018",
+    "bibtex": "@inproceedings{DBLP:conf/icbk/WangWLYZ18,\n  author       = {Ruijie Wang and\n                  Meng Wang and\n                  Jun Liu and\n                  Siyu Yao and\n                  Qinghua Zheng},\n  editor       = {Xindong Wu and\n                  Yew{-}Soon Ong and\n                  Charu C. Aggarwal and\n                  Huanhuan Chen},\n  title        = {Graph Embedding Based Query Construction Over Knowledge Graphs},\n  booktitle    = {2018 {IEEE} International Conference on Big Knowledge, {ICBK} 2018,\n                  Singapore, November 17-18, 2018},\n  pages        = {1--8},\n  publisher    = {{IEEE} Computer Society},\n  year         = {2018},\n  url          = {https://doi.org/10.1109/ICBK.2018.00009},\n  doi          = {10.1109/ICBK.2018.00009},\n  timestamp    = {Wed, 15 Oct 2025 07:23:59 +0200},\n  biburl       = {https://dblp.org/rec/conf/icbk/WangWLYZ18.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "conf/icbk/WangWLYZ18",
+    "bibtex_url": "https://dblp.org/rec/conf/icbk/WangWLYZ18.bib",
+    "doi": "10.1109/ICBK.2018.00009",
+    "source": "dblp",
+    "error": null
+  },
+  "Towards Empty Answers in SPARQL: Approximating Querying with RDF Embedding": {
+    "title": "Towards Empty Answers in SPARQL: Approximating Querying with RDF Embedding",
+    "venue": "ISWC 2018",
+    "year": "2018",
+    "bibtex": "@inproceedings{DBLP:conf/semweb/WangWLCZQ18,\n  author       = {Meng Wang and\n                  Ruijie Wang and\n                  Jun Liu and\n                  Yihe Chen and\n                  Lei Zhang and\n                  Guilin Qi},\n  editor       = {Denny Vrandecic and\n                  Kalina Bontcheva and\n                  Mari Carmen Su{\\'{a}}rez{-}Figueroa and\n                  Valentina Presutti and\n                  Irene Celino and\n                  Marta Sabou and\n                  Lucie{-}Aim{\\'{e}}e Kaffee and\n                  Elena Simperl},\n  title        = {Towards Empty Answers in {SPARQL:} Approximating Querying with {RDF}\n                  Embedding},\n  booktitle    = {The Semantic Web - {ISWC} 2018 - 17th International Semantic Web Conference,\n                  Monterey, CA, USA, October 8-12, 2018, Proceedings, Part {I}},\n  series       = {Lecture Notes in Computer Science},\n  pages        = {513--529},\n  publisher    = {Springer},\n  year         = {2018},\n  url          = {https://doi.org/10.1007/978-3-030-00671-6\\_30},\n  doi          = {10.1007/978-3-030-00671-6\\_30},\n  timestamp    = {Sun, 19 Jan 2025 13:17:23 +0100},\n  biburl       = {https://dblp.org/rec/conf/semweb/WangWLCZQ18.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "conf/semweb/WangWLCZQ18",
+    "bibtex_url": "https://dblp.org/rec/conf/semweb/WangWLCZQ18.bib",
+    "doi": "10.1007/978-3-030-00671-6_30",
+    "source": "dblp",
+    "error": null
+  },
+  "Internet Traffic Classification Based on Expanding Vector of Flow": {
+    "title": "Internet Traffic Classification Based on Expanding Vector of Flow",
+    "venue": "Computer Networks, 2017",
+    "year": "2017",
+    "error": "ALL_FAILED"
+  },
+  "DAPASA: Detecting Android Piggybacked Apps through Sensitive Subgraph Analysis": {
+    "title": "DAPASA: Detecting Android Piggybacked Apps through Sensitive Subgraph Analysis",
+    "venue": "IEEE TIFS, 2017",
+    "year": "2017",
+    "bibtex": "@article{Fan_2017, title={DAPASA: Detecting Android Piggybacked Apps Through Sensitive Subgraph Analysis}, volume={12}, ISSN={1556-6021}, url={http://dx.doi.org/10.1109/tifs.2017.2687880}, DOI={10.1109/tifs.2017.2687880}, number={8}, journal={IEEE Transactions on Information Forensics and Security}, publisher={Institute of Electrical and Electronics Engineers (IEEE)}, author={Fan, Ming and Liu, Jun and Wang, Wei and Li, Haifei and Tian, Zhenzhou and Liu, Ting}, year={2017}, month=Aug, pages={1772–1785} }",
+    "doi": "10.1109/tifs.2017.2687880",
+    "pdf_url": "",
+    "source": "crossref",
+    "error": null
+  },
+  "Knowledge Engineering with Big Data (BigKE)": {
+    "title": "Knowledge Engineering with Big Data (BigKE)",
+    "venue": "IEEE Access, 2017",
+    "year": "2017",
+    "bibtex": "@article{Wu_2015, title={Knowledge Engineering with Big Data}, volume={30}, ISSN={1541-1672}, url={http://dx.doi.org/10.1109/mis.2015.56}, DOI={10.1109/mis.2015.56}, number={5}, journal={IEEE Intelligent Systems}, publisher={Institute of Electrical and Electronics Engineers (IEEE)}, author={Wu, Xindong and Chen, Huanhuan and Wu, Gongqing and Liu, Jun and Zheng, Qinghua and He, Xiaofeng and zhou, Aoying and Zhao, Zhong-Qiu and Wei, Bifang and Li, Yang and Zhang, Qiping and Zhang, Shichao}, year={2015}, month=Sept, pages={46–55} }",
+    "doi": "10.1109/mis.2015.56",
+    "pdf_url": "",
+    "source": "crossref",
+    "error": null
+  },
+  "Sparse Multi-Modal Topical Coding for Image Annotation": {
+    "title": "Sparse Multi-Modal Topical Coding for Image Annotation",
+    "venue": "Neurocomputing, 2016",
+    "year": "2016",
+    "bibtex": "@article{DBLP:journals/ijon/SongLLZQLZ16,\n  author       = {Lingyun Song and\n                  Minnan Luo and\n                  Jun Liu and\n                  Lingling Zhang and\n                  Buyue Qian and\n                  Max Haifei Li and\n                  Qinghua Zheng},\n  title        = {Sparse Multi-Modal Topical Coding for Image Annotation},\n  journal      = {Neurocomputing},\n  volume       = {214},\n  pages        = {162--174},\n  year         = {2016},\n  url          = {https://doi.org/10.1016/j.neucom.2016.06.005},\n  doi          = {10.1016/J.NEUCOM.2016.06.005},\n  timestamp    = {Tue, 08 Oct 2024 17:17:08 +0200},\n  biburl       = {https://dblp.org/rec/journals/ijon/SongLLZQLZ16.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "journals/ijon/SongLLZQLZ16",
+    "bibtex_url": "https://dblp.org/rec/journals/ijon/SongLLZQLZ16.bib",
+    "doi": "10.1016/J.NEUCOM.2016.06.005",
+    "source": "dblp",
+    "error": null
+  },
+  "Frequent Subgraph based Familial Classification of Android Malware": {
+    "title": "Frequent Subgraph based Familial Classification of Android Malware",
+    "venue": "ISSRE 2016",
+    "year": "2016",
+    "bibtex": "@inproceedings{DBLP:conf/issre/FanLLCCTZZL16,\n  author       = {Ming Fan and\n                  Jun Liu and\n                  Xiapu Luo and\n                  Kai Chen and\n                  Tianyi Chen and\n                  Zhenzhou Tian and\n                  Xiaodong Zhang and\n                  Qinghua Zheng and\n                  Ting Liu},\n  title        = {Frequent Subgraph Based Familial Classification of Android Malware},\n  booktitle    = {27th {IEEE} International Symposium on Software Reliability Engineering,\n                  {ISSRE} 2016, Ottawa, ON, Canada, October 23-27, 2016},\n  pages        = {24--35},\n  publisher    = {{IEEE} Computer Society},\n  year         = {2016},\n  url          = {https://doi.org/10.1109/ISSRE.2016.14},\n  doi          = {10.1109/ISSRE.2016.14},\n  timestamp    = {Fri, 24 Mar 2023 00:04:22 +0100},\n  biburl       = {https://dblp.org/rec/conf/issre/FanLLCCTZZL16.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "conf/issre/FanLLCCTZZL16",
+    "bibtex_url": "https://dblp.org/rec/conf/issre/FanLLCCTZZL16.bib",
+    "doi": "10.1109/ISSRE.2016.14",
+    "source": "dblp",
+    "error": null
+  },
+  "Faceted Fusion of RDF Data": {
+    "title": "Faceted Fusion of RDF Data",
+    "venue": "Information Fusion, 2015",
+    "year": "2016",
+    "bibtex": "@article{DBLP:journals/inffus/LiuLWZZSY15,\n  author       = {Wen{-}qian Liu and\n                  Jun Liu and\n                  Meng Wang and\n                  Qinghua Zheng and\n                  Wei Zhang and\n                  Lingyun Song and\n                  Siyu Yao},\n  title        = {Faceted fusion of {RDF} data},\n  journal      = {Inf. Fusion},\n  volume       = {23},\n  pages        = {16--24},\n  year         = {2015},\n  url          = {https://doi.org/10.1016/j.inffus.2014.06.005},\n  doi          = {10.1016/J.INFFUS.2014.06.005},\n  timestamp    = {Thu, 20 Feb 2020 15:54:13 +0100},\n  biburl       = {https://dblp.org/rec/journals/inffus/LiuLWZZSY15.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "journals/inffus/LiuLWZZSY15",
+    "bibtex_url": "https://dblp.org/rec/journals/inffus/LiuLWZZSY15.bib",
+    "doi": "10.1016/J.INFFUS.2014.06.005",
+    "source": "dblp",
+    "error": null
+  },
+  "Motif-based Hyponym Relation Extraction from Wikipedia Hyperlinks": {
+    "title": "Motif-based Hyponym Relation Extraction from Wikipedia Hyperlinks",
+    "venue": "IEEE TKDE, 2014",
+    "year": "2016",
+    "bibtex": "@article{Wei_2014, title={Motif-Based Hyponym Relation Extraction from Wikipedia Hyperlinks}, volume={26}, ISSN={1041-4347}, url={http://dx.doi.org/10.1109/tkde.2013.183}, DOI={10.1109/tkde.2013.183}, number={10}, journal={IEEE Transactions on Knowledge and Data Engineering}, publisher={Institute of Electrical and Electronics Engineers (IEEE)}, author={Wei, Bifan and Liu, Jun and Ma, Jian and Zheng, Qinghua and Zhang, Wei and Feng, Boqin}, year={2014}, month=Oct, pages={2507–2519} }",
+    "doi": "10.1109/tkde.2013.183",
+    "pdf_url": "",
+    "source": "crossref",
+    "error": null
+  },
+  "Topological Analysis of Knowledge Maps": {
+    "title": "Topological Analysis of Knowledge Maps",
+    "venue": "Knowledge-Based Systems, 2012",
+    "year": "2016",
+    "bibtex": "@article{DBLP:journals/kbs/LiuWZZJ12,\n  author       = {Jun Liu and\n                  Jincheng Wang and\n                  Qinghua Zheng and\n                  Wei Zhang and\n                  Lu Jiang},\n  title        = {Topological analysis of knowledge maps},\n  journal      = {Knowl. Based Syst.},\n  volume       = {36},\n  pages        = {260--267},\n  year         = {2012},\n  url          = {https://doi.org/10.1016/j.knosys.2012.07.011},\n  doi          = {10.1016/J.KNOSYS.2012.07.011},\n  timestamp    = {Tue, 25 Feb 2020 09:02:04 +0100},\n  biburl       = {https://dblp.org/rec/journals/kbs/LiuWZZJ12.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "journals/kbs/LiuWZZJ12",
+    "bibtex_url": "https://dblp.org/rec/journals/kbs/LiuWZZJ12.bib",
+    "doi": "10.1016/J.KNOSYS.2012.07.011",
+    "source": "dblp",
+    "error": null
+  },
+  "Mining Learning-Dependency between Knowledge Units from Text": {
+    "title": "Mining Learning-Dependency between Knowledge Units from Text",
+    "venue": "VLDB Journal, 2011",
+    "year": "2016",
+    "bibtex": "@article{DBLP:journals/vldb/LiuJWZQ11,\n  author       = {Jun Liu and\n                  Lu Jiang and\n                  Zhaohui Wu and\n                  Qinghua Zheng and\n                  Ya{-}nan Qian},\n  title        = {Mining learning-dependency between knowledge units from text},\n  journal      = {{VLDB} J.},\n  volume       = {20},\n  number       = {3},\n  pages        = {335--345},\n  year         = {2011},\n  url          = {https://doi.org/10.1007/s00778-010-0198-2},\n  doi          = {10.1007/S00778-010-0198-2},\n  timestamp    = {Mon, 28 Aug 2023 21:35:31 +0200},\n  biburl       = {https://dblp.org/rec/journals/vldb/LiuJWZQ11.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "journals/vldb/LiuJWZQ11",
+    "bibtex_url": "https://dblp.org/rec/journals/vldb/LiuJWZQ11.bib",
+    "doi": "10.1007/S00778-010-0198-2",
+    "source": "dblp",
+    "error": null
+  },
+  "Faceted Exploring for Domain Knowledge over Linked Open Data": {
+    "title": "Faceted Exploring for Domain Knowledge over Linked Open Data",
+    "venue": "CIKM 2014",
+    "year": "2016",
+    "bibtex": "@inproceedings{DBLP:conf/cikm/WangLLZZSY14,\n  author       = {Meng Wang and\n                  Jun Liu and\n                  Wenqiang Liu and\n                  Qinghua Zheng and\n                  Wei Zhang and\n                  Lingyun Song and\n                  Siyu Yao},\n  editor       = {Jianzhong Li and\n                  Xiaoyang Sean Wang and\n                  Minos N. Garofalakis and\n                  Ian Soboroff and\n                  Torsten Suel and\n                  Min Wang},\n  title        = {Faceted Exploring for Domain Knowledge over Linked Open Data},\n  booktitle    = {Proceedings of the 23rd {ACM} International Conference on Conference\n                  on Information and Knowledge Management, {CIKM} 2014, Shanghai, China,\n                  November 3-7, 2014},\n  pages        = {2009--2011},\n  publisher    = {{ACM}},\n  year         = {2014},\n  url          = {https://doi.org/10.1145/2661829.2661832},\n  doi          = {10.1145/2661829.2661832},\n  timestamp    = {Tue, 06 Nov 2018 16:57:49 +0100},\n  biburl       = {https://dblp.org/rec/conf/cikm/WangLLZZSY14.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "conf/cikm/WangLLZZSY14",
+    "bibtex_url": "https://dblp.org/rec/conf/cikm/WangLLZZSY14.bib",
+    "doi": "10.1145/2661829.2661832",
+    "source": "dblp",
+    "error": null
+  },
+  "DFT-extractor: A System to Extract Domain-specific Faceted Taxonomies from Wikipedia": {
+    "title": "DFT-extractor: A System to Extract Domain-specific Faceted Taxonomies from Wikipedia",
+    "venue": "WWW 2013",
+    "year": "2016",
+    "bibtex": "@inproceedings{DBLP:conf/www/WeiLMZZF13,\n  author       = {Bifan Wei and\n                  Jun Liu and\n                  Jian Ma and\n                  Qinghua Zheng and\n                  Wei Zhang and\n                  Boqin Feng},\n  editor       = {Leslie Carr and\n                  Alberto H. F. Laender and\n                  Bernadette Farias L{\\'{o}}scio and\n                  Irwin King and\n                  Marcus Fontoura and\n                  Denny Vrandecic and\n                  Lora Aroyo and\n                  Jos{\\'{e}} Palazzo M. de Oliveira and\n                  Fernanda Lima and\n                  Erik Wilde},\n  title        = {DFT-extractor: a system to extract domain-specific faceted taxonomies\n                  from wikipedia},\n  booktitle    = {22nd International World Wide Web Conference, {WWW} '13, Rio de Janeiro,\n                  Brazil, May 13-17, 2013, Companion Volume},\n  pages        = {277--280},\n  publisher    = {International World Wide Web Conferences Steering Committee / {ACM}},\n  year         = {2013},\n  url          = {https://doi.org/10.1145/2487788.2487922},\n  doi          = {10.1145/2487788.2487922},\n  timestamp    = {Sun, 19 Jan 2025 13:10:04 +0100},\n  biburl       = {https://dblp.org/rec/conf/www/WeiLMZZF13.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "dblp_key": "conf/www/WeiLMZZF13",
+    "bibtex_url": "https://dblp.org/rec/conf/www/WeiLMZZF13.bib",
+    "doi": "10.1145/2487788.2487922",
+    "source": "dblp",
+    "error": null
+  }
+}
