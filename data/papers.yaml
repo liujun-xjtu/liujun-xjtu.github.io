@@ -2,7 +2,22 @@
 # 每篇格式: [title, authors, venue, year, bibtex, pub_slug, doi_url]
 
 papers:
-  - ["Spiking Neural P Systems Incorporating Winner-take-all Mechanism", "T. Bao, B. Wei, B. Li, L. Zhang, H. Peng, X. Zhang, J. Liu", "Information and Computation, 2026", "2026", "", "spiking-neural-p-systems-incorporating-winner-take-all-mechanism", ""]
+  - ["Spiking Neural P Systems Incorporating Winner-take-all Mechanism", "T. Bao, B. Wei, B. Li, L. Zhang, H. Peng, X. Zhang, J. Liu", "Information and Computation, 2026", "2026", "@article{DBLP:journals/iandc/BaoWLZPZL26,
+  author       = {Tingting Bao and
+                  Bifan Wei and
+                  Bo Li and
+                  Lingling Zhang and
+                  Hong Peng and
+                  Xiaoqing Zhang and
+                  Jun Liu},
+  title        = {Spiking neural {P} systems incorporating winner-take-all mechanism},
+  journal      = {Inf. Comput.},
+  volume       = {311},
+  pages        = {105472},
+  year         = {2026},
+  url          = {https://doi.org/10.1016/j.ic.2026.105472},
+  doi          = {10.1016/J.IC.2026.105472}
+}", "spiking-neural-p-systems-incorporating-winner-take-all-mechanism", "https://doi.org/10.1016/J.IC.2026.105472"]
   - ["Reasoning step by step via a neural-symbolic geometry problem solver", "Y. Wang, B. Wei, Y. Ma, X. Jiang, H. Ding, Z. Cai, J. Liu", "Pattern Recognition, 2026", "2026", "@article{Wang_2026, title={Reasoning step by step via a neural-symbolic geometry problem solver}, volume={171}, ISSN={0031-3203}, url={http://dx.doi.org/10.1016/j.patcog.2025.112261}, DOI={10.1016/j.patcog.2025.112261}, journal={Pattern Recognition}, publisher={Elsevier BV}, author={Wang, Yaxian and Wei, Bifan and Ma, Yinghong and Jiang, Xudong and Ding, Henghui and Cai, Zhongmin and Liu, Jun}, year={2026}, month=Mar, pages={112261} }", "reasoning-step-by-step-via-a-neural-symbolic-geometry-problem-solver", "https://doi.org/10.1016/j.patcog.2025.112261"]
   - ["GKG-LLM: A unified framework for generalized knowledge graph construction", "J. Zhang, S. Qi, Y. Dong, L. Yuan, T. Shen, W. Fu, B. Wei, H. Zhu, J. Liu", "Information Fusion, 2026", "2026", "@article{Zhang_2026, title={GKG-LLM: A unified framework for generalized knowledge graph construction}, volume={128}, ISSN={1566-2535}, url={http://dx.doi.org/10.1016/j.inffus.2025.103956}, DOI={10.1016/j.inffus.2025.103956}, journal={Information Fusion}, publisher={Elsevier BV}, author={Zhang, Jian and Qi, Shihao and Dong, Yuxuan and Yuan, Li and Shen, Tiesunlong and Fu, Weiping and Wei, Bifan and Zhu, Haiping and Liu, Jun}, year={2026}, month=Apr, pages={103956} }", "gkg-llm-a-unified-framework-for-generalized-knowledge-graph-construction", "https://doi.org/10.1016/j.inffus.2025.103956"]
   - ["Explainable Visual Question Answering: A Survey on Methods, Datasets and Evaluation", "Y. Wang, Q. Lin, J. Shi, Y. An, J. Liu, B. Wei, X. Jiang", "Information Fusion, 2026", "2026", "@article{Wang_2026, title={Explainable visual question answering: A survey on methods, datasets and evaluation}, volume={132}, ISSN={1566-2535}, url={http://dx.doi.org/10.1016/j.inffus.2026.104215}, DOI={10.1016/j.inffus.2026.104215}, journal={Information Fusion}, publisher={Elsevier BV}, author={Wang, Yaxian and Lin, Qikan and Shi, Jiangbo and An, Yisheng and Liu, Jun and Wei, Bifan and Jiang, Xudong}, year={2026}, month=Aug, pages={104215} }", "explainable-visual-question-answering-a-survey-on-methods-datasets-and-evaluation", "https://doi.org/10.1016/j.inffus.2026.104215"]

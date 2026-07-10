@@ -1410,5 +1410,16 @@
     "doi": "10.1145/2487788.2487922",
     "source": "dblp",
     "error": null
+  },
+  "Spiking Neural P Systems Incorporating Winner-take-all Mechanism": {
+    "title": "Spiking neural P systems incorporating winner-take-all mechanism",
+    "venue": "Information and Computation, 2026",
+    "year": "2026",
+    "bibtex": "@article{DBLP:journals/iandc/BaoWLZPZL26,\n  author       = {Tingting Bao and\n                  Bifan Wei and\n                  Bo Li and\n                  Lingling Zhang and\n                  Hong Peng and\n                  Xiaoqing Zhang and\n                  Jun Liu},\n  title        = {Spiking neural {P} systems incorporating winner-take-all mechanism},\n  journal      = {Inf. Comput.},\n  volume       = {311},\n  pages        = {105472},\n  year         = {2026},\n  url          = {https://doi.org/10.1016/j.ic.2026.105472},\n  doi          = {10.1016/J.IC.2026.105472}\n}",
+    "doi": "10.1016/J.IC.2026.105472",
+    "dblp_key": "journals/iandc/BaoWLZPZL26",
+    "bibtex_url": "https://dblp.org/rec/journals/iandc/BaoWLZPZL26.bib",
+    "source": "dblp",
+    "error": null
   }
 }

@@ -14,4 +14,7 @@ publication_types:
   - "article-journal"
 publication:
   name: "Information and Computation, 2026"
+hugoblox:
+  ids:
+    doi: "10.1016/J.IC.2026.105472"
 ---
