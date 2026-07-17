@@ -1443,5 +1443,16 @@
     "bibtex_url": "https://dblp.org/rec/journals/corr/abs-2602-03084.bib",
     "source": "dblp",
     "error": null
+  },
+  "Scaffolded Language Models with Language Supervision for Mixed-Autonomy: A Survey": {
+    "title": "Scaffolded Language Models with Language Supervision for Mixed-Autonomy: A Survey",
+    "venue": "SCIENCE CHINA Information Sciences, 2026",
+    "year": "2026",
+    "bibtex": "@article{Lin2026Scaffolded,\n  title={Scaffolded Language Models with Language Supervision for Mixed-Autonomy: A Survey},\n  author={Lin, Matthieu and Sheng, Jenny and Zhao, Andrew and Wang, Shenzhi and Yue, Yang and Huang, Victor Shea Jay and Liu, Huan and Liu, Jun and Huang, Gao and Liu, Yong-Jin},\n  journal={SCIENCE CHINA Information Sciences},\n  year={2026},\n  note={Accepted}\n}",
+    "doi": "",
+    "dblp_key": null,
+    "bibtex_url": null,
+    "source": "manual",
+    "error": null
   }
 }
