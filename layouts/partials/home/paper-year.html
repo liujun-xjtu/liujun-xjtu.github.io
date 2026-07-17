@@ -1,7 +1,7 @@
 {{ $y := .year }}{{ $papers := .papers }}
 {{ $journals := slice }}{{ $conferences := slice }}
 {{ range $papers }}{{ if eq (index . 3) $y }}
-  {{ $venue := index . 2 }}{{ $isJournal := or (findRE "^IEEE " $venue) (in $venue "Pattern Recognition") (in $venue "Information Fusion") (in $venue "Engineering") (in $venue "Knowledge-Based") (in $venue "IJCV") (in $venue "CVIU") (in $venue "Information Processing") (in $venue "Information and Computation") }}
+  {{ $venue := index . 2 }}{{ $isJournal := or (findRE "^IEEE " $venue) (in $venue "Pattern Recognition") (in $venue "Information Fusion") (in $venue "Engineering") (in $venue "Knowledge-Based") (in $venue "IJCV") (in $venue "CVIU") (in $venue "Information Processing") (in $venue "Information and Computation") (in $venue "SCIENCE CHINA") (in $venue "Information Sciences") }}
   {{ $entry := dict "t" (index . 0) "a" (index . 1) "v" (index . 2) "d" (index . 6) "b" (index . 4) "p" (index . 5) }}
   {{ if $isJournal }}{{ $journals = $journals | append $entry }}{{ else }}{{ $conferences = $conferences | append $entry }}{{ end }}
 {{ end }}{{ end }}
