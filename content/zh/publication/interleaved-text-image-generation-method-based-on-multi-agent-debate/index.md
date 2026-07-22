@@ -1,12 +1,12 @@
 ---
-title: "Interleaved Text-Image Generation Method Based on Multi-Agent Debate"
+title: "基于多智能体辩论的图文交织生成方法"
 authors:
-  - J. Ma
-  - H. Zhang
-  - N. Qu
-  - H. Xue
-  - X. Wang
-  - J. Liu
+  - 马杰
+  - 张瀚驰
+  - 渠宁
+  - 薛皓荃
+  - 王鑫平
+  - 刘均
 date: '2026-01-01'
 publishDate: '2026-01-01'
 publication_types:
