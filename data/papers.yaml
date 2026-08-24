@@ -2,6 +2,48 @@
 # 每篇格式: [title, authors, venue, year, bibtex, pub_slug, doi_url]
 
 papers:
+  - ["GeoChallenge-90K: A Multi-Answer Multiple-Choice Benchmark for Diagram-Grounded Geometric Reasoning", "Y. Zhang, W. Fu, Z. Yang, B. Zhao, L. Zhang, J. Zhang, Y. Fu, J. Huang, J. Liu", "EMNLP 2026", "2026", "@inproceedings{Zhang2026GeoChallenge,
+  title={GeoChallenge-90K: A Multi-Answer Multiple-Choice Benchmark for Diagram-Grounded Geometric Reasoning},
+  author={Zhang, Yushun and Fu, Weiping and Yang, Zesheng and Zhao, Bo and Zhang, Lingling and Zhang, Jian and Fu, Yumeng and Huang, Jiaxing and Liu, Jun},
+  booktitle={Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+  year={2026},
+  note={Accepted}
+}", "geochallenge-90k--a-multi-answer-multiple-choice-benchmark-for-diagram-grounded-geometric-reasoning", ""]
+  - ["Beyond the Stability-Exploration Dilemma: Environmental Regularization for LLM Policy Optimization", "X. Zhou, X. Meng, Y. He, T. Qi, S. Guan, X. Zhang, J. Zhang, X. Li, Q. Lin, J. Liu", "EMNLP 2026", "2026", "@inproceedings{Zhou2026Beyond,
+  title={Beyond the Stability-Exploration Dilemma: Environmental Regularization for LLM Policy Optimization},
+  author={Zhou, Xianlei and Meng, Xiangdi and He, Yu and Qi, Tianyu and Guan, Shuyan and Zhang, Xianli and Zhang, Jian and Li, Xin and Lin, Qika and Liu, Jun},
+  booktitle={Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+  year={2026},
+  note={Accepted}
+}", "beyond-the-stability-exploration-dilemma--environmental-regularization-for-llm-policy-optimization", ""]
+  - ["LogicGraph: Benchmarking Multi-Path Logical Reasoning via Neuro-Symbolic Generation and Verification", "Y. Wu, L. Zhang, X. Zhang, J. Chang, P. Li, X. Jiang, J. Hu, J. Liu", "EMNLP 2026", "2026", "@inproceedings{Wu2026LogicGraph,
+  title={LogicGraph: Benchmarking Multi-Path Logical Reasoning via Neuro-Symbolic Generation and Verification},
+  author={Wu, Yanrui and Zhang, Lingling and Zhang, Xinyu and Chang, Jiayu and Li, Pengyu and Jiang, Xu and Hu, Jingtao and Liu, Jun},
+  booktitle={Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+  year={2026},
+  note={Accepted}
+}", "logicgraph--benchmarking-multi-path-logical-reasoning-via-neuro-symbolic-generation-and-verification", ""]
+  - ["TIDE: Trajectory-based Diagnostic Evaluation of Test-Time Improvement in LLM Agents", "H. Yan, X. Che, F. Xu, Q. Sun, Z. Ding, K. Cheng, J. Zhang, T. Qin, J. Liu, Q. Lin", "EMNLP 2026", "2026", "@inproceedings{Yan2026TIDE,
+  title={TIDE: Trajectory-based Diagnostic Evaluation of Test-Time Improvement in LLM Agents},
+  author={Yan, Hang and Che, Xinyu and Xu, Fangzhi and Sun, Qiushi and Ding, Zichen and Cheng, Kanzhi and Zhang, Jian and Qin, Tao and Liu, Jun and Lin, Qika},
+  booktitle={Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+  year={2026},
+  note={Accepted}
+}", "tide--trajectory-based-diagnostic-evaluation-of-test-time-improvement-in-llm-agents", ""]
+  - ["From Rollouts to Recipes: Self-Contained Post-Training for LLMs", "Y. Li, L. Zhang, M. Huang, Z. Ma, J. Liu, J. Liu", "EMNLP 2026", "2026", "@inproceedings{Li2026Rollouts,
+  title={From Rollouts to Recipes: Self-Contained Post-Training for LLMs},
+  author={Li, Yifei and Zhang, Lingling and Huang, Muye and Ma, Zihan and Liu, Jiashuai and Liu, Jun},
+  booktitle={Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+  year={2026},
+  note={Accepted}
+}", "from-rollouts-to-recipes--self-contained-post-training-for-llms", ""]
+  - ["Towards Unified Neurosymbolic Reasoning on Knowledge Graphs", "Q. Lin, F. Xu, H. Lu, K. He, R. Mao, J. Liu, E. Cambria, M. Feng", "IEEE TPAMI, 2026", "2026", "@article{Lin2026Unified,
+  title={Towards Unified Neurosymbolic Reasoning on Knowledge Graphs},
+  author={Lin, Qika and Xu, Fangzhi and Lu, Hao and He, Kai and Mao, Rui and Liu, Jun and Cambria, Erik and Feng, Mengling},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2026},
+  note={Accepted}
+}", "towards-unified-neurosymbolic-reasoning-on-knowledge-graphs", ""]
   - ["What you say is what you get: Text-aligned semantic reward modeling with vision-language representations for reinforcement learning", "W. He, Y. Xiao, L. Ma, Y. An, B. Sun, Y. Wang, J. Liu", "Knowledge-Based Systems, 2026", "2026", "@article{He_2026, title={What you say is what you get: Text-aligned semantic reward modeling with vision-language representations for reinforcement learning}, volume={349}, ISSN={0950-7051}, url={http://dx.doi.org/10.1016/j.knosys.2026.116496}, DOI={10.1016/j.knosys.2026.116496}, journal={Knowledge-Based Systems}, publisher={Elsevier BV}, author={He, Wei and Xiao, Yukun and Ma, Liqian and An, Yisheng and Sun, Bo and Wang, Yaxian and Liu, Jun}, year={2026}, month=Sept, pages={116496} }", "what-you-say-is-what-you-get-text-aligned-semantic-reward-modeling-with-vision-language-representations-for-r", "https://doi.org/10.1016/j.knosys.2026.116496"]
   - ["AERO: Autonomous Evolutionary Reasoning Optimization via Endogenous Dual-Loop Feedback", "Z. Gao, J. Ma, X. Li, P. Li, N. Qu, Y. Wu, H. Liu, J. Liu", "COLM 2026", "2026", "@article{DBLP:journals/corr/abs-2602-03084, author       = {Zhitao Gao and Jie Ma and Xuhong Li and Pengyu Li and Ning Qu and Yaqiang Wu and Hui Liu and Jun Liu}, title        = {{AERO:} Autonomous Evolutionary Reasoning Optimization via Endogenous Dual-Loop Feedback}, journal      = {CoRR}, volume       = {abs/2602.03084}, year         = {2026}, url          = {https://doi.org/10.48550/arXiv.2602.03084}, doi          = {10.48550/ARXIV.2602.03084}, eprinttype   = {arXiv}, eprint       = {2602.03084} }", "aero-autonomous-evolutionary-reasoning-optimization-via-endogenous-dual-loop-feedback", "https://doi.org/10.48550/ARXIV.2602.03084"]
   - ["Scaffolded Language Models with Language Supervision for Mixed-Autonomy: A Survey", "M. Lin, J. Sheng, A. Zhao, S. Wang, Y. Yue, V. S. J. Huang, H. Liu, J. Liu, G. Huang, Y.-J. Liu", "SCIENCE CHINA Information Sciences, 2026", "2026", "@article{Lin2026Scaffolded, title={Scaffolded Language Models with Language Supervision for Mixed-Autonomy: A Survey}, author={Lin, Matthieu and Sheng, Jenny and Zhao, Andrew and Wang, Shenzhi and Yue, Yang and Huang, Victor Shea Jay and Liu, Huan and Liu, Jun and Huang, Gao and Liu, Yong-Jin}, journal={SCIENCE CHINA Information Sciences}, year={2026}, note={Accepted} }", "scaffolded-language-models-with-language-supervision-for-mixed-autonomy-a-survey", ""]

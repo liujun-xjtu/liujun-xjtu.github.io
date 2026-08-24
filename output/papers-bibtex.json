@@ -1463,5 +1463,59 @@
     "doi": "10.7544/issn1000-1239.202660338",
     "source": "manual",
     "error": null
+  },
+  "Towards Unified Neurosymbolic Reasoning on Knowledge Graphs": {
+    "title": "Towards Unified Neurosymbolic Reasoning on Knowledge Graphs",
+    "venue": "IEEE TPAMI, 2026",
+    "year": "2026",
+    "bibtex": "@article{Lin2026Unified,\n  title={Towards Unified Neurosymbolic Reasoning on Knowledge Graphs},\n  author={Lin, Qika and Xu, Fangzhi and Lu, Hao and He, Kai and Mao, Rui and Liu, Jun and Cambria, Erik and Feng, Mengling},\n  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},\n  year={2026},\n  note={Accepted}\n}",
+    "doi": "",
+    "source": "manual",
+    "error": null
+  },
+  "From Rollouts to Recipes: Self-Contained Post-Training for LLMs": {
+    "title": "From Rollouts to Recipes: Self-Contained Post-Training for LLMs",
+    "venue": "EMNLP 2026",
+    "year": "2026",
+    "bibtex": "@inproceedings{Li2026Rollouts,\n  title={From Rollouts to Recipes: Self-Contained Post-Training for LLMs},\n  author={Li, Yifei and Zhang, Lingling and Huang, Muye and Ma, Zihan and Liu, Jiashuai and Liu, Jun},\n  booktitle={Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP)},\n  year={2026},\n  note={Accepted}\n}",
+    "doi": "",
+    "source": "manual",
+    "error": null
+  },
+  "TIDE: Trajectory-based Diagnostic Evaluation of Test-Time Improvement in LLM Agents": {
+    "title": "TIDE: Trajectory-based Diagnostic Evaluation of Test-Time Improvement in LLM Agents",
+    "venue": "EMNLP 2026",
+    "year": "2026",
+    "bibtex": "@inproceedings{Yan2026TIDE,\n  title={TIDE: Trajectory-based Diagnostic Evaluation of Test-Time Improvement in LLM Agents},\n  author={Yan, Hang and Che, Xinyu and Xu, Fangzhi and Sun, Qiushi and Ding, Zichen and Cheng, Kanzhi and Zhang, Jian and Qin, Tao and Liu, Jun and Lin, Qika},\n  booktitle={Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP)},\n  year={2026},\n  note={Accepted}\n}",
+    "doi": "",
+    "source": "manual",
+    "error": null
+  },
+  "LogicGraph: Benchmarking Multi-Path Logical Reasoning via Neuro-Symbolic Generation and Verification": {
+    "title": "LogicGraph: Benchmarking Multi-Path Logical Reasoning via Neuro-Symbolic Generation and Verification",
+    "venue": "EMNLP 2026",
+    "year": "2026",
+    "bibtex": "@inproceedings{Wu2026LogicGraph,\n  title={LogicGraph: Benchmarking Multi-Path Logical Reasoning via Neuro-Symbolic Generation and Verification},\n  author={Wu, Yanrui and Zhang, Lingling and Zhang, Xinyu and Chang, Jiayu and Li, Pengyu and Jiang, Xu and Hu, Jingtao and Liu, Jun},\n  booktitle={Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP)},\n  year={2026},\n  note={Accepted}\n}",
+    "doi": "",
+    "source": "manual",
+    "error": null
+  },
+  "Beyond the Stability-Exploration Dilemma: Environmental Regularization for LLM Policy Optimization": {
+    "title": "Beyond the Stability-Exploration Dilemma: Environmental Regularization for LLM Policy Optimization",
+    "venue": "EMNLP 2026",
+    "year": "2026",
+    "bibtex": "@inproceedings{Zhou2026Beyond,\n  title={Beyond the Stability-Exploration Dilemma: Environmental Regularization for LLM Policy Optimization},\n  author={Zhou, Xianlei and Meng, Xiangdi and He, Yu and Qi, Tianyu and Guan, Shuyan and Zhang, Xianli and Zhang, Jian and Li, Xin and Lin, Qika and Liu, Jun},\n  booktitle={Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP)},\n  year={2026},\n  note={Accepted}\n}",
+    "doi": "",
+    "source": "manual",
+    "error": null
+  },
+  "GeoChallenge-90K: A Multi-Answer Multiple-Choice Benchmark for Diagram-Grounded Geometric Reasoning": {
+    "title": "GeoChallenge-90K: A Multi-Answer Multiple-Choice Benchmark for Diagram-Grounded Geometric Reasoning",
+    "venue": "EMNLP 2026",
+    "year": "2026",
+    "bibtex": "@inproceedings{Zhang2026GeoChallenge,\n  title={GeoChallenge-90K: A Multi-Answer Multiple-Choice Benchmark for Diagram-Grounded Geometric Reasoning},\n  author={Zhang, Yushun and Fu, Weiping and Yang, Zesheng and Zhao, Bo and Zhang, Lingling and Zhang, Jian and Fu, Yumeng and Huang, Jiaxing and Liu, Jun},\n  booktitle={Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP)},\n  year={2026},\n  note={Accepted}\n}",
+    "doi": "",
+    "source": "manual",
+    "error": null
   }
 }
