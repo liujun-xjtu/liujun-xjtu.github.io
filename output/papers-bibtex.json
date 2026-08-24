@@ -192,7 +192,11 @@
     "title": "Hierarchy-Based Diagram-Sentence Matching on Dual-Modal Graphs",
     "venue": "Pattern Recognition, 2025",
     "year": "2025",
-    "error": "ALL_FAILED"
+    "bibtex": "@article{DBLP:journals/pr/WuZLRHWW25,\n  author       = {Wenjun Wu and\n                  Lingling Zhang and\n                  Jun Liu and\n                  Ming Ren and\n                  Xin Hu and\n                  Jiaxin Wang and\n                  Qianying Wang},\n  title        = {Hierarchy-Based Diagram-Sentence Matching on Dual-Modal Graphs},\n  journal      = {Pattern Recognit.},\n  volume       = {165},\n  pages        = {111556},\n  year         = {2025},\n  url          = {https://doi.org/10.1016/j.patcog.2025.111556},\n  doi          = {10.1016/J.PATCOG.2025.111556},\n  timestamp    = {Wed, 12 Nov 2025 14:11:47 +0100},\n  biburl       = {https://dblp.org/rec/journals/pr/WuZLRHWW25.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}\n\n",
+    "doi": "10.1016/J.PATCOG.2025.111556",
+    "dblp_key": "journals/pr/WuZLRHWW25",
+    "source": "dblp",
+    "error": null
   },
   "A Unified Optimal Transport Framework for Cross-Modal Retrieval with Noisy Labels": {
     "title": "A Unified Optimal Transport Framework for Cross-Modal Retrieval with Noisy Labels",
@@ -240,10 +244,9 @@
     "title": "CoFFT: Chain of Foresight-Focus Thought for Visual Language Models",
     "venue": "NeurIPS 2025",
     "year": "2025",
-    "bibtex": null,
-    "dblp_key": "journals/corr/abs-2509-22010",
-    "bibtex_url": "https://dblp.org/rec/journals/corr/abs-2509-22010.bib",
+    "bibtex": "@inproceedings{DBLP:conf/nips/ZhangDZJDFLS25,\n  author       = {Xinyu Zhang and\n                  Yuxuan Dong and\n                  Lingling Zhang and\n                  Chengyou Jia and\n                  Zhuohang Dang and\n                  Basura Fernando and\n                  Jun Liu and\n                  Mike Zheng Shou},\n  editor       = {Danielle Belgrave and\n                  Cheng Zhang and\n                  Laura N. Montoya and\n                  Hsuan{-}Tien Lin and\n                  Razvan Pascanu and\n                  Piotr Koniusz and\n                  Marzyeh Ghassemi and\n                  Nancy Chen and\n                  Iv{\\'{a}}n Vladimir Meza Ru{\\'{\\i}}z and\n                  Arturo Loaiza{-}Bonilla},\n  title        = {CoFFT: Chain of Foresight-Focus Thought for Visual Language Models},\n  booktitle    = {Advances in Neural Information Processing Systems 38: Annual Conference\n                  on Neural Information Processing Systems 2025, NeurIPS 2025, San Diego,\n                  CA, USA, December 2-7, 2025 / Mexico City, Mexico, November 30 - December\n                  5, 2025},\n  year         = {2025},\n  url          = {http://papers.nips.cc/paper\\_files/paper/2025/hash/98b89a6e3e53eb97960fbd8d3bff37be-Abstract-Conference.html},\n  timestamp    = {Fri, 10 Jul 2026 07:39:50 +0200},\n  biburl       = {https://dblp.org/rec/conf/nips/ZhangDZJDFLS25.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}\n\n",
     "doi": "10.48550/ARXIV.2509.22010",
+    "dblp_key": "conf/nips/ZhangDZJDFLS25",
     "source": "dblp",
     "error": null
   },
@@ -667,7 +670,11 @@
     "title": "Mixed Geometry Message and Trainable Convolutional Attention Network for KG Completion",
     "venue": "AAAI 2024",
     "year": "2024",
-    "error": "ALL_FAILED"
+    "bibtex": "@inproceedings{DBLP:conf/aaai/ShangZLW24a,\n  author       = {Bin Shang and\n                  Yinliang Zhao and\n                  Jun Liu and\n                  Di Wang},\n  editor       = {Michael J. Wooldridge and\n                  Jennifer G. Dy and\n                  Sriraam Natarajan},\n  title        = {Mixed Geometry Message and Trainable Convolutional Attention Network\n                  for Knowledge Graph Completion},\n  booktitle    = {Thirty-Eighth {AAAI} Conference on Artificial Intelligence, {AAAI}\n                  2024, Thirty-Sixth Conference on Innovative Applications of Artificial\n                  Intelligence, {IAAI} 2024, Fourteenth Symposium on Educational Advances\n                  in Artificial Intelligence, {EAAI} 2024, February 20-27, 2024, Vancouver,\n                  Canada},\n  pages        = {8966--8974},\n  publisher    = {{AAAI} Press},\n  year         = {2024},\n  url          = {https://doi.org/10.1609/aaai.v38i8.28745},\n  doi          = {10.1609/AAAI.V38I8.28745},\n  timestamp    = {Tue, 07 Jul 2026 13:39:26 +0200},\n  biburl       = {https://dblp.org/rec/conf/aaai/ShangZLW24a.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}\n\n",
+    "doi": "10.1609/AAAI.V38I8.28745",
+    "dblp_key": "conf/aaai/ShangZLW24a",
+    "source": "dblp",
+    "error": null
   },
   "LAFA: Multimodal Knowledge Graph Completion with Link Aware Fusion and Aggregation": {
     "title": "LAFA: Multimodal Knowledge Graph Completion with Link Aware Fusion and Aggregation",
@@ -877,7 +884,11 @@
     "title": "Fusing Topology Contexts and Logical Rules in Language Models for KG Completion",
     "venue": "Information Fusion, 2022",
     "year": "2022",
-    "error": "ALL_FAILED"
+    "bibtex": "@article{DBLP:journals/inffus/LinMLXC23,\n  author       = {Qika Lin and\n                  Rui Mao and\n                  Jun Liu and\n                  Fangzhi Xu and\n                  Erik Cambria},\n  title        = {Fusing topology contexts and logical rules in language models for\n                  knowledge graph completion},\n  journal      = {Inf. Fusion},\n  volume       = {90},\n  pages        = {253--264},\n  year         = {2023},\n  url          = {https://doi.org/10.1016/j.inffus.2022.09.020},\n  doi          = {10.1016/J.INFFUS.2022.09.020},\n  timestamp    = {Mon, 20 Feb 2023 08:37:18 +0100},\n  biburl       = {https://dblp.org/rec/journals/inffus/LinMLXC23.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}\n\n",
+    "doi": "10.1016/J.INFFUS.2022.09.020",
+    "dblp_key": "journals/inffus/LinMLXC23",
+    "source": "dblp",
+    "error": null
   },
   "Du-Bus: A Realtime Bus Waiting Time Estimation System Based On Multi-source Data": {
     "title": "Du-Bus: A Realtime Bus Waiting Time Estimation System Based On Multi-source Data",
@@ -956,7 +967,11 @@
     "title": "Computer Science Diagram Understanding with Topology Parsing",
     "venue": "ACM TKDD, 2022",
     "year": "2022",
-    "error": "ALL_FAILED"
+    "bibtex": "@article{DBLP:journals/tkdd/WangZLYHQL22,\n  author       = {Shaowei Wang and\n                  Lingling Zhang and\n                  Xuan Luo and\n                  Yi Yang and\n                  Xin Hu and\n                  Tao Qin and\n                  Jun Liu},\n  title        = {Computer Science Diagram Understanding with Topology Parsing},\n  journal      = {{ACM} Trans. Knowl. Discov. Data},\n  volume       = {16},\n  number       = {6},\n  pages        = {114:1--114:20},\n  year         = {2022},\n  url          = {https://doi.org/10.1145/3522689},\n  doi          = {10.1145/3522689},\n  timestamp    = {Tue, 08 Oct 2024 17:17:08 +0200},\n  biburl       = {https://dblp.org/rec/journals/tkdd/WangZLYHQL22.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}\n\n",
+    "doi": "10.1145/3522689",
+    "dblp_key": "journals/tkdd/WangZLYHQL22",
+    "source": "dblp",
+    "error": null
   },
   "Inductive Relation Prediction with Logical Reasoning Using Contrastive Representations": {
     "title": "Inductive Relation Prediction with Logical Reasoning Using Contrastive Representations",
@@ -1014,10 +1029,9 @@
     "title": "Incorporating Context Graph with Logical Reasoning for Inductive Relation Prediction",
     "venue": "SIGIR 2022",
     "year": "2022",
-    "bibtex": null,
-    "dblp_key": "conf/sigir/LinLXPZZZ22",
-    "bibtex_url": "https://dblp.org/rec/conf/sigir/LinLXPZZZ22.bib",
+    "bibtex": "@inproceedings{DBLP:conf/sigir/LinLXPZZZ22,\n  author       = {Qika Lin and\n                  Jun Liu and\n                  Fangzhi Xu and\n                  Yudai Pan and\n                  Yifan Zhu and\n                  Lingling Zhang and\n                  Tianzhe Zhao},\n  editor       = {Enrique Amig{\\'{o}} and\n                  Pablo Castells and\n                  Julio Gonzalo and\n                  Ben Carterette and\n                  J. Shane Culpepper and\n                  Gabriella Kazai},\n  title        = {Incorporating Context Graph with Logical Reasoning for Inductive Relation\n                  Prediction},\n  booktitle    = {{SIGIR} '22: The 45th International {ACM} {SIGIR} Conference on Research\n                  and Development in Information Retrieval, Madrid, Spain, July 11 -\n                  15, 2022},\n  pages        = {893--903},\n  publisher    = {{ACM}},\n  year         = {2022},\n  url          = {https://doi.org/10.1145/3477495.3531996},\n  doi          = {10.1145/3477495.3531996},\n  timestamp    = {Thu, 12 Mar 2026 08:05:43 +0100},\n  biburl       = {https://dblp.org/rec/conf/sigir/LinLXPZZZ22.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}\n\n",
     "doi": "10.1145/3477495.3531996",
+    "dblp_key": "conf/sigir/LinLXPZZZ22",
     "source": "dblp",
     "error": null
   },
@@ -1179,7 +1193,11 @@
     "title": "Knowledge Forest: A Novel Model to Organize Knowledge Fragments",
     "venue": "Science China Information Sciences, 2019",
     "year": "2019",
-    "error": "ALL_FAILED"
+    "bibtex": "@article{DBLP:journals/chinaf/Zheng0ZGWW21,\n  author       = {Qinghua Zheng and\n                  Jun Liu and\n                  Hongwei Zeng and\n                  Zhaotong Guo and\n                  Bei Wu and\n                  Bifan Wei},\n  title        = {Knowledge forest: a novel model to organize knowledge fragments},\n  journal      = {Sci. China Inf. Sci.},\n  volume       = {64},\n  number       = {7},\n  year         = {2021},\n  url          = {https://doi.org/10.1007/s11432-018-9940-0},\n  doi          = {10.1007/S11432-018-9940-0},\n  timestamp    = {Tue, 25 Nov 2025 10:56:15 +0100},\n  biburl       = {https://dblp.org/rec/journals/chinaf/Zheng0ZGWW21.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}\n\n",
+    "doi": "10.1007/S11432-018-9940-0",
+    "dblp_key": "journals/chinaf/Zheng0ZGWW21",
+    "source": "dblp",
+    "error": null
   },
   "Deep Top-k Ranking for Image-Sentence Matching": {
     "title": "Deep Top-k Ranking for Image-Sentence Matching",
@@ -1302,7 +1320,11 @@
     "title": "Internet Traffic Classification Based on Expanding Vector of Flow",
     "venue": "Computer Networks, 2017",
     "year": "2017",
-    "error": "ALL_FAILED"
+    "bibtex": "@article{DBLP:journals/cn/DingLQL17,\n  author       = {Lei Ding and\n                  Jun Liu and\n                  Tao Qin and\n                  Haifei Li},\n  title        = {Internet traffic classification based on expanding vector of flow},\n  journal      = {Comput. Networks},\n  volume       = {129},\n  pages        = {178--192},\n  year         = {2017},\n  url          = {https://doi.org/10.1016/j.comnet.2017.09.015},\n  doi          = {10.1016/J.COMNET.2017.09.015},\n  timestamp    = {Mon, 29 Jan 2024 17:56:08 +0100},\n  biburl       = {https://dblp.org/rec/journals/cn/DingLQL17.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}\n\n",
+    "doi": "10.1016/J.COMNET.2017.09.015",
+    "dblp_key": "journals/cn/DingLQL17",
+    "source": "dblp",
+    "error": null
   },
   "DAPASA: Detecting Android Piggybacked Apps through Sensitive Subgraph Analysis": {
     "title": "DAPASA: Detecting Android Piggybacked Apps through Sensitive Subgraph Analysis",
