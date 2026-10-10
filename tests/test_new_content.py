@@ -7,6 +7,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 PAPER_TITLE = "从大模型到教学智能体：能力失配与技术展望"
 PAPER_SLUG = "从大模型到教学智能体能力失配与技术展望"
+BOOK_TITLE = "语言模型"
+BOOK_SLUG = "语言模型"
 
 
 class NewContentTest(unittest.TestCase):
@@ -19,6 +21,7 @@ class NewContentTest(unittest.TestCase):
             check=True,
         )
         cls.zh_research = (Path(cls._tmp.name) / "zh" / "research" / "index.html").read_text(encoding="utf-8")
+        cls.zh_home = (Path(cls._tmp.name) / "zh" / "index.html").read_text(encoding="utf-8")
         cls.en_home = (Path(cls._tmp.name) / "en" / "index.html").read_text(encoding="utf-8")
 
     @classmethod
@@ -47,6 +50,26 @@ class NewContentTest(unittest.TestCase):
         self.assertIn("机器记忆持续学习", self.zh_research)
         self.assertIn("Machine Memory Intelligence, NSFC Excellent Research Group Project", self.en_home)
         self.assertIn("Continual Learning for Machine Memory", self.en_home)
+
+    def test_book_is_rendered_in_book_section(self):
+        self.assertIn(BOOK_TITLE, self.zh_research)
+        self.assertIn("刘均, 张玲玲, 魏笔凡", self.zh_research)
+        self.assertIn("高教出版社, 2026", self.zh_research)
+        title_at = self.zh_research.index(BOOK_TITLE)
+        separator_at = self.zh_research.rfind("pub-sep-", 0, title_at)
+        self.assertEqual("b", self.zh_research[separator_at + len("pub-sep-")])
+
+    def test_book_publication_pages_and_bibtex_exist(self):
+        for language in ("en", "zh"):
+            publication = ROOT / "content" / language / "publication" / BOOK_SLUG
+            self.assertTrue((publication / "index.md").is_file())
+            index = (publication / "index.md").read_text(encoding="utf-8")
+            self.assertIn(BOOK_TITLE, index)
+            self.assertIn('  - "book"', index)
+            self.assertTrue((publication / "cite.bib").is_file())
+
+    def test_profile_reports_three_monographs(self):
+        self.assertIn("出版学术专著3部", self.zh_home)
 
 
 if __name__ == "__main__":

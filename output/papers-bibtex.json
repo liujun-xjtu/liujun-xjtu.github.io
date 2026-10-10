@@ -1,4 +1,14 @@
 {
+  "语言模型": {
+    "title": "语言模型",
+    "venue": "高教出版社, 2026",
+    "year": "2026",
+    "bibtex": "@book{Liu2026LanguageModels, title={语言模型}, author={刘均 and 张玲玲 and 魏笔凡}, publisher={高教出版社}, year={2026} }",
+    "doi": "",
+    "pdf_url": "",
+    "source": "manual",
+    "error": null
+  },
   "从大模型到教学智能体：能力失配与技术展望": {
     "title": "从大模型到教学智能体：能力失配与技术展望",
     "venue": "教育智能化前沿, 2026, 39(02):21-31",

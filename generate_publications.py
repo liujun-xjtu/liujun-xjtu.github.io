@@ -39,6 +39,8 @@ def parse_authors(author_str):
 
 def get_publication_type(venue):
     """Determine publication_type for Hugo Blox v2."""
+    if '出版社' in venue or 'press' in venue.lower():
+        return ['book']
     conference_keywords = [
         'AAAI', 'ACL', 'CVPR', 'NeurIPS', 'ICCV', 'EMNLP', 'SIGIR',
         'KDD', 'WWW', 'IJCAI', 'ACM MM', 'CIKM', 'COLING', 'NAACL',
