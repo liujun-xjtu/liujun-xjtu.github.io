@@ -14,7 +14,7 @@ publishDate: '2026-01-01'
 publication_types:
   - "paper-conference"
 publication:
-  name: "COLM 2026"
+  name: "CoLM 2026"
 hugoblox:
   ids:
     doi: "10.48550/ARXIV.2602.03084"

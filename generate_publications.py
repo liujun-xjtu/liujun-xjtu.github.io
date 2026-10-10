@@ -44,7 +44,7 @@ def get_publication_type(venue):
         'KDD', 'WWW', 'IJCAI', 'ACM MM', 'CIKM', 'COLING', 'NAACL',
         'ECML', 'APWeb', 'WSDM', 'ICSE', 'ICDE', 'ISWC', 'ISSRE',
         'ICBK', 'CCKS', 'NASAC',
-        'Findings',
+        'COLM', 'Findings',
     ]
     for kw in conference_keywords:
         if kw.lower() in venue.lower():
