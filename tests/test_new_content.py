@@ -9,6 +9,8 @@ PAPER_TITLE = "从大模型到教学智能体：能力失配与技术展望"
 PAPER_SLUG = "从大模型到教学智能体能力失配与技术展望"
 BOOK_TITLE = "语言模型"
 BOOK_SLUG = "语言模型"
+MODERN_KE_TITLE = "知识工程现代方法"
+MODERN_KE_SLUG = "知识工程现代方法"
 
 
 class NewContentTest(unittest.TestCase):
@@ -68,8 +70,25 @@ class NewContentTest(unittest.TestCase):
             self.assertIn('  - "book"', index)
             self.assertTrue((publication / "cite.bib").is_file())
 
-    def test_profile_reports_three_monographs(self):
-        self.assertIn("出版学术专著3部", self.zh_home)
+    def test_modern_knowledge_engineering_book_is_rendered(self):
+        self.assertIn(MODERN_KE_TITLE, self.zh_research)
+        self.assertIn("郑庆华, 师斌, 刘均", self.zh_research)
+        self.assertIn("高教出版社, 2025", self.zh_research)
+        title_at = self.zh_research.index(MODERN_KE_TITLE)
+        separator_at = self.zh_research.rfind("pub-sep-", 0, title_at)
+        self.assertEqual("b", self.zh_research[separator_at + len("pub-sep-")])
+
+    def test_modern_knowledge_engineering_publication_pages_exist(self):
+        for language in ("en", "zh"):
+            publication = ROOT / "content" / language / "publication" / MODERN_KE_SLUG
+            self.assertTrue((publication / "index.md").is_file())
+            index = (publication / "index.md").read_text(encoding="utf-8")
+            self.assertIn(MODERN_KE_TITLE, index)
+            self.assertIn('  - "book"', index)
+            self.assertTrue((publication / "cite.bib").is_file())
+
+    def test_profile_reports_four_monographs(self):
+        self.assertIn("出版学术专著4部", self.zh_home)
 
 
 if __name__ == "__main__":
