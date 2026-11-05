@@ -102,7 +102,7 @@ hugoblox:
 
   analytics:
     google:
-      measurement_id: ""
+      measurement_id: "G-BTEWRSVTRR"
     google_tag_manager:
       container_id: ""
     plausible:
