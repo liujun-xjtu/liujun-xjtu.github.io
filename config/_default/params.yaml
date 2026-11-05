@@ -42,7 +42,6 @@ hugoblox:
     sticky: true
     align: center
     search: false
-    theme_toggle: true
     theme_picker: false
     language_switcher: false
     cta:
