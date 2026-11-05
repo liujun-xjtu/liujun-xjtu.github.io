@@ -6,9 +6,6 @@ main:
   - name: 科研情况
     url: /zh/research/
     weight: 20
-  - name: 讲授课程
-    url: /zh/teaching/
-    weight: 30
   - name: 研究生培养
     url: /zh/students/
     weight: 35
