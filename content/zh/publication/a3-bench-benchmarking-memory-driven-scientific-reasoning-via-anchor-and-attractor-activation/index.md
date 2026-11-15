@@ -1,16 +1,16 @@
 ---
 title: "A³-Bench: Benchmarking Memory-Driven Scientific Reasoning via Anchor and Attractor Activation"
 authors:
-  - Jian Zhang
-  - Yu He
-  - Zhiyuan Wang
-  - Zhangqi Wang
-  - Kai He
-  - Fangzhi Xu
-  - Qika Lin
-  - Qiannan Zhu
-  - Jun Liu
-  - Hua Huang
+  - J. Zhang
+  - Y. He
+  - Z. Wang
+  - Z. Wang
+  - K. He
+  - F. Xu
+  - Q. Lin
+  - Q. Zhu
+  - J. Liu
+  - H. Huang
 date: '2027-01-01'
 publishDate: '2026-11-15'
 publication_types:
