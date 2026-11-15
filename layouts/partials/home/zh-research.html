@@ -53,7 +53,7 @@ details.pf[open] summary{border-bottom:1px solid #e5e7eb}
 </style>
 
 {{ $papers := hugo.Data.papers.papers }}
-{{ $showYears := slice "2026" "2025" }}
+{{ $showYears := slice "2027" "2026" "2025" }}
 {{ $foldYears := slice "2024" "2023" "2022" "2021" "2020" "2019" "2018" "2017" "2016" }}
 
 {{ range $showYears }}{{ partial "home/paper-year.html" (dict "year" . "papers" $papers) }}{{ end }}

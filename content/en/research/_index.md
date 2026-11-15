@@ -12,7 +12,7 @@ sections:
         Full list: <a href="https://scholar.google.com/" target="_blank" style="color:#2563eb;">Google Scholar</a> · <a href="https://dblp.org/" target="_blank" style="color:#2563eb;">DBLP</a>
         </div>
 
-        See <a href="/zh/research/" style="color:#2563eb;">Chinese research page</a> for the complete publication list with 100+ papers organized by year (2026–2009).
+        See <a href="/zh/research/" style="color:#2563eb;">Chinese research page</a> for the complete publication list with 100+ papers organized by year (2027–2009).
     design:
       columns: '1'
 ---
