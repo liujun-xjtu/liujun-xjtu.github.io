@@ -72,3 +72,6 @@ npm-debug.log*
 # Personal Claude Code settings
 .claude/settings.local.json
 __pycache__/
+
+# Local personal paper archive (PDFs, BibTeX export, and collection logs)
+mypapers/
